@@ -51,7 +51,7 @@
             <router-link @click.native="changeGame(game)" tag="div" :to="{ name: 'Id', params: { id: game.id } }"
               class="card" title="Перейти к игре" :style="{
                 'background-image':
-                  `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
+                  `linear-gradient(180deg,rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
                   'url(' +
                   game.thumbnail +
                   ')',
@@ -101,6 +101,7 @@ export default {
       publicPath: process.env.BASE_URL,
       game: "",
       wishlistIds: [],
+      gameId: null,
       playerVars: {
         controls: 1
       }
@@ -110,7 +111,6 @@ export default {
     putLike: function (event, gameId) {
       this.gameId = gameId;
       this.liked = !this.liked;
-
       if (this.liked) {
         navigator.vibrate(100);
       }
