@@ -297,12 +297,8 @@ a.back-home:hover {
   color: grey;
   font-size: 14px;
   font-weight: 400;
-  opacity: 1;
+  opacity: 0.5;
 }
-
-/* .vs-input-content:hover label {
-  color: white;
-} */
 
 .select-genre-container {
   display: flex;
@@ -464,120 +460,82 @@ a.back-home:hover {
   justify-content: space-between;
 }
 
-/* .toggle-search {
-  width: 24px;
-  height: 24px;
-  background: transparent;
-  border: none;
+/* Search Button */
+.ssearch-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 46px;
+  height: 46px;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.5;
+}
+
+.ssearch-button::before {
+  content: "";
+  position: absolute;
+  top: 32px;
+  left: 14px;
+  width: 0;
+  height: 2px;
+  background-color: grey;
+  transform: rotate(-45deg);
+  transform-origin: left bottom;
+}
+
+.ssearch-button::after {
+  content: "";
+  position: absolute;
+  bottom: 12px;
+  right: 13px;
+  width: 9px;
+  height: 2px;
+  background-color: grey;
+  transform: rotate(45deg);
+  transform-origin: right bottom;
+}
+
+.ssearch-icon {
+  position: absolute;
+  display: block;
+  top: 13px;
+  left: 13px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+}
+
+.ssearch-button.active::before,
+.ssearch-button.active::after {
+  width: 28px;
+}
+
+.ssearch-button.active .ssearch-icon {
+  width: 0;
+  height: 0;
+  border-color: transparent;
+}
+
+.ssearch-button::before,
+.ssearch-button::after,
+.ssearch-button .ssearch-icon {
+  transition: all 0.3s ease-in-out;
+}
+
+.ssearch-button.active:hover {
   cursor: pointer;
-  background-image: url("/search.svg");
-  background-size: 30px;
-  background-repeat: no-repeat;
-  background-position: center;
 }
-
-.toggle-search:focus {
-  outline: none;
-}
-
-.toggle-search.switched {
-  background-image: url("/close.svg");
-  background-size: 30px;
-  background-repeat: no-repeat;
-  background-position: center;
-} */
 
 .vs-input-content,
 .container-input {
   position: relative;
 }
 
-/* .search-close {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 39px;
-  height: 39px;
-  border: none;
-  background: url("/close.svg") no-repeat center;
-  background-size: 24px;
-}
-
-.search-close.hidden {
-  display: none;
-}
-
-.search-close.show {
-  display: block;
-} */
-
 .container-input {
   position: relative;
-}
-
-.search-icon {
-  position: absolute;
-  top: 20px;
-  right: 0;
-  transform: translate(-50%, -50%);
-  width: 20px;
-  height: 20px;
-  border-radius: 100%;
-  background: grey;
-  opacity: 0.3;
-  pointer-events: none;
-}
-
-.search-icon::before,
-.search-icon::after {
-  content: "";
-  position: absolute;
-  display: block;
-}
-
-.search-icon::before {
-  width: 14px;
-  height: 14px;
-  background: #000;
-  border-radius: 10px;
-  margin: 3px;
-  transform: rotate(45deg);
-  transition: all 0.1s ease-in;
-}
-
-.search-icon::after {
-  width: 3px;
-  height: 9px;
-  background: grey;
-  border-radius: 4px;
-  margin: 15px 0 0 18px;
-  transform: rotate(-45deg);
-  transition: all 0.2s ease-in;
-}
-
-.search-icon.active {
-  cursor: pointer;
-  pointer-events: all;
-  transition: all 0.5s;
-}
-
-.search-icon.active:before {
-  background: #000;
-  width: 3px;
-  height: 14px;
-  margin: 3px 0 0 9px;
-}
-
-.search-icon.active:after {
-  width: 3px;
-  height: 14px;
-  background: #000;
-  margin: 3px 0 0 9px;
-}
-
-.search-icon.active:hover {
-  background: #89253e;
-  transition: all 0.5s;
 }
 
 .wrapper {
@@ -1849,5 +1807,4 @@ p.game-tag {
   .card {
     height: 550px;
   }
-}
-</style>
+}</style>

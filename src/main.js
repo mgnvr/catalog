@@ -8,7 +8,7 @@ import store from "./store";
 import BackToTop from "vue-backtotop";
 import vsSelect from "vuesax";
 import "vuesax/dist/vuesax.css";
-import VueYoutube from 'vue-youtube';
+import VueYoutube from "vue-youtube";
 
 import App from "./App.vue";
 

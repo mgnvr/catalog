@@ -56,12 +56,17 @@
             </vs-checkbox>
           </div>
         </div>
+
         <div :class="{ 'container-input-only': selectedPlatform == 'мои' }" class="container-input show"
           ref="containerInput">
           <vs-input placeholder="Поиск игры..." type="text" v-model="search" class="search-input" autocomplete="off"
             @input="closeSearchGame" v-on:keyup.esc="clearSearch">
           </vs-input>
-          <span class="search-icon" ref="closeSearch" @click="clearSearch"></span>
+          <div class="ssearch-button" ref="closeSearch" @click="clearSearch">
+            <div class="ssearch-icon">
+            </div>
+          </div>
+          <!-- <span class="search-icon" ref="closeSearch" @click="clearSearch"></span> -->
         </div>
       </div>
     </div>

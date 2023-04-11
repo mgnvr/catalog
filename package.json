@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": false,
   "scripts": {
-    "serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
+    "serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve --ignore client",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build --ignore client",
     "production": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve --mode production",
     "lint": "vue-cli-service lint",
     "deploy": "npm run build && now && now alias"
