@@ -62,11 +62,10 @@
           <vs-input placeholder="Поиск игры..." type="text" v-model="search" class="search-input" autocomplete="off"
             @input="closeSearchGame" v-on:keyup.esc="clearSearch">
           </vs-input>
-          <div class="ssearch-button" ref="closeSearch" @click="clearSearch">
-            <div class="ssearch-icon">
+          <div class="search-button" ref="closeSearch" @click="clearSearch">
+            <div class="search-icon">
             </div>
           </div>
-          <!-- <span class="search-icon" ref="closeSearch" @click="clearSearch"></span> -->
         </div>
       </div>
     </div>

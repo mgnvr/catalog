@@ -44,6 +44,7 @@ body {
   background: #0e0e30;
   background: #111136;
   box-sizing: border-box;
+  overflow-y: scroll;
 }
 
 #app {
@@ -303,8 +304,12 @@ a.back-home:hover {
 .select-genre-container {
   display: flex;
   flex-wrap: nowrap;
-  gap: 16px;
+  /* gap: 16px; */
   width: 100%;
+}
+
+.select-genre-container .vs-select-content:not(:last-child) {
+  margin-right: 16px;
 }
 
 .vs-select__label--label {
@@ -405,6 +410,7 @@ a.back-home:hover {
 
 .container-input {
   position: relative;
+  margin-left: auto;
 }
 
 .container-input-only {
@@ -461,7 +467,7 @@ a.back-home:hover {
 }
 
 /* Search Button */
-.ssearch-button {
+.search-button {
   position: absolute;
   top: 0;
   right: 0;
@@ -471,7 +477,7 @@ a.back-home:hover {
   opacity: 0.5;
 }
 
-.ssearch-button::before {
+.search-button::before {
   content: "";
   position: absolute;
   top: 32px;
@@ -483,7 +489,7 @@ a.back-home:hover {
   transform-origin: left bottom;
 }
 
-.ssearch-button::after {
+.search-button::after {
   content: "";
   position: absolute;
   bottom: 12px;
@@ -495,7 +501,7 @@ a.back-home:hover {
   transform-origin: right bottom;
 }
 
-.ssearch-icon {
+.search-icon {
   position: absolute;
   display: block;
   top: 13px;
@@ -508,24 +514,24 @@ a.back-home:hover {
   border-color: grey;
 }
 
-.ssearch-button.active::before,
-.ssearch-button.active::after {
+.search-button.active::before,
+.search-button.active::after {
   width: 28px;
 }
 
-.ssearch-button.active .ssearch-icon {
+.search-button.active .search-icon {
   width: 0;
   height: 0;
   border-color: transparent;
 }
 
-.ssearch-button::before,
-.ssearch-button::after,
-.ssearch-button .ssearch-icon {
+.search-button::before,
+.search-button::after,
+.search-button .search-icon {
   transition: all 0.3s ease-in-out;
 }
 
-.ssearch-button.active:hover {
+.search-button.active:hover {
   cursor: pointer;
 }
 
@@ -556,12 +562,6 @@ a.back-home:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
-  /* transform: translateY(50%); */
-}
-
-.wrapper--empty svg {
-  width: 322px;
-  /* margin: auto; */
 }
 
 @keyframes rotateHeart {
@@ -582,6 +582,11 @@ a.back-home:hover {
   to {
     transform: rotate(0) translateY(0);
   }
+}
+
+.empty-heart,
+.empty-loupe {
+  user-select: none;
 }
 
 .empty-heart {
@@ -641,7 +646,6 @@ p.empty-offer {
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-end;
-  gap: 8px;
 }
 
 .card-genre {
@@ -659,10 +663,9 @@ p.empty-offer {
   overflow: hidden;
 }
 
-/* .card-tag {
+.card-tag {
   margin-left: 8px;
-  margin-right: 8px;
-} */
+}
 
 .card-genre-coop {
   margin-left: auto;
@@ -1055,7 +1058,7 @@ table li {
 
 .link {
   padding: 8px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   color: #fff;
   -webkit-transition: all 0.5s;
@@ -1161,7 +1164,10 @@ p.game-tag {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  gap: 4px;
+}
+
+p.game-tag .card-genre {
+  margin-left: 4px;
 }
 
 .vs-button {
@@ -1586,6 +1592,7 @@ p.game-tag {
     display: flex;
     flex-direction: row;
     margin: 0;
+    flex-grow: 1;
   }
 
   .header-tel {
@@ -1713,6 +1720,10 @@ p.game-tag {
     width: 32px;
     height: 32px;
   }
+
+  .link {
+    font-size: 16px;
+  }
 }
 
 @media (min-width: 1600px) {
@@ -1807,4 +1818,55 @@ p.game-tag {
   .card {
     height: 550px;
   }
-}</style>
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .search-button {
+    display: none;
+  }
+
+  .vs-checkbox-label {
+    flex-shrink: 10;
+    width: max-content;
+  }
+
+  .vs-select__input,
+  .vs-checkbox-label,
+  .vs-input-content label {
+    font-size: 12px;
+  }
+
+  .container-input {
+    width: 20%;
+  }
+}
+
+@media (min-width: 768px) {
+  .container-select {
+    flex-wrap: nowrap;
+  }
+
+  .select-container {
+    margin-bottom: 0;
+  }
+
+  .select-genre-container {
+    width: 45%;
+  }
+
+  .select-item--checkbox {
+    margin-right: 8px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .select-genre-container {
+    width: auto;
+  }
+
+  .vs-checkbox-label {
+    flex-shrink: 10;
+    width: max-content;
+  }
+}
+</style>
