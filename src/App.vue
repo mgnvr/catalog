@@ -1168,6 +1168,7 @@ p.game-tag {
 
 p.game-tag .card-genre {
   margin-left: 4px;
+  font-size: 14px;
 }
 
 .vs-button {
