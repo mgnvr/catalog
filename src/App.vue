@@ -295,16 +295,15 @@ a.back-home:hover {
 }
 
 .vs-input-content label {
-  color: grey;
+  color: white;
   font-size: 14px;
   font-weight: 400;
-  opacity: 0.5;
+  opacity: 0.3;
 }
 
 .select-genre-container {
   display: flex;
   flex-wrap: nowrap;
-  /* gap: 16px; */
   width: 100%;
 }
 
