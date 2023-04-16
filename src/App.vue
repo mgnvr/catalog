@@ -664,6 +664,7 @@ p.empty-offer {
 
 .card-tag {
   margin-left: 8px;
+  margin-right: 8px;
 }
 
 .card-genre-coop {
