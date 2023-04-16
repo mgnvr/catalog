@@ -25,9 +25,6 @@
                 <youtube :video-id="getId()" ref="youtube" :player-vars="playerVars"></youtube>
               </div>
             </div>
-
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
           </div>
 
           <div thumbsSlider="" class="swiper thumbs">
@@ -43,6 +40,8 @@
               </div>
             </div>
           </div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
         </div>
 
         <h2>Похожие игры</h2>
