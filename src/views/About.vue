@@ -42,7 +42,7 @@
           <div class="platform-info">
             <div class="platform-info-wrapper">
               <h2 class="platform-name">PSVR</h2>
-              <p class="platform-desc">PlayStation VR вместе с PlayStation 4 и рулевой установкой позволяет почувствовать
+              <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой позволяет почувствовать
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
               <p class="platform-count-games">
