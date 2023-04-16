@@ -7,9 +7,9 @@ Vue.use(Vuex);
 
 const getDefaultStateLiked = () => {
   return {
-    wishlistIds: [],
-  }
-}
+    wishlistIds: []
+  };
+};
 
 export default new Vuex.Store({
   namespaced: true,
@@ -42,85 +42,61 @@ export default new Vuex.Store({
       if (genre === "все" && isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.isChild &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" &&
-              game.isChild &&
-              game.genre.includes(query)) ||
-            (game.category === "htc" &&
-              game.isChild &&
+            game.category === "htc" &&
+            game.isChild &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все" && isVeryChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.isVeryChild &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" &&
-              game.isVeryChild &&
-              game.genre.includes(query)) ||
-            (game.category === "htc" &&
-              game.isVeryChild &&
+            game.category === "htc" &&
+            game.isVeryChild &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все") {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" && game.genre.includes(query)) ||
-            (game.category === "htc" && game.tag.includes(query))
+            game.category === "htc" &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
+              game.tag.includes(query))
           );
         });
       } else if (isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "htc" &&
-              game.isChild &&
-              game.genre === genre &&
+            game.category === "htc" &&
+            game.isChild &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (isVeryChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.isVeryChild &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" &&
-              game.isVeryChild &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "htc" &&
-              game.isVeryChild &&
-              game.genre === genre &&
+            game.category === "htc" &&
+            game.isVeryChild &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "htc" &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "htc" &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "htc" &&
-              game.genre === genre &&
+            game.category === "htc" &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
@@ -149,85 +125,61 @@ export default new Vuex.Store({
       if (genre === "все" && isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.isChild &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" &&
-              game.isChild &&
-              game.genre.includes(query)) ||
-            (game.category === "psvr" &&
-              game.isChild &&
+            game.category === "psvr" &&
+            game.isChild &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все" && isVeryChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.isVeryChild &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" &&
-              game.isVeryChild &&
-              game.genre.includes(query)) ||
-            (game.category === "psvr" &&
-              game.isVeryChild &&
+            game.category === "psvr" &&
+            game.isVeryChild &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все") {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" && game.genre.includes(query)) ||
-            (game.category === "psvr" && game.tag.includes(query))
+            game.category === "psvr" &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
+              game.tag.includes(query))
           );
         });
       } else if (isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "psvr" &&
-              game.isChild &&
-              game.genre === genre &&
+            game.category === "psvr" &&
+            game.isChild &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (isVeryChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.isVeryChild &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" &&
-              game.isVeryChild &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "psvr" &&
-              game.isVeryChild &&
-              game.genre === genre &&
+            game.category === "psvr" &&
+            game.isVeryChild &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "psvr" &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "psvr" &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "psvr" &&
-              game.genre === genre &&
+            game.category === "psvr" &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
@@ -256,122 +208,84 @@ export default new Vuex.Store({
       if (genre == "все" && isChild && isLocalMultiplayer) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category == "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category == "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
-              game.genre.includes(query)) ||
-            (game.category == "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
+            game.category == "ps5" &&
+            game.isChild &&
+            game.isLocalMultiplayer &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (isChild && isLocalMultiplayer) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              isChild &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
+            game.category === "ps5" &&
+            game.isChild &&
+            game.isLocalMultiplayer &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все" && isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.isChild &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              game.isChild &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              game.isChild &&
+            game.category === "ps5" &&
+            game.isChild &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (isChild) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              game.isChild &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              game.isChild &&
-              game.genre === genre &&
+            game.category === "ps5" &&
+            game.isChild &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все" && isLocalMultiplayer) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
+            game.category === "ps5" &&
+            game.isLocalMultiplayer &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (isLocalMultiplayer) {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              game.isLocalMultiplayer &&
-              game.genre === genre &&
+            game.category === "ps5" &&
+            game.isLocalMultiplayer &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
       } else if (genre === "все") {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" && game.genre.includes(query)) ||
-            (game.category === "ps5" && game.tag.includes(query))
+            game.category === "ps5" &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
+              game.tag.includes(query))
           );
         });
       } else {
         var tmpArray = state.games.filter(game => {
           return (
-            (game.category === "ps5" &&
-              game.genre === genre &&
-              game.title.toLowerCase().includes(query)) ||
-            (game.category === "ps5" &&
-              game.genre === genre &&
-              game.genre.includes(query)) ||
-            (game.category === "ps5" &&
-              game.genre === genre &&
+            game.category === "ps5" &&
+            game.genre === genre &&
+            (game.title.toLowerCase().includes(query) ||
+              game.genre.includes(query) ||
               game.tag.includes(query))
           );
         });
@@ -400,10 +314,8 @@ export default new Vuex.Store({
         return (
           (state.wishlistIds.includes(game.id) &&
             game.title.toLowerCase().includes(query)) ||
-          (state.wishlistIds.includes(game.id) &&
-            game.genre.includes(query)) ||
-          (state.wishlistIds.includes(game.id) &&
-            game.tag.includes(query))
+          (state.wishlistIds.includes(game.id) && game.genre.includes(query)) ||
+          (state.wishlistIds.includes(game.id) && game.tag.includes(query))
         );
       });
     },
@@ -440,7 +352,7 @@ export default new Vuex.Store({
         .then(games => {
           commit("SET_GAMES", games);
         });
-    },
+    }
   },
   mutations: {
     SET_GAMES(state, games) {
