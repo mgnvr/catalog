@@ -115,7 +115,10 @@
                 </router-link>
               </div>
             </div>
-            <div v-else class="wrapper--empty">
+            <div v-else-if="showGamesByHTC.length == 0 && search.length == 0" class="wrapper--empty">
+              <img :src="this.publicPath + 'assets/loading.svg'" alt="Загрузка..." width="150"/>
+            </div>
+            <div v-else="" class="wrapper--empty">
               <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
