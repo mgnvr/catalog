@@ -1077,12 +1077,16 @@ table li {
 
 .link {
   padding: 8px;
-  font-size: 14px;
   font-weight: 700;
   color: #fff;
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
   transition: all 0.5s;
+}
+
+.link,
+.about-not-link {
+  font-size: 14px;
 }
 
 /* Game Page Styles */
@@ -1741,7 +1745,8 @@ p.game-tag .card-genre {
     height: 32px;
   }
 
-  .link {
+  .link,
+  .about-not-link {
     font-size: 16px;
   }
 }
