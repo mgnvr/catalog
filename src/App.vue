@@ -757,7 +757,8 @@ p.game-desc {
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  margin-top: 24px;
+  /* margin-top: 24px; */
+  margin-top: auto;
   text-align: left;
   font-weight: 500;
   font-size: 16px;
@@ -1293,7 +1294,7 @@ p.game-tag .card-genre {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 8px;
+  margin-bottom: 8px;
   font-size: 12px;
   color: #ccc;
 }
