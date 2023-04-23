@@ -37,7 +37,7 @@
         </div>
         <div class="platform platform--psvr">
           <div class="platform-img">
-            <img :src="this.publicPath + 'assets/psvr.png'" alt="HTC" width="100%" height="auto" />
+            <img :src="this.publicPath + 'assets/psvr.png'" alt="PSVR" width="100%" height="auto" />
           </div>
           <div class="platform-info">
             <div class="platform-info-wrapper">
@@ -53,7 +53,7 @@
         </div>
         <div class="platform platform--ps5">
           <div class="platform-img">
-            <img :src="this.publicPath + 'assets/ps5.png'" alt="HTC" width="100%" height="auto" />
+            <img :src="this.publicPath + 'assets/ps5.png'" alt="PS5" width="100%" height="auto" />
           </div>
           <div class="platform-info">
             <div class="platform-info-wrapper">
@@ -186,7 +186,7 @@
 import AppHeader from "@/components/AppHeader.vue";
 import AppFooter from "@/components/AppFooter.vue";
 export default {
-  name: "about",
+  name: "radio",
   components: { AppHeader, AppFooter },
   data() {
     return {
