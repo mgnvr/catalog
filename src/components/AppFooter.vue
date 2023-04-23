@@ -10,13 +10,14 @@
         <span v-else class="about-not-link">О нас</span>
       </div>
       <div class="copyright">
-        © Driv3r, 2017 - {{ new Date().getFullYear() }} | По всем вопросам обращаться по телефону или в
-        группу ВКонтакте
         <div class="developer">
           Дизайн и разработка
-          <a href="https://sergeyprimirenkov.github.io" class="dev" target="_blank"><img :src="this.publicPath + 'assets/logo-ps.svg'"
-              alt="Сергей Примиренков" /></a>
+          <a href="https://sergeyprimirenkov.github.io" class="dev" target="_blank"><img
+              :src="this.publicPath + 'assets/logo-ps.svg'" alt="Сергей Примиренков" /></a>
         </div>
+        © Driv3r, 2017 - {{ new Date().getFullYear() }} | По всем вопросам обращаться по телефону или в
+        группу ВКонтакте <router-link v-if="currentRouteName !== 'radio'" tag="span" to="/radio"
+          style="cursor: pointer;">| Послушать радио</router-link>
       </div>
     </div>
   </div>
