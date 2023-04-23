@@ -1,43 +1,45 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import Home from './views/Home.vue'
-import Game from '@/components/Game.vue'
+import Vue from "vue";
+import Router from "vue-router";
+import Home from "./views/Home.vue";
+import Game from "@/components/Game.vue";
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
   // mode: 'history',
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
-      name: 'home',
+      path: "/",
+      name: "home",
       component: Home
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+      path: "/about",
+      name: "about",
+      component: () => import("./views/About.vue")
     },
     {
-      path: '/game/:id',
-      name: 'Id',
+      path: "/radio",
+      name: "radio",
+      component: () => import("./views/Radio.vue")
+    },
+    {
+      path: "/game/:id",
+      name: "Id",
       component: Game,
       props: true
     },
     {
-      path: '*',
-      redirect: '/'
+      path: "*",
+      redirect: "/"
     }
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
-      return savedPosition
+      return savedPosition;
     } else {
-      return { x: 0, y: 0 }
+      return { x: 0, y: 0 };
     }
   }
-})
+});
