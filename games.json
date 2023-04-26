@@ -1833,20 +1833,6 @@
       "tag": "космос"
     },
     {
-      "id": 309,
-      "title": "RIGS Mechanized Combat League",
-      "description": "Способны ли вы стать лучшим игроком в RIGS Mechanized Combat League? Управляйте безупречными боевыми костюмами, известными как «риг», вооруженными двумя орудиями, на уникальных спортивных аренах будущего. Улучшайте свои навыки, чтобы разблокировать дополнительные костюмы для головокружительного одиночного режима, а затем соберите команду и играйте по сети, чтобы стать лучшим в мире.",
-      "thumbnail": "images/rigs/thumbnail.jpg",
-      "image1": "images/rigs/1.jpg",
-      "image2": "images/rigs/2.jpg",
-      "image3": "images/rigs/3.jpg",
-      "video": "https://www.youtube.com/embed/gDO7Ockyurk",
-      "category": "psvr",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "экстрим"
-    },
-    {
       "id": 310,
       "title": "Rec Room",
       "description": "Rec Room - лучшее место для общения с друзьями со всего мира! Играйте в многопользовательские игры, такие как Paintball, или просто расслабьтесь в парке. Откройте для себя тысячи комнат, созданных игроками, с добавлением новых. Или создайте свои комнаты с друзьями.",
@@ -1887,20 +1873,6 @@
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
-      "tag": "миниигры"
-    },
-    {
-      "id": 313,
-      "title": "Sports Bar VR",
-      "description": "Виртуальный спорт-бар с набором мини-игр в вашей гостиной.",
-      "thumbnail": "images/sports_bar/thumbnail.jpg",
-      "image1": "images/sports_bar/1.jpg",
-      "image2": "images/sports_bar/2.jpg",
-      "image3": "images/sports_bar/3.jpg",
-      "video": "https://www.youtube.com/embed/pxLK1CbeOds",
-      "category": "psvr",
-      "genre": "симулятор",
-      "isChild": true,
       "tag": "миниигры"
     },
     {
@@ -1972,20 +1944,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "страшная"
-    },
-    {
-      "id": 319,
-      "title": "Bravo Team",
-      "description": "Динамичные бои, командная работа, адреналиновые перестрелки — скучать не придется!",
-      "thumbnail": "images/bravo_team/thumbnail.jpg",
-      "image1": "images/bravo_team/1.jpg",
-      "image2": "images/bravo_team/2.jpg",
-      "image3": "images/bravo_team/3.jpg",
-      "video": "https://www.youtube.com/embed/lMFjwrFlPUY",
-      "category": "psvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "война"
     },
     {
       "id": 320,
