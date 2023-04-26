@@ -209,16 +209,16 @@ p {
 
 .gallery-swiper .swiper-button-prev,
 .gallery-swiper .swiper-button-next {
-  margin-top: -72px;
+  margin-top: -96px;
 }
 
 @media(min-width: 992px) {
   .gallery-swiper .swiper-button-prev {
-    left: -64px;
+    left: -80px;
   }
 
   .gallery-swiper .swiper-button-next {
-    right: -64px;
+    right: -80px;
   }
 }
 
@@ -253,7 +253,7 @@ p {
 
 @media (min-width: 992px) {
   .gallery-swiper {
-    width: 65%;
+    width: 85%;
     max-width: 1160px;
     margin: 0 auto;
   }
