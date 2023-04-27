@@ -1106,14 +1106,16 @@ table li {
 }
 
 .link--home {
+  position: sticky;
+  top: 0;
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  /* margin-bottom: 16px; */
   padding: 8px 24px;
   background: #89253e;
   border-radius: 4px;
   transition: background .3s ease-out;
+  z-index: 100;
 }
 
 .link--home:hover {
