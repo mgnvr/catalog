@@ -1700,7 +1700,7 @@ p.game-tag .card-genre {
 
 @media (min-width: 1024px) {
   .header-info>a:not(:last-child) {
-    margin-right: 12px;
+    margin-right: 8px;
   }
 
   .header {
@@ -1746,11 +1746,6 @@ p.game-tag .card-genre {
   .vue-back-to-top {
     width: 32px;
     height: 32px;
-  }
-
-  .link,
-  .about-not-link {
-    font-size: 16px;
   }
 }
 

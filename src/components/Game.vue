@@ -49,12 +49,12 @@
           <div class="item" v-for="game in showSimilarGames" :key="game.id">
             <router-link @click.native="changeGame(game)" tag="div" :to="{ name: 'Id', params: { id: game.id } }"
               class="card" title="Перейти к игре" :style="{
-                'background-image':
-                  `linear-gradient(180deg,rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
-                  'url(' +
-                  game.thumbnail +
-                  ')',
-              }">
+                  'background-image':
+                    `linear-gradient(180deg,rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
+                    'url(' +
+                    game.thumbnail +
+                    ')',
+                }">
               <div class="card__header">
                 <button :class="{ liked: wishlistIds.includes(game.id) }" class="like"
                   @click.stop="putLike($event, game.id)" title="Добавить в избранное / Удалить из избранного">
@@ -184,6 +184,11 @@ export default {
     player() {
       return this.$refs.youtube.player
     }
+  },
+  beforeRouteEnter(to, from, next) {
+    next(vm => {
+      vm._backRoute = from.path;
+    })
   },
 };
 </script>
