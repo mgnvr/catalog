@@ -1107,7 +1107,7 @@ table li {
 
 .link--home {
   position: sticky;
-  top: 0;
+  top: 24px;
   display: inline-flex;
   justify-content: center;
   align-items: center;
