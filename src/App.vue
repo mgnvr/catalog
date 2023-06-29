@@ -1169,11 +1169,13 @@ h2.platform-name {
   margin: 24px auto;
 }
 
-.platform--psvr .platform-img {
+.platform--psvr .platform-img,
+.platform--oq2 .platform-img {
   text-align: center;
 }
 
-.platform--psvr img {
+.platform--psvr img,
+.platform--oq2 img {
   max-width: 80%;
 }
 
@@ -1584,7 +1586,8 @@ p.game-tag .card-genre {
     max-width: 405px;
   }
 
-  .platform--psvr .platform-img {
+  .platform--oq2 .platform-img,
+  .platform--ps5 .platform-img {
     order: 1;
   }
 }

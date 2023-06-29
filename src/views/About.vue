@@ -35,13 +35,27 @@
             </div>
           </div>
         </div>
+        <div class="platform platform--oq2">
+          <div class="platform-img">
+            <img :src="this.publicPath + 'assets/oq2.png'" alt="Oculus Quest 2" width="100%" height="auto" />
+          </div>
+          <div class="platform-info">
+            <div class="platform-info-wrapper">
+              <h2 class="platform-name">Oculus Quest 2</h2>
+              <p class="platform-desc">Система виртуальной реальности Oculus Quest 2 отличается возможностью автономного использования. Также на платформе представлены эксклюзивные игры во вселенной Star Wars и др.</p>
+              <p class="platform-count-games">
+                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'oq2').length }}
+              </p>
+            </div>
+          </div>
+        </div>
         <div class="platform platform--psvr">
           <div class="platform-img">
             <img :src="this.publicPath + 'assets/psvr.png'" alt="PSVR" width="100%" height="auto" />
           </div>
           <div class="platform-info">
             <div class="platform-info-wrapper">
-              <h2 class="platform-name">PSVR</h2>
+              <h2 class="platform-name">PlayStation VR</h2>
               <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой позволяет почувствовать
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
@@ -57,7 +71,7 @@
           </div>
           <div class="platform-info">
             <div class="platform-info-wrapper">
-              <h2 class="platform-name">PS5</h2>
+              <h2 class="platform-name">PlayStation 5</h2>
               <p class="platform-desc">Консоль Sony PlayStation 5 даст вам лучший игровой опыт с передовой графикой
                 последнего поколения. Предусмотрена возможность локального кооператива или игра по сети на несколько
                 человек.</p>
@@ -75,54 +89,47 @@
       <table class="uk-table uk-table-striped">
         <thead>
           <tr>
-            <th>HTC</th>
-            <th>PSVR</th>
-            <th>PS5</th>
+            <th>HTC / OQ2 / PSVR</th>
+            <th>PS4 Pro / PS5</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>10 мин - 200₽</td>
             <td>10 мин - 200₽</td>
             <td>15 мин - 120₽</td>
           </tr>
           <tr>
             <td>20 мин - 350₽</td>
-            <td>20 мин - 350₽</td>
             <td>30 мин - 200₽</td>
           </tr>
           <tr>
-            <td>30 мин - 450₽</td>
             <td>30 мин - 450₽</td>
             <td>60 мин - 300₽</td>
           </tr>
           <tr>
             <td>60 мин - 600₽</td>
-            <td>60 мин - 600₽</td>
             <td>120 мин - 500₽</td>
           </tr>
           <tr>
             <td>120 мин - 1100₽</td>
-            <td>120 мин - 1100₽</td>
             <td>безлимит - 1000₽</td>
           </tr>
           <tr>
-            <td></td>
-            <td>1 заезд - 150₽</td>
+            <td>1 заезд в шлеме - 150₽</td>
             <td></td>
           </tr>
           <tr>
-            <td colspan="3" class="cell-rent">Аренда центра - 2000₽/час</td>
+            <td colspan="4" class="cell-rent">Аренда центра - 2000₽/час</td>
           </tr>
         </tbody>
         <thead>
           <tr>
-            <th colspan="3">Выездное мероприятие (MINI)</th>
+            <th colspan="4">Выездное мероприятие (MINI)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td colspan="3"><b>120 мин - 5000₽ (каждый последующий час - 1500₽)</b>
+            <td colspan="4"><b>120 мин - 5000₽ (каждый последующий час - 1500₽)</b>
               <ul style="margin: 0px; padding-left: 20px;">
                 <li>Платформа HTC Vive или PSVR на выбор</li>
                 <li>Телевизор для зрителей 32"</li>
@@ -133,12 +140,12 @@
         </tbody>
         <thead>
           <tr>
-            <th colspan="3">Выездное мероприятие (STANDART)</th>
+            <th colspan="4">Выездное мероприятие (STANDART)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td colspan="3"><b>120 мин - 7000₽ (каждый последующий час - 2000₽)</b>
+            <td colspan="4"><b>120 мин - 7000₽ (каждый последующий час - 2000₽)</b>
               <ul style="margin: 0px; padding-left: 20px;">
                 <li>
                   Платформа HTC Vive или PlayStation VR + рулевая установка на
@@ -152,12 +159,12 @@
         </tbody>
         <thead>
           <tr>
-            <th colspan="3">Выездное мероприятие (MAXI)</th>
+            <th colspan="4">Выездное мероприятие (MAXI)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td colspan="3"><b>120 мин - 10000₽ (каждый последующий час - 2500₽)</b>
+            <td colspan="4"><b>120 мин - 10000₽ (каждый последующий час - 2500₽)</b>
               <ul style="margin: 0px; padding-left: 20px;">
                 <li>
                   2 Платформы HTC Vive или PlayStation VR + рулевая установка
@@ -186,7 +193,7 @@
 import AppHeader from "@/components/AppHeader.vue";
 import AppFooter from "@/components/AppFooter.vue";
 export default {
-  name: "radio",
+  name: "about",
   components: { AppHeader, AppFooter },
   data() {
     return {
