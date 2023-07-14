@@ -2962,6 +2962,21 @@
       "tag": "драка"
     },
     {
+      "id": 587,
+      "title": "UFC 4",
+      "description": "В EA SPORTS UFC 4 ваш боевой стиль, достижения и индивидуальность определяют то, каким бойцом вы станете. Развивайте и изменяйте своего персонажа при помощи единой системы развития во всех режимах.",
+      "thumbnail": "images/ufc_4/thumbnail.jpg",
+      "image1": "images/ufc_4/1.jpg",
+      "image2": "images/ufc_4/2.jpg",
+      "image3": "images/ufc_4/3.jpg",
+      "video": "https://www.youtube.com/embed/GjugTk9ovcI",
+      "category": "ps5",
+      "genre": "спорт",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "драка"
+    },
+    {
       "id": 588,
       "title": "TEKKEN 7",
       "description": "Любовь, месть, гордость. В созданной на основе движка Unreal Engine 4 игре TEKKEN 7 вас ждут красивейшие сюжетные битвы и поединки, в которых можно сражаться как с друзьями, так и соперниками.",
