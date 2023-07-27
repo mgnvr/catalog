@@ -3219,34 +3219,6 @@
       "tag": "боевик"
     },
     {
-      "id": 616,
-      "title": "BioShock: The Collection",
-      "description": "Вернитесь в города Rapture и Columbia и заново переживите события высоко оцененной критиками серии BioShock. Сборник BioShock: The Collection пересказывает легендарные истории путешествий по вселенной BioShock, заново воплощенной в графике формата FullHD.",
-      "thumbnail": "images/bioshock_collection/thumbnail.jpg",
-      "image1": "images/bioshock_collection/1.jpg",
-      "image2": "images/bioshock_collection/2.jpg",
-      "image3": "images/bioshock_collection/3.jpg",
-      "video": "https://www.youtube.com/watch?v=U3RXpEXA0jw&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 617,
-      "title": "BioShock Infinite",
-      "description": "Оказавшись в долгу у серьезных людей, частный детектив Букер ДеВитт взялся за невыполнимое задание: он должен отправиться в Колумбию, летающий город над облаками, и спасти заключенную в нем женщину по имени Элизабет. Она может разрывать ткань самой реальности — ее тюремщик планирует воспользоваться этой способностью, чтобы воплотить в жизнь свою больную фантазию американской мечты.",
-      "thumbnail": "images/bioshock_infinite/thumbnail.jpg",
-      "image1": "images/bioshock_infinite/1.jpg",
-      "image2": "images/bioshock_infinite/2.jpg",
-      "image3": "images/bioshock_infinite/3.jpg",
-      "video": "https://www.youtube.com/watch?v=T9CcbwO9LFk&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 626,
       "title": "God of War III Обновленная версия",
       "description": "Станьте бесстрашным Кратосом, бывшим воином Спарты, который повергает в хаос предавших его богов. Поднимитесь из глубин царства Аида до вершин Олимпа в финальной саге о кровавом мщении.",
@@ -3358,20 +3330,6 @@
       "genre": "гонка",
       "isChild": false,
       "tag": "экстрим"
-    },
-    {
-      "id": 642,
-      "title": "Stray",
-      "description": "Потерявшемуся, одинокому, оторванному от семьи бродячему коту предстоит разгадать древнюю тайну и вырваться из давно заброшенного города.",
-      "thumbnail": "images/stray/thumbnail.jpg",
-      "image1": "images/stray/1.jpg",
-      "image2": "images/stray/2.jpg",
-      "image3": "images/stray/3.jpg",
-      "video": "https://www.youtube.com/watch?v=u84hRUQlaio",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "киберпанк"
     },
     {
       "id": 643,
