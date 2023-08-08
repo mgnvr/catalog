@@ -55,7 +55,7 @@
       "category": "htc",
       "genre": "квест",
       "isChild": false,
-      "tag": "смешная"
+      "tag": "головоломка"
     },
     {
       "id": 5,
@@ -4950,17 +4950,17 @@
     },
     {
       "id": 912,
-      "title": "Prison Boss VR",
-      "description": "Prison Boss VR превращает вашу виртуальную реальность в тюремную камеру! Создавайте сигареты, алкоголь и печенье для сокамерников! Наращивайте репутацию и улучшайте условия содержания! Заработайте столько денег, что они перестанут помещаться в камеру, и станьте тюремным воротилой!",
-      "thumbnail": "images/prison_boss/thumbnail.jpg",
-      "image1": "images/prison_boss/1.jpg",
-      "image2": "images/prison_boss/2.jpg",
-      "image3": "images/prison_boss/3.jpg",
-      "video": "https://www.youtube.com/embed/qtPW6EaUDxk",
+      "title": "Moss",
+      "description": "Moss — динамичное приключение с элементами головоломки для одного игрока, игра сочетает классические элементы — интересных персонажей, захватывающую боевую систему, исследование мира — с новыми возможностями виртуальной реальности.",
+      "thumbnail": "images/moss/thumbnail.jpg",
+      "image1": "images/moss/1.jpg",
+      "image2": "images/moss/2.jpg",
+      "image3": "images/moss/3.jpg",
+      "video": "https://www.youtube.com/embed/Hbsfgsncdzw",
       "category": "oq2",
-      "genre": "симулятор",
+      "genre": "приключение",
       "isChild": true,
-      "tag": "крафт"
+      "tag": "сказка"
     },
     {
       "id": 913,
@@ -5188,6 +5188,20 @@
     },
     {
       "id": 929,
+      "title": "Another Fisherman's Tale",
+      "description": "Погрузитесь в поэтическое повествование, исследуя новую головокружительную механику головоломок виртуальной реальности. Решайте головоломки, используя собственное тело, отсоединяйте конечности и управляйте ими, а также находите новые приспособления для прогресса. Откройте для себя правду, путешествуя по красивым и уникальным локациям, воплощенным в жизнь создателями «Истории рыбака».",
+      "thumbnail": "images/another_fisherman_tale/thumbnail.jpg",
+      "image1": "images/another_fisherman_tale/1.jpg",
+      "image2": "images/another_fisherman_tale/2.jpg",
+      "image3": "images/another_fisherman_tale/3.jpg",
+      "video": "https://www.youtube.com/embed/vS7lZU--vPg",
+      "category": "oq2",
+      "genre": "головоломка",
+      "isChild": true,
+      "tag": "сказка"
+    },
+    {
+      "id": 932,
       "title": "Into the Radius VR",
       "description": "Исследуйте пустоши Радиуса, полные монстров и опасных аномалий. Защищайтесь с помощью реалистичного оружия, собирайте удивительные артефакты и раскрывайте секреты аномальной местности.",
       "thumbnail": "images/into_the_radius/thumbnail.jpg",
@@ -5201,7 +5215,7 @@
       "tag": "сюжет"
     },
     {
-      "id": 930,
+      "id": 933,
       "title": "Pistol Whip",
       "description": "Pistol Whip - это экшн-ритм игра. Комбинация Superhot, Beat Saber и Джона Уика с головокружительным саундтреком. Станьте главным героем боевика.",
       "thumbnail": "images/pistol_whip/thumbnail.jpg",
@@ -5215,7 +5229,21 @@
       "tag": "ритм"
     },
     {
-      "id": 931,
+      "id": 934,
+      "title": "AUDICA: Rhythm Shooter",
+      "description": "Вооружившись парой ритм-бластеров, вы стреляете и разбиваете цели в такт саундтреку, в котором звучат песни самых популярных исполнителей мира. Чем лучше ваше время и точность, тем лучше ваш счет.",
+      "thumbnail": "images/audica/thumbnail.jpg",
+      "image1": "images/audica/1.jpg",
+      "image2": "images/audica/2.jpg",
+      "image3": "images/audica/3.jpg",
+      "video": "https://www.youtube.com/embed/JhvDGjTa920",
+      "category": "oq2",
+      "genre": "музыкальная",
+      "isChild": false,
+      "tag": "ритм"
+    },
+    {
+      "id": 935,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
       "thumbnail": "images/iron_man_vr/thumbnail.jpg",
@@ -5229,7 +5257,7 @@
       "tag": "супергерои"
     },
     {
-      "id": 932,
+      "id": 936,
       "title": "IRON REBELLION",
       "description": "Захватывающий опыт пилотирования мехов. Мы хотим, чтобы игроки почувствовали себя по-настоящему запертыми внутри механического титана и дали им все кнопки, рычаги и боеприпасы, необходимые для доминирования на поле боя.",
       "thumbnail": "images/iron_rebellion/thumbnail.jpg",
@@ -5243,7 +5271,7 @@
       "tag": "роботы"
     },
     {
-      "id": 933,
+      "id": 937,
       "title": "BONELAB",
       "description": "Исследуйте таинственную лабораторию, полную оружия, врагов, испытаний и секретов. Совершите побег из вашей реальности или посейте хаос. Нет неправильных ответов.",
       "thumbnail": "images/bonelab/thumbnail.jpg",
@@ -5257,7 +5285,7 @@
       "tag": "сражение"
     },
     {
-      "id": 934,
+      "id": 938,
       "title": "Robo Recall",
       "description": "Недавний шквал неисправных роботов-убийц открыл дыры в постоянно недофинансируемом и внезапно захлебнувшемся отделе отзыва RoboReady. Брошенный в бой в качестве Отзывателя, вы должны положиться на свой ум, рефлексы и обширный арсенал оружия, чтобы подавить восстание роботов.",
       "thumbnail": "images/robo_recall/thumbnail.jpg",
@@ -5271,7 +5299,7 @@
       "tag": "роботы"
     },
     {
-      "id": 935,
+      "id": 939,
       "title": "Sniper Elite VR",
       "description": "Южная Италия, 1934 год. Фашисты оккупировали вашу родину. Используйте скрытность, оригинальное оружие и свои навыки стрельбы элитного снайпера, сражаясь за итальянское сопротивление в этом увлекательном шутере от первого лица.",
       "thumbnail": "images/sniper_elite_vr/thumbnail.jpg",
@@ -5286,6 +5314,20 @@
     },
     {
       "id": 940,
+      "title": "Resident Evil 4",
+      "description": "Попробуйте себя в роли специального агента Леона С. Кеннеди в его миссии по спасению дочери президента США, похищенной таинственным культом. Столкнитесь лицом к лицу с врагами и раскройте секреты игрового процесса, который произвел революцию в жанре ужасов на выживание.",
+      "thumbnail": "images/resident_evil_4_vr/thumbnail.jpg",
+      "image1": "images/resident_evil_4_vr/1.jpg",
+      "image2": "images/resident_evil_4_vr/2.jpg",
+      "image3": "images/resident_evil_4_vr/3.jpg",
+      "video": "https://youtu.be/A3kCDpbM-rY",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
+      "id": 941,
       "title": "Arizona Sunshine",
       "description": "Зомби-апокалипсис в виртуальной реальности! В своих попытках найти людей вы должны пробиться сквозь орды зомби, охотящихся за вашим мозгом, с помощью оружия, скудного боезапаса и расходных материалов, которые встретятся на вашем пути.",
       "thumbnail": "images/arizona_sunshine/thumbnail.jpg",
@@ -5299,7 +5341,21 @@
       "tag": "зомби"
     },
     {
-      "id": 941,
+      "id": 942,
+      "title": "After the Fall",
+      "description": "Добро пожаловать на Рубеж... Апокалипсис превратил Лос-Анджелес образца 1980-х годов в снежную пустыню, кишащую мутировавшей нежитью. С тех пор прошли десятки лет. Вы начинаете жить заново в подземном лагере с командой. включающей до 32 других выживших, и берете в руки оружие в роли Harvest Runner. В чем ваша задача? Выбраться на поверхность, пересечь Рубеж в городе и найти ресурсы, чтобы человечество прожило ещё день.",
+      "thumbnail": "images/after_the_fall/thumbnail.jpg",
+      "image1": "images/after_the_fall/1.jpg",
+      "image2": "images/after_the_fall/2.jpg",
+      "image3": "images/after_the_fall/3.jpg",
+      "video": "https://youtu.be/uiceGbFf89k",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
+      "id": 943,
       "title": "The Walking Dead: Saints & Sinners",
       "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
       "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
@@ -5313,7 +5369,7 @@
       "tag": "зомби"
     },
     {
-      "id": 942,
+      "id": 944,
       "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
       "description": "Преследуемый, казалось бы, неудержимым Топорщиком и противостоящий последнему стремлению Башни к полному господству, узнайте, что объединяет эти новые угрозы, пока не стало слишком поздно.",
       "thumbnail": "images/walking_dead_chapter_2/thumbnail.jpg",
@@ -5367,6 +5423,34 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "сюжет"
+    },
+    {
+      "id": 948,
+      "title": "Red Matter 2",
+      "description": "Захватывающая приключенческая игра-головоломка, которая перенесет вас в далекие уголки космоса в антиутопическом сеттинге холодной войны. Встаньте на место Саши, агента, разбуженного на лунной базе оперативником под прикрытием и которому поручено раскрыть секреты таинственной Красной Материи.",
+      "thumbnail": "images/red_matter_2/thumbnail.jpg",
+      "image1": "images/red_matter_2/1.jpg",
+      "image2": "images/red_matter_2/2.jpg",
+      "image3": "images/red_matter_2/3.jpg",
+      "video": "https://youtu.be/a2MbQOcks50", 
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
+    },
+    {
+      "id": 949,
+      "title": "AFFECTED: The Manor",
+      "description": "Это не просто набор рутинных запугиваний, а серия событий, специально разработанных для использования сильных сторон виртуальной реальности.",
+      "thumbnail": "images/affected/thumbnail.jpg",
+      "image1": "images/affected/1.jpg",
+      "image2": "images/affected/2.jpg",
+      "image3": "images/affected/3.jpg",
+      "video": "https://www.youtube.com/watch?v=Bog71KMSsdE&ab_channel=HTCVIVE",
+      "category": "oq2",
+      "genre": "хоррор",
+      "isChild": false,
+      "tag": "страшная"
     },
     {
       "id": 950,
@@ -5510,6 +5594,34 @@
       "tag": "экскурсия"
     },
     {
+      "id": 960,
+      "title": "Cirque du Soleil",
+      "description": "Окунитесь в мир Cirque du Soleil, чтобы поближе познакомиться с некоторыми из их самых знаковых шоу.",
+      "thumbnail": "images/cirque_du_soleil/thumbnail.jpg",
+      "image1": "images/cirque_du_soleil/1.jpg",
+      "image2": "images/cirque_du_soleil/2.jpg",
+      "image3": "images/cirque_du_soleil/3.jpg",
+      "video": "https://www.youtube.com/embed/q4uZ5H0IT4Y",
+      "category": "oq2",
+      "genre": "аттракцион",
+      "isChild": true,
+      "tag": "экскурсия"
+    },
+    {
+      "id": 969,
+      "title": "Floor Plan 2",
+      "description": "Комедийное приключение, вдохновленное квестами, наполненное таким количеством головоломок, что вы не сможете поместиться в лифте. В первый рабочий день начальник отправляет вас с поручением найти потерянное сокровище, которое изменит судьбу компании.",
+      "thumbnail": "images/floor_plan_2/thumbnail.jpg",
+      "image1": "images/floor_plan_2/1.jpg",
+      "image2": "images/floor_plan_2/2.jpg",
+      "image3": "images/floor_plan_2/3.jpg",
+      "video": "https://www.youtube.com/embed/JMM4u1_n28I",
+      "category": "oq2",
+      "genre": "квест",
+      "isChild": true,
+      "tag": "головоломка"
+    },
+    {
       "id": 970,
       "title": "The Climb 2",
       "description": "Острые ощущения от скалолазания оживают с The Climb 2 — исследуйте новый город и захватывающие новые карты с захватывающими дух видами. Поднимитесь на грандиозные вершины, пройдите через огромные пещеры, заберитесь на небоскребы и найдите скрытые кратчайшие пути, пока вы находите свой путь к вершине.",
@@ -5581,6 +5693,20 @@
     },
     {
       "id": 975,
+      "title": "Minecraft Gear VR Edition",
+      "description": "Окажись внутри мира Minecraft благодаря технологии виртуальной реальности. Исследуй, строй и сражайся с мобами — делай все, что тебе нравится, полностью погрузившись в виртуальный мир!",
+      "thumbnail": "images/minecraft_vr/thumbnail.jpg",
+      "image1": "images/minecraft_vr/1.jpg",
+      "image2": "images/minecraft_vr/2.jpg",
+      "image3": "images/minecraft_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/f2uVmpXkFX8",
+      "category": "oq2",
+      "genre": "песочница",
+      "isChild": true,
+      "tag": "крафт"
+    },
+    {
+      "id": 976,
       "title": "Discovery",
       "description": "Дайте волю своему творчеству и создавайте впечатляющие миры!",
       "thumbnail": "images/discovery_vr/thumbnail.jpg",
@@ -5594,7 +5720,7 @@
       "tag": "стройка"
     },
     {
-      "id": 976,
+      "id": 977,
       "title": "The Room VR: A Dark Matter",
       "description": "Британский институт археологии, Лондон, 1908 год: Исчезновение уважаемого египтолога побуждает полицию к расследованию неизвестного. Исследуйте загадочные места, фантастические гаджеты и откройте для себя потустороннее, которое стирает грань между реальностью и иллюзией.",
       "thumbnail": "images/room_vr/thumbnail.jpg",
@@ -5608,7 +5734,7 @@
       "tag": "головоломка"
     },
     {
-      "id": 977,
+      "id": 978,
       "title": "Thief Simulator VR",
       "description": "Станьте вором в VR! Ощутите азарт воровства на свободных для исследования улицах. Используйте отмычки и навороченные инструменты для взлома. Прячьтесь от полиции или улепетывайте от них на машине!",
       "thumbnail": "images/thief_simulator/thumbnail.jpg",
@@ -5620,6 +5746,160 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "профессия"
+    },
+    {
+      "id": 979,
+      "title": "Baby Hands",
+      "description": "Испытайте мир глазами, ушами и пухлыми маленькими руками ребенка! Пройдите свой путь через застенчивый опыт работы в песочнице, наполненный фантазией и весельем! Найдите много классных мини-игр и используйте свое воображение, чтобы оживить ваши игрушки! Разблокируйте достижения, разрешите головоломки и охотитесь за скрытыми объектами в мире гигантской мебели, милых чучел животных и удивительных игрушек!",
+      "thumbnail": "images/baby_hands/thumbnail.jpg",
+      "image1": "images/baby_hands/1.jpg",
+      "image2": "images/baby_hands/2.jpg",
+      "image3": "images/baby_hands/3.jpg",
+      "video": "https://www.youtube.com/embed/50lGbFImvik",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "смешная"
+    },
+    {
+      "id": 980,
+      "title": "Budget Cuts",
+      "description": "Вы работаете на мегакорпорацию «Транскорп», штампуя печати на документы и собирая по порядку бумажки! На вашу беду, «Транскорп» — лидер рынка по производству снижающих издержки роботов, и вскоре вас сократят. А пока одного из ваших коллег тащат в жуткий отдел кадров, на вашем рабочем месте оказывается таинственная посылка. Сможете сохранить свое рабочее место?",
+      "thumbnail": "images/budget_cuts/thumbnail.jpg",
+      "image1": "images/budget_cuts/1.jpg",
+      "image2": "images/budget_cuts/2.jpg",
+      "image3": "images/budget_cuts/3.jpg",
+      "video": "https://www.youtube.com/embed/J-6dvqy6xdw",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": true,
+      "tag": "сюжет"
+    },
+    {
+      "id": 981,
+      "title": "Prison Boss VR",
+      "description": "Prison Boss VR превращает вашу виртуальную реальность в тюремную камеру! Создавайте сигареты, алкоголь и печенье для сокамерников! Наращивайте репутацию и улучшайте условия содержания! Заработайте столько денег, что они перестанут помещаться в камеру, и станьте тюремным воротилой!",
+      "thumbnail": "images/prison_boss/thumbnail.jpg",
+      "image1": "images/prison_boss/1.jpg",
+      "image2": "images/prison_boss/2.jpg",
+      "image3": "images/prison_boss/3.jpg",
+      "video": "https://www.youtube.com/embed/qtPW6EaUDxk",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "крафт"
+    },
+    {
+      "id": 982,
+      "title": "Cave Digger",
+      "description": "Cave Digger – это VR-симулятор копателя руды для HTC Vive и Oculus Rift. Действие игры происходит в маленьком городке в альтернативной вселенной Дикого Запада. Экипируйте списанные в утиль инструменты и прыгайте в лифт, который спустит Вас на глубину шахты. Находите самые богатые жилы, которые просто не могут дождаться того момента, когда честные трудяги вонзят в них свои кирки!",
+      "thumbnail": "images/cave_digger/thumbnail.jpg",
+      "image1": "images/cave_digger/1.jpg",
+      "image2": "images/cave_digger/2.jpg",
+      "image3": "images/cave_digger/3.jpg",
+      "video": "https://www.youtube.com/embed/U1mNZzYqRDE",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "профессия"
+    },
+    {
+      "id": 983,
+      "title": "Cave Digger 2: Dig Harder",
+      "description": "Приключенческая игра в диких долинах, в которой вы исследуете старые шахты, морские пещеры и руины древних цивилизаций, вдохновленные вестерном, дизельпанком и мотивами Лавкрафта.",
+      "thumbnail": "images/cave_digger_2/thumbnail.jpg",
+      "image1": "images/cave_digger_2/1.jpg",
+      "image2": "images/cave_digger_2/2.jpg",
+      "image3": "images/cave_digger_2/3.jpg",
+      "video": "https://youtu.be/etJqOCyRJPI", 
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "профессия"
+    },
+    {
+      "id": 984,
+      "title": "I Expect You To Die",
+      "description": "Играйте за секретного агента, вооруженного телекинезом, в миссии, чтобы остановить Зораксиса, злобную глобальную корпорацию по производству оружия и фармацевтики.",
+      "thumbnail": "images/i_expect_you_to_die/thumbnail.jpg",
+      "image1": "images/i_expect_you_to_die/1.jpg",
+      "image2": "images/i_expect_you_to_die/2.jpg",
+      "image3": "images/i_expect_you_to_die/3.jpg",
+      "video": "https://www.youtube.com/embed/vedFA8yXr2Y",
+      "category": "oq2",
+      "genre": "квест",
+      "isChild": false,
+      "tag": "головоломка"
+    },
+    {
+      "id": 985,
+      "title": "I Expect You To Die 2: The Spy and the Liar",
+      "description": "Станьте элитным супершпионом, готовым к шпионажу, взрывчатке и множеству гаджетов.",
+      "thumbnail": "images/i_expect_you_to_die_2/thumbnail.jpg",
+      "image1": "images/i_expect_you_to_die_2/1.jpg",
+      "image2": "images/i_expect_you_to_die_2/2.jpg",
+      "image3": "images/i_expect_you_to_die_2/3.jpg",
+      "video": "https://youtu.be/kgRjYVwe1Wo", 
+      "category": "oq2",
+      "genre": "квест",
+      "isChild": false,
+      "tag": "головоломка"
+    },
+    {
+      "id": 986,
+      "title": "Waltz of the Wizard",
+      "description": "Waltz of the Wizard - это опыт виртуальной реальности, который позволяет вам почувствовать магические силы. Объедините тайные ингредиенты в кипящем котле с помощью древнего духа, запертого в человеческом черепе. Дайте волю творческому или разрушительному волшебству в полностью интерактивном виртуальном мире. Путешествуйте по новым местам, оказываясь в загадочных обстоятельствах, полных деталей и незабываемой атмосферы.",
+      "thumbnail": "images/waltz_of_the_wizard/thumbnail.jpg",
+      "image1": "images/waltz_of_the_wizard/1.jpg",
+      "image2": "images/waltz_of_the_wizard/2.jpg",
+      "image3": "images/waltz_of_the_wizard/3.jpg",
+      "video": "https://www.youtube.com/watch?v=3r82wje_UdU&ab_channel=VirtualZone",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "сказка"
+    },
+    {
+      "id": 987,
+      "title": "MOTHERGUNSHIP: FORGE",
+      "description": "Безумный шутер от первого лица в жанре roguelite, в котором игроки создают мощное ручное оружие и борются за выживание.",
+      "thumbnail": "images/mothergunship_forge/thumbnail.jpg",
+      "image1": "images/mothergunship_forge/1.jpg",
+      "image2": "images/mothergunship_forge/2.jpg",
+      "image3": "images/mothergunship_forge/3.jpg",
+      "video": "https://youtu.be/i_XnAm2wzdo",
+      "category": "oq2",
+      "genre": "шутер",
+      "isChild": true,
+      "tag": "роботы"
+    },
+    {
+      "id": 988,
+      "title": "Hello Neighbor: Search and Rescue",
+      "description": "Новаторская VR-игра-ужастик-головоломка, в которой вы пробираетесь в дом своего жуткого соседа, чтобы спасти своего друга.",
+      "thumbnail": "images/hello_neighbor_search_and_rescue/thumbnail.jpg",
+      "image1": "images/hello_neighbor_search_and_rescue/1.jpg",
+      "image2": "images/hello_neighbor_search_and_rescue/2.jpg",
+      "image3": "images/hello_neighbor_search_and_rescue/3.jpg",
+      "video": "https://youtu.be/e2W8-RN7W20",
+      "category": "oq2",
+      "genre": "квест",
+      "isChild": true,
+      "tag": "страшная"
+    },
+    {
+      "id": 989,
+      "title": "Green Hell VR",
+      "description": "Игра точно воссоздает опасные условия джунглей Амазонки. В одиночестве и в затруднительном положении вы никогда не почувствуете себя в безопасности. Чтобы выжить, вам придется столкнуться со своими слабостями. Поддержание голода, жажды, усталости и психического здоровья станет неотъемлемой частью вашего путешествия.",
+      "thumbnail": "images/green_hell_vr/thumbnail.jpg",
+      "image1": "images/green_hell_vr/1.jpg",
+      "image2": "images/green_hell_vr/2.jpg",
+      "image3": "images/green_hell_vr/3.jpg",
+      "video": "https://youtu.be/Le1U23YNBZM",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": false,
+      "tag": "выживание"
     }
   ]
 }
