@@ -2352,6 +2352,20 @@
       "tag": "стелс"
     },
     {
+      "id": 515,
+      "title": "Thief",
+      "description": "Попробуйте себя в роли бесшумного Гаррета, мрачного одинокого вора с непревзойденным набором навыков. Самые сложные ограбления, самая недоступная добыча, самые сокровенные секреты: ничто не находится вне вашей досягаемости.",
+      "thumbnail": "images/thief/thumbnail.jpg",
+      "image1": "images/thief/1.jpg",
+      "image2": "images/thief/2.jpg",
+      "image3": "images/thief/3.jpg",
+      "video": "https://www.youtube.com/embed/83tF5EKdT5c",
+      "category": "ps5",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "стелс"
+    },
+    {
       "id": 537,
       "title": "Detroit: Стать человеком",
       "description": "Детройт, 2038 год. Похожие на людей андроиды стали основной рабочей силой на планете.Они никогда не устают, всегда слушают своих хозяев и никогда не говорят «Нет»... но однажды все изменилось.Некоторые андроиды начали вести себя не так, как обычно, словно у них появилась способность испытывать чувства...Теперь вам предстоит управлять тремя андроидами, чтобы помочь им понять, кто же они на самом деле.Ваши действия и решения определят их судьбу – а может, даже и будущее всего города.",
@@ -2436,7 +2450,7 @@
       "tag": "супергерои"
     },
     {
-      "id": 550,
+      "id": 548,
       "title": "Dead By Daylight",
       "description": "Dead by Daylight — это многопользовательская (4 против 1) игра в жанре ужасов, в которой один игрок берет на себя роль жестокого убийцы, а остальные четверо играют за выживших, которые пытаются избежать плена, мучений и смерти. Выжившие используют вид от третьего лица и имеют преимущество, так как лучше владеют ситуацией. Убийца играет с видом от первого лица и сосредоточен на своих жертвах. Цель выживших в каждой игре — покинуть опасную зону и не попасться в руки убийцы. Сделать это достаточно сложно, особенно когда окружающая обстановка меняется в каждой игре.",
       "thumbnail": "images/dead_by_daylight/thumbnail.jpg",
@@ -2450,7 +2464,7 @@
       "tag": "выживание"
     },
     {
-      "id": 551,
+      "id": 549,
       "title": "Crash Bandicoot N. Sane Trilogy",
       "description": "Всеобщий сумчатый любимец Crash Bandicoot возвращается! В коллекции N. Sane Trilogy он стал еще шустрее, веселее и обаятельнее! Крутитесь волчком и прыгайте, прыгайте и крутитесь! Вас ждет море приключений и хорошего настроения в трех замечательных играх, с которых все началось: Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back и Crash Bandicoot: Warped. Переживите заново любимые моменты истории Крэша, увидев их во всем блеске полностью переработанной графики! Готовьтесь к настоящему веселью!",
       "thumbnail": "images/crash_bandicoot/thumbnail.jpg",
@@ -2464,7 +2478,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 552,
+      "id": 550,
       "title": "Ratchet & Clank",
       "description": "Присоединяйтесь к очаровательному Ломбаксу и его другу роботу в новой игре, которая пересказывает насыщенную историю знакомства отважных героев.Будь вы давним поклонником Рэтчета или новичком в этой серии игр, приготовьтесь к незабываемому путешествию по вселенной в их первом космическом приключении, полностью переосмысленном и переизданном для PS4. Вас ожидает классический игровой процесс, расширенный для нового поколения, и графика под стать анимационному фильму 2016 года Ratchet & Clank.",
       "thumbnail": "images/ratchet_and_clank/thumbnail.jpg",
@@ -2478,7 +2492,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 553,
+      "id": 551,
       "title": "Rayman Legends",
       "description": "Поляна Снов опять в опасности! С помощью Мерфи Рэйман и Глобокс пробудились, и теперь они должны сразиться с кошмарами, чтобы спасти тинси!",
       "thumbnail": "images/rayman_legends/thumbnail.jpg",
@@ -2493,7 +2507,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 554,
+      "id": 552,
       "title": "Bombing Busters",
       "description": "Взрывай монстров пачками в 30 лабиринтах! Отправляйся в свой собственный крестовый поход вместе с остроумным Доктором Валлоу и завоюй Галактику в этой убойной аркаде!",
       "thumbnail": "images/bombing_busters/thumbnail.jpg",
@@ -2508,7 +2522,7 @@
       "tag": "тактика"
     },
     {
-      "id": 555,
+      "id": 553,
       "title": "KNACK",
       "description": "Только герой поневоле Нэк может спасти человечество от безжалостной армии гоблинов. Пустите в ход впечатляющую мощь Нэка, чтобы превратить его в гигантскую боевую машину, сражайтесь с врагами и проникните в тайну, которая потрясет весь мир.",
       "thumbnail": "images/knack/thumbnail.jpg",
@@ -2522,7 +2536,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 556,
+      "id": 554,
       "title": "KNACK 2",
       "description": "Присоединяйтесь к Нэку – доброму маленькому герою, который способен вырастать до размеров здания или уменьшаться до полуметра – в его новом приключении.",
       "thumbnail": "images/knack_2/thumbnail.jpg",
@@ -2533,7 +2547,36 @@
       "category": "ps5",
       "genre": "аркада",
       "isChild": true,
+      "isLocalMultiplayer": true,
       "tag": "мультяшная"
+    },
+    {
+      "id": 555,
+      "title": "Монстры на каникулах: Приключения в страшных сказках",
+      "description": "Прыжки, рывки, перекаты, особые способности — вам понадобятся все возможные трюки, чтобы справиться с ужасными противниками и коварными головоломками, которыми наполнены эти отныне жуткие истории.",
+      "thumbnail": "images/hotel_transylvania/thumbnail.jpg",
+      "image1": "images/hotel_transylvania/1.jpg",
+      "image2": "images/hotel_transylvania/2.jpg",
+      "image3": "images/hotel_transylvania/3.jpg",
+      "video": "https://www.youtube.com/embed/L00C4I8e-es",
+      "category": "ps5",
+      "genre": "аркада",
+      "isChild": true,
+      "tag": "мультяшная"
+    },
+    {
+      "id": 556,
+      "title": "LEGO Batman 3: Покидая Готэм",
+      "description": "Крестоносец в плаще объединяет силы с супергероями из комиксов по вселенной DC и улетает в космос, чтобы помешать злобному Брейниаку уничтожить Землю.",
+      "thumbnail": "images/lego_batman_3/thumbnail.jpg",
+      "image1": "images/lego_batman_3/1.jpg",
+      "image2": "images/lego_batman_3/2.jpg",
+      "image3": "images/lego_batman_3/3.jpg",
+      "video": "https://www.youtube.com/embed/8vznzTBvPl4",
+      "category": "ps5",
+      "genre": "аркада",
+      "isChild": true,
+      "tag": "лего"
     },
     {
       "id": 557,
@@ -4020,6 +4063,20 @@
     },
     {
       "id": 691,
+      "title": "Five Nights at Freddy's: Security Breach",
+      "description": "Играйте за Грегори, маленького мальчика, застрявшего на ночь в Mega Pizzaplex Фредди Фазбера. С помощью самого Фредди Фазбера Грегори должен пережить почти непреодолимую охоту переосмысленных персонажей Five Nights at Freddy, а также новые ужасающие угрозы.",
+      "thumbnail": "images/fnaf_security_bridge/thumbnail.jpg",
+      "image1": "images/fnaf_security_bridge/1.jpg",
+      "image2": "images/fnaf_security_bridge/2.jpg",
+      "image3": "images/fnaf_security_bridge/3.jpg",
+      "video": "https://www.youtube.com/embed/BY9-jWQQHgw",
+      "category": "ps5",
+      "genre": "хоррор",
+      "isChild": true,
+      "tag": "страшная"
+    },
+    {
+      "id": 694,
       "title": "The Elder Scrolls V: Skyrim Special Edition",
       "description": "Вступите в бой с невиданными древними чудовищами! Лишь Драконорожденный способен узнать тайны огромных крылатых ящеров и овладеть их силой.",
       "thumbnail": "images/skyrim_se/thumbnail.jpg",
@@ -4033,7 +4090,7 @@
       "tag": "сюжет"
     },
     {
-      "id": 692,
+      "id": 695,
       "title": "RAGE 2",
       "description": "Упавший на Землю астероид уничтожил 80% населения. По дорогам скитаются кровожадные банды, а Правительство пытается утвердить своё безграничное господство. Ваш герой — Уокер, последний рейнджер пустошей. Правительство лишило вас дома и чуть не отняло жизнь. Выход один: вступить в бескомпромиссную борьбу за свободу и справедливость.",
       "thumbnail": "images/rage_2/thumbnail.jpg",
@@ -4054,7 +4111,7 @@
       "image1": "images/undertale/1.jpg",
       "image2": "images/undertale/2.jpg",
       "image3": "images/undertale/3.jpg",
-      "video": "https://youtu.be/h5Zh2LEwFCo", 
+      "video": "https://youtu.be/h5Zh2LEwFCo",
       "category": "ps5",
       "genre": "аркада",
       "isChild": true,
@@ -4225,7 +4282,7 @@
       "image3": "images/saints_row_iv/3.jpg",
       "video": "https://www.youtube.com/embed/nk78pbYC2J0",
       "category": "ps5",
-      "genre": "экшн", 
+      "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
     },
@@ -4239,7 +4296,7 @@
       "image3": "images/watch_dogs_2/3.jpg",
       "video": "https://www.youtube.com/embed/zSDXPGA_pfI",
       "category": "ps5",
-      "genre": "экшн", 
+      "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
     },
@@ -4253,7 +4310,7 @@
       "image3": "images/watch_dogs_legion/3.jpg",
       "video": "https://www.youtube.com/embed/cxvj3TM8YaU",
       "category": "ps5",
-      "genre": "экшн", 
+      "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
     },
@@ -4406,20 +4463,6 @@
       "image2": "images/fallout_4/2.jpg",
       "image3": "images/fallout_4/3.jpg",
       "video": "https://www.youtube.com/embed/5iJUt6aBXAw",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 722,
-      "title": "DEATH STRANDING",
-      "description": "Отважьтесь преодолеть мир, трансформированный Петлей смерти. Держите в своих руках бессвязные остатки нашего будущего и отправляйтесь в дорогу, чтобы восстановить связь между осколками мира.",
-      "thumbnail": "images/death_stranding/thumbnail.jpg",
-      "image1": "images/death_stranding/1.jpg",
-      "image2": "images/death_stranding/2.jpg",
-      "image3": "images/death_stranding/3.jpg",
-      "video": "https://www.youtube.com/embed/41FRpY-JcN4",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -4579,20 +4622,6 @@
       "genre": "гонка",
       "isChild": true,
       "isLocalMultiplayer": true,
-      "tag": "экстрим"
-    },
-    {
-      "id": 734,
-      "title": "Carmageddon: Max Damage",
-      "description": "Вызвавшая сенсацию гоночная игра, где твои противники это кучка сумасшедших отморозков в миксе закрученных автомобилей. Выбирай из более чем 30 металлопожирающих автомобилей, созданных с определенной целью: разбивать соперников, убивать пешеходов и сеять всеобщий хаос!",
-      "thumbnail": "images/carmageddon_max_damage/thumbnail.jpg",
-      "image1": "images/carmageddon_max_damage/1.jpg",
-      "image2": "images/carmageddon_max_damage/2.jpg",
-      "image3": "images/carmageddon_max_damage/3.jpg",
-      "video": "https://www.youtube.com/embed/81UOQMNA_BY",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": false,
       "tag": "экстрим"
     },
     {
@@ -5432,7 +5461,7 @@
       "image1": "images/red_matter_2/1.jpg",
       "image2": "images/red_matter_2/2.jpg",
       "image3": "images/red_matter_2/3.jpg",
-      "video": "https://youtu.be/a2MbQOcks50", 
+      "video": "https://youtu.be/a2MbQOcks50",
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
@@ -5811,7 +5840,7 @@
       "image1": "images/cave_digger_2/1.jpg",
       "image2": "images/cave_digger_2/2.jpg",
       "image3": "images/cave_digger_2/3.jpg",
-      "video": "https://youtu.be/etJqOCyRJPI", 
+      "video": "https://youtu.be/etJqOCyRJPI",
       "category": "oq2",
       "genre": "симулятор",
       "isChild": true,
@@ -5839,7 +5868,7 @@
       "image1": "images/i_expect_you_to_die_2/1.jpg",
       "image2": "images/i_expect_you_to_die_2/2.jpg",
       "image3": "images/i_expect_you_to_die_2/3.jpg",
-      "video": "https://youtu.be/kgRjYVwe1Wo", 
+      "video": "https://youtu.be/kgRjYVwe1Wo",
       "category": "oq2",
       "genre": "квест",
       "isChild": false,
