@@ -2114,20 +2114,6 @@
       "tag": "экстрим"
     },
     {
-      "id": 337,
-      "title": "The Persistence",
-      "description": "Действие игры The Persistence разворачивается в 2521 году на борту заброшенного колониального корабля в глубоком космосе. Брошенный на произвол судьбы, сломанный и пойманный притяжением черной дыры, The Persistence к тому же переполнен ужасными смертоносными существами. Вы — клон специалиста по безопасности по имени Зимри Эдер. Ваша задача — пробраться по палубам, починить системы и спасти корабль.",
-      "thumbnail": "images/the_persistance/thumbnail.jpg",
-      "image1": "images/the_persistance/1.jpg",
-      "image2": "images/the_persistance/2.jpg",
-      "image3": "images/the_persistance/3.jpg",
-      "video": "https://www.youtube.com/embed/iwMYzJaVzFI",
-      "category": "psvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 338,
       "title": "The Walking Dead: Saints & Sinners",
       "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
@@ -2254,34 +2240,6 @@
       "tag": "война"
     },
     {
-      "id": 508,
-      "title": "Call of Duty: Black Ops III",
-      "description": "Call of Duty: Black Ops III содержит два игровых режима: многопользовательский и режим 'Зомби', которые обеспечат поклонникам серии отличную сетевую игру и мрачное увлекательное приключение, вдохновленное классическими фильмами сороковых.",
-      "thumbnail": "images/cod_black_ops_iii/thumbnail.jpg",
-      "image1": "images/cod_black_ops_iii/1.jpg",
-      "image2": "images/cod_black_ops_iii/2.jpg",
-      "image3": "images/cod_black_ops_iii/3.jpg",
-      "video": "https://www.youtube.com/embed/qAUYNIDEJ6o",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "война"
-    },
-    {
-      "id": 509,
-      "title": "Call of Duty: Modern Warfare Обновленная версия",
-      "description": "Call of Duty 4: Modern Warfare, одна из самых популярных игр в истории, неоднократно названная «Игрой года» и удостоенная множества почетных наград, возвращается в высокой четкости и с многочисленными улучшениями.",
-      "thumbnail": "images/cod_mw_remastered/thumbnail.jpg",
-      "image1": "images/cod_mw_remastered/1.jpg",
-      "image2": "images/cod_mw_remastered/2.jpg",
-      "image3": "images/cod_mw_remastered/3.jpg",
-      "video": "https://www.youtube.com/embed/WBlJzeh-2yk",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "война"
-    },
-    {
       "id": 510,
       "title": "Battlefield 1",
       "description": "Battlefield 1 погружает вас в эпоху Первой мировой войны, когда новые технологии и глобальный конфликт навсегда изменили принципы военного дела.",
@@ -2290,20 +2248,6 @@
       "image2": "images/battlefield_1/2.jpg",
       "image3": "images/battlefield_1/3.jpg",
       "video": "https://www.youtube.com/embed/YkG2e5WWPO0",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "война"
-    },
-    {
-      "id": 511,
-      "title": "Battlefield V",
-      "description": "Участвуйте в крупнейшем военном конфликте в истории в Battlefield V. Серия возвращается к своим истокам и показывает Вторую мировую войну как никогда прежде.",
-      "thumbnail": "images/battlefield_5/thumbnail.jpg",
-      "image1": "images/battlefield_5/1.jpg",
-      "image2": "images/battlefield_5/2.jpg",
-      "image3": "images/battlefield_5/3.jpg",
-      "video": "https://www.youtube.com/embed/FQRNw0jRYxY",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -2478,20 +2422,6 @@
       "tag": "мультяшная"
     },
     {
-      "id": 550,
-      "title": "Ratchet & Clank",
-      "description": "Присоединяйтесь к очаровательному Ломбаксу и его другу роботу в новой игре, которая пересказывает насыщенную историю знакомства отважных героев.Будь вы давним поклонником Рэтчета или новичком в этой серии игр, приготовьтесь к незабываемому путешествию по вселенной в их первом космическом приключении, полностью переосмысленном и переизданном для PS4. Вас ожидает классический игровой процесс, расширенный для нового поколения, и графика под стать анимационному фильму 2016 года Ratchet & Clank.",
-      "thumbnail": "images/ratchet_and_clank/thumbnail.jpg",
-      "image1": "images/ratchet_and_clank/1.jpg",
-      "image2": "images/ratchet_and_clank/2.jpg",
-      "image3": "images/ratchet_and_clank/3.jpg",
-      "video": "https://www.youtube.com/embed/9BaYUkQpiGU",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "мультяшная"
-    },
-    {
       "id": 551,
       "title": "Rayman Legends",
       "description": "Поляна Снов опять в опасности! С помощью Мерфи Рэйман и Глобокс пробудились, и теперь они должны сразиться с кошмарами, чтобы спасти тинси!",
@@ -2505,21 +2435,6 @@
       "isChild": true,
       "isLocalMultiplayer": true,
       "tag": "мультяшная"
-    },
-    {
-      "id": 552,
-      "title": "Bombing Busters",
-      "description": "Взрывай монстров пачками в 30 лабиринтах! Отправляйся в свой собственный крестовый поход вместе с остроумным Доктором Валлоу и завоюй Галактику в этой убойной аркаде!",
-      "thumbnail": "images/bombing_busters/thumbnail.jpg",
-      "image1": "images/bombing_busters/1.jpg",
-      "image2": "images/bombing_busters/2.jpg",
-      "image3": "images/bombing_busters/3.jpg",
-      "video": "https://www.youtube.com/embed/jMm09l1ws9o",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "тактика"
     },
     {
       "id": 553,
@@ -2654,34 +2569,18 @@
       "tag": "лего"
     },
     {
-      "id": 562,
-      "title": "Worms Battlegrounds",
-      "description": "Worms Battlegrounds объединяет людей в благородном стремлении к самосовершенствованию, мировому господству и взрывающимся овцам.",
-      "thumbnail": "images/worms_battlegrounds/thumbnail.jpg",
-      "image1": "images/worms_battlegrounds/1.jpg",
-      "image2": "images/worms_battlegrounds/2.jpg",
-      "image3": "images/worms_battlegrounds/3.jpg",
-      "video": "https://www.youtube.com/embed/CP2XoETz9gE",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "тактика"
-    },
-    {
       "id": 563,
-      "title": "Тачки 3: Навстречу победе",
-      "description": "Заводи мотор и гони навстречу незабываемому гоночному опыту. Играй более чем 20 настраеваемыми персонажами, включая Молнию Маккуина, Джексона Шторма, Крус Рамирес и новым поколением гонщиков и прокатись по более чем 20 трассам, расположенных в легендарных местах из фильма, таких как Радиатор Спрингс.",
-      "thumbnail": "images/cars_3/thumbnail.jpg",
-      "image1": "images/cars_3/1.jpg",
-      "image2": "images/cars_3/2.jpg",
-      "image3": "images/cars_3/3.jpg",
-      "video": "https://www.youtube.com/embed/G5ha9Z1WcpI",
+      "title": "Rec Room",
+      "description": "Rec Room - лучшее место для общения с друзьями со всего мира! Играйте в многопользовательские игры, такие как Paintball, или просто расслабьтесь в парке. Откройте для себя тысячи комнат, созданных игроками, с добавлением новых. Или создайте свои комнаты с друзьями.",
+      "thumbnail": "images/rec_room/thumbnail.jpg",
+      "image1": "images/rec_room/1.jpg",
+      "image2": "images/rec_room/2.jpg",
+      "image3": "images/rec_room/3.jpg",
+      "video": "https://www.youtube.com/embed/6kl9gqv9t_I",
       "category": "ps5",
-      "genre": "гонка",
+      "genre": "многопользовательская",
       "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "мультяшная"
+      "tag": "миниигры"
     },
     {
       "id": 564,
@@ -2711,20 +2610,6 @@
       "genre": "песочница",
       "isChild": true,
       "tag": "крафт"
-    },
-    {
-      "id": 566,
-      "title": "Need for Speed Payback",
-      "description": "Действие происходит в подземном мире Долины Фортуны, вы и ваша команда были разделены предательством и воссоединены местью, чтобы уничтожить Дом, гнусный картель, который управляет городскими казино, преступниками и полицейскими. В этом раю продажных игроков ставки высоки, и Дом всегда выигрывает.",
-      "thumbnail": "images/nfs_payback/thumbnail.jpg",
-      "image1": "images/nfs_payback/1.jpg",
-      "image2": "images/nfs_payback/2.jpg",
-      "image3": "images/nfs_payback/3.jpg",
-      "video": "https://www.youtube.com/embed/9U2MRfv8HQg",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": true,
-      "tag": "экстрим"
     },
     {
       "id": 567,
@@ -2770,21 +2655,6 @@
       "tag": "экстрим"
     },
     {
-      "id": 570,
-      "title": "DIRT 5",
-      "description": "DIRT 5 — пока что самая дерзкая игра в легендарной франшизе гонок по бездорожью от Codemasters. Станьте частью атмосферы DIRT 5, где царит дух экстрима, абсолютное самовыражение и безудержный стиль. Здесь еще больше новшеств и адреналина!",
-      "thumbnail": "images/dirt_5/thumbnail.jpg",
-      "image1": "images/dirt_5/1.jpg",
-      "image2": "images/dirt_5/2.jpg",
-      "image3": "images/dirt_5/3.jpg",
-      "video": "https://www.youtube.com/embed/rPIj7Lxi-Q8",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "экстрим"
-    },
-    {
       "id": 571,
       "title": "Crossout",
       "description": "Crossout — это постапокалиптический экшн, в котором вы сможете собрать из десятков деталей бронемашину уникального дизайна, а затем сразиться на ней в жарких многопользовательских боях.",
@@ -2827,21 +2697,6 @@
       "tag": "война"
     },
     {
-      "id": 574,
-      "title": "Mortal Kombat XL",
-      "description": "Одна из самых популярных игр 2015 года теперь в формате XL! Расширьте границы Mortal Kombat X при помощи новых и уже вышедших дополнений. Включает в себя базовую игру, новых игровых персонажей: Чужого, Триборга и Бо Рай Чо - и уже выпущенных игровых персонажей: Хищника, Джейсона Вурхиза, Тремора, Таню и Горо. Также содержит новый набор обликов «Набор апокалипсиса».",
-      "thumbnail": "images/mortal_kombat_xl/thumbnail.jpg",
-      "image1": "images/mortal_kombat_xl/1.jpg",
-      "image2": "images/mortal_kombat_xl/2.jpg",
-      "image3": "images/mortal_kombat_xl/3.jpg",
-      "video": "https://www.youtube.com/embed/MHGwhPyxnTI",
-      "category": "ps5",
-      "genre": "файтинг",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
       "id": 575,
       "title": "Mortal Kombat 11",
       "description": "Mortal Kombat возвращается! И это лучшая версия культовой франшизы!",
@@ -2857,29 +2712,14 @@
       "tag": "драка"
     },
     {
-      "id": 576,
-      "title": "WWE 2K16",
-      "description": "Любители рестлинга могут почувствовать себя настоящими старожилами спорта, схлестнувшись с противниками на ринге и за его пределами. В данной игре имеются все атрибуты, присущие зрелищному шоу: столы, стулья, различные мусорные контейнеры, лестницы и многое другое. Устройте настоящее месиво, прорываясь на вершину спортивного олимпа.",
-      "thumbnail": "images/wwe_2k16/thumbnail.jpg",
-      "image1": "images/wwe_2k16/1.jpg",
-      "image2": "images/wwe_2k16/2.jpg",
-      "image3": "images/wwe_2k16/3.jpg",
-      "video": "https://www.youtube.com/embed/n5OgeEu0qzw",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
       "id": 577,
-      "title": "FIFA 20",
-      "description": "В вашем распоряжении сотни команд из множества мировых футбольных лиг, в числе которых Лига чемпионов УЕФА, а режим FIFA Ultimate Team предлагает еще больше возможностей для создания команды своей мечты.",
-      "thumbnail": "images/fifa_20/thumbnail.jpg",
-      "image1": "images/fifa_20/1.jpg",
-      "image2": "images/fifa_20/2.jpg",
-      "image3": "images/fifa_20/3.jpg",
-      "video": "https://www.youtube.com/embed/rrSpkJhZSuU",
+      "title": "FIFA 19",
+      "description": "FIFA 19 — это новый улучшенный игровой процесс. Вас ждут новые непревзойденные игровые режимы и финал потрясающей истории Алекса Хантера в режиме «История: Чемпионы», новый режим знаменитой FIFA Ultimate Team и многое другое.",
+      "thumbnail": "images/fifa_19/thumbnail.jpg",
+      "image1": "images/fifa_19/1.jpg",
+      "image2": "images/fifa_19/2.jpg",
+      "image3": "images/fifa_19/3.jpg",
+      "video": "https://www.youtube.com/embed/zX0AV6yxyrQ",
       "category": "ps5",
       "genre": "спорт",
       "isChild": true,
@@ -2888,13 +2728,13 @@
     },
     {
       "id": 578,
-      "title": "FIFA 22",
-      "description": "Заряжено футболом. EA SPORTS FIFA 22 как никогда приближает игру к реальности с фундаментальным улучшением игрового процесса и инновациями во всех режимах.",
-      "thumbnail": "images/fifa_22/thumbnail.jpg",
-      "image1": "images/fifa_22/1.jpg",
-      "image2": "images/fifa_22/2.jpg",
-      "image3": "images/fifa_22/3.jpg",
-      "video": "https://www.youtube.com/embed/o1igaMv46SY",
+      "title": "FIFA 20",
+      "description": "В вашем распоряжении сотни команд из множества мировых футбольных лиг, в числе которых Лига чемпионов УЕФА, а режим FIFA Ultimate Team предлагает еще больше возможностей для создания команды своей мечты.",
+      "thumbnail": "images/fifa_20/thumbnail.jpg",
+      "image1": "images/fifa_20/1.jpg",
+      "image2": "images/fifa_20/2.jpg",
+      "image3": "images/fifa_20/3.jpg",
+      "video": "https://www.youtube.com/embed/rrSpkJhZSuU",
       "category": "ps5",
       "genre": "спорт",
       "isChild": true,
@@ -2917,21 +2757,6 @@
       "tag": "быстрая"
     },
     {
-      "id": 581,
-      "title": "NBA 2K20",
-      "description": "Игра NBA 2K — это не просто симулятор баскетбола. Компания 2K продолжает расширять границы возможного в мире спортивных игр: NBA 2K20 обладает непревзойденными в жанре графикой и игровым процессом, инновационными режимами игры, неповторимой системой управления и невероятными возможностями персонализации. А благодаря реалистичному открытому миру Neighborhood игра NBA 2K20 позволит игрокам и поклонникам баскетбола объединиться и создать совершенную баскетбольную культуру.",
-      "thumbnail": "images/nba_20/thumbnail.jpg",
-      "image1": "images/nba_20/1.jpg",
-      "image2": "images/nba_20/2.jpg",
-      "image3": "images/nba_20/3.jpg",
-      "video": "https://www.youtube.com/embed/iFPWdc3PMBk",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "быстрая"
-    },
-    {
       "id": 582,
       "title": "NBA 2K23",
       "description": "Будьте на высоте и раскройте свой потенциал полностью в NBA 2K23. Проявите себя в противостоянии с лучшими игроками мира и продемонстрируйте свой талант в режиме MyCAREER. Объедините сегодняшних звезд и неподвластных времени легенд в MyTEAM. Создайте свою собственную династию в MyGM или поведите NBA в новом направлении в MyLEAGUE. Сразитесь с командами NBA или WNBA в режиме PLAY NOW и насладитесь реалистичным игровым процессом. Как вы ответите на вызов?",
@@ -2947,49 +2772,6 @@
       "tag": "быстрая"
     },
     {
-      "id": 583,
-      "title": "STEEP",
-      "description": "Катайтесь в огромном открытом мире альпийских склонов, где снег всегда свежий, а трассы бесконечны. Покорите дикие земли Америки в бесплатном расширении «Аляска»: откройте новые горы и новые испытания!",
-      "thumbnail": "images/steep/thumbnail.jpg",
-      "image1": "images/steep/1.jpg",
-      "image2": "images/steep/2.jpg",
-      "image3": "images/steep/3.jpg",
-      "video": "https://www.youtube.com/embed/sAGXhqUcPzs",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": true,
-      "tag": "экстрим"
-    },
-    {
-      "id": 584,
-      "title": "Trials Fusion",
-      "description": "Trials Fusion сочетает в себе гонки на мотоциклах, основанные на законах физики, сумасшедший мультиплеер, глобальные списки лидеров, создание и публикацию собственных трасс и новую систему трюков FMX.",
-      "thumbnail": "images/trials_fusion/thumbnail.jpg",
-      "image1": "images/trials_fusion/1.jpg",
-      "image2": "images/trials_fusion/2.jpg",
-      "image3": "images/trials_fusion/3.jpg",
-      "video": "https://www.youtube.com/embed/sAGXhqUcPzs",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": true,
-      "tag": "экстрим"
-    },
-    {
-      "id": 585,
-      "title": "UFC 2",
-      "description": "Узнайте, что значит быть чемпионом на арене смешанных единоборств. Выбирайте бойца из реальных спортсменов или используйте сложный редактор персонажа. Тренируйтесь, оттачивайте и совершенствуйте свой стиль. Покажите класс на арене благодаря сотням уникальных приемов и бросков.",
-      "thumbnail": "images/ufc_2/thumbnail.jpg",
-      "image1": "images/ufc_2/1.jpg",
-      "image2": "images/ufc_2/2.jpg",
-      "image3": "images/ufc_2/3.jpg",
-      "video": "https://www.youtube.com/embed/m97UWd2QuAI",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
       "id": 586,
       "title": "UFC 3",
       "description": "Технология Real Player Motion в UFC 3 меняет саму суть боёв и позволяет достичь максимальной управляемости. Все действия бойца с высочайшей точностью воссоздают реальность ощущений. Игрокам придётся поднимать шум вокруг боёв, привлекать фанатов, платить за тренировки и соперничать с другими бойцами. Поведение вне Октагона так же важно, как и выступление в нём. В Октагоне можно проводить быстрые поединки тут зрелищный нокаут стоит одного удара, а победа вершится в мгновение ока.",
@@ -2998,21 +2780,6 @@
       "image2": "images/ufc_3/2.jpg",
       "image3": "images/ufc_3/3.jpg",
       "video": "https://www.youtube.com/embed/FQUjlrEZglY",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
-      "id": 587,
-      "title": "UFC 4",
-      "description": "В EA SPORTS UFC 4 ваш боевой стиль, достижения и индивидуальность определяют то, каким бойцом вы станете. Развивайте и изменяйте своего персонажа при помощи единой системы развития во всех режимах.",
-      "thumbnail": "images/ufc_4/thumbnail.jpg",
-      "image1": "images/ufc_4/1.jpg",
-      "image2": "images/ufc_4/2.jpg",
-      "image3": "images/ufc_4/3.jpg",
-      "video": "https://www.youtube.com/embed/GjugTk9ovcI",
       "category": "ps5",
       "genre": "спорт",
       "isChild": false,
@@ -3035,21 +2802,6 @@
       "tag": "драка"
     },
     {
-      "id": 589,
-      "title": "Kung Fu Panda: Showdown of Legendary Legends",
-      "description": "Сражайтесь вместе с По, Тигрицей, Обезьяной, Тай Лунгом, Мастером Шифу и другими любимыми персонажами «Кунг-фу панды» в грандиозном турнире по кунг-фу, известном как «Столкновение легендарных легенд».",
-      "thumbnail": "images/kung_fu_panda/thumbnail.jpg",
-      "image1": "images/kung_fu_panda/1.jpg",
-      "image2": "images/kung_fu_panda/2.jpg",
-      "image3": "images/kung_fu_panda/3.jpg",
-      "video": "https://www.youtube.com/embed/g0b1Ho7Z3yY",
-      "category": "ps5",
-      "genre": "файтинг",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
       "id": 590,
       "title": "Red Dead Redemption 2",
       "description": "Америка, 1899 год. Эпоха Дикого Запада подходит к концу. Служители закона методично охотятся на остатки банд. Тех, кто не желает сдаваться, убивают. После сорвавшегося ограбления банка в западном городе Блэкуотер Артур Морган и другие подручные Датча ван дер Линде вынуждены пуститься в бега. Их банде предстоит участвовать в кражах, грабежах и перестрелках в самом сердце Америки, на неприветливой земле, где каждый день – это борьба за выживание.",
@@ -3063,34 +2815,7 @@
       "isChild": false,
       "tag": "открытый мир"
     },
-    {
-      "id": 592,
-      "title": "Goat Simulator",
-      "description": "Симулятор козла — это самая последняя технология симуляции козла, которая позволяет ВАМ воспользоваться симуляцией козла следующего поколения. Вам больше не придется воображать себя козлом, ваши мечты наконец-то осуществились!",
-      "thumbnail": "images/goat_simulator/thumbnail.jpg",
-      "image1": "images/goat_simulator/1.jpg",
-      "image2": "images/goat_simulator/2.jpg",
-      "image3": "images/goat_simulator/3.jpg",
-      "video": "https://www.youtube.com/embed/ZYbINugWKHA",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "смешная"
-    },
-    {
-      "id": 595,
-      "title": "Plants vs. Zombies: Битва за Нейборвиль",
-      "description": "Добро пожаловать в Нейборвиль, где жизнь идет своим чередом. Между безмозглыми и растениями назревает новый безумный конфликт! Что вы сделаете? Соберете урожай? Удобрите растения? Задайте жару на газоне в битве между растениями и зомби, в которой вам придется сражаться в самых дальних уголках Нейборвиля.",
-      "thumbnail": "images/plants_zombies_neighborville/thumbnail.jpg",
-      "image1": "images/plants_zombies_neighborville/1.jpg",
-      "image2": "images/plants_zombies_neighborville/2.jpg",
-      "image3": "images/plants_zombies_neighborville/3.jpg",
-      "video": "https://www.youtube.com/embed/RwYjx4VPzx0",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "баттлрояль"
-    },
+
     {
       "id": 598,
       "title": "Fall Guys: Ultimate Knockout",
@@ -3133,20 +2858,7 @@
       "isChild": false,
       "tag": "боевик"
     },
-    {
-      "id": 601,
-      "title": "Городские духи",
-      "description": "Вооружайтесь волшебной кистью и начинайте мазок за мазком оживлять заброшенный город Денску, играя за Эша — подростка с ярким воображением и главного героя этого трогательного приключения для PS4 и PSVR",
-      "thumbnail": "images/concrete_genie/thumbnail.jpg",
-      "image1": "images/concrete_genie/1.jpg",
-      "image2": "images/concrete_genie/2.jpg",
-      "image3": "images/concrete_genie/3.jpg",
-      "video": "https://www.youtube.com/embed/RN_IL4yXFDQ",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "мультяшная"
-    },
+
     {
       "id": 602,
       "title": "Subnautica",
@@ -3176,21 +2888,6 @@
       "tag": "мультяшная"
     },
     {
-      "id": 604,
-      "title": "Nickelodeon All-Star Brawl",
-      "description": "Выберите любимого персонажа Nickelodeon и сразитесь в крутейших битвах на платформах!",
-      "thumbnail": "images/nickelodeon_brawl/thumbnail.jpg",
-      "image1": "images/nickelodeon_brawl/1.jpg",
-      "image2": "images/nickelodeon_brawl/2.jpg",
-      "image3": "images/nickelodeon_brawl/3.jpg",
-      "video": "https://www.youtube.com/embed/xmXEt9lgpz0",
-      "category": "ps5",
-      "genre": "файтинг",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
       "id": 606,
       "title": "Genshin Impact",
       "description": "Genshin Impact – приключенческая ролевая игра с открытым миром. На континенте Тейват вы посетите семь стран, найдёте ловких спутников и сразитесь с могущественными врагами на пути к похищенному родственнику. А ещё здесь можно странствовать без цели, разгадывая тайны полного жизни мира. Пусть любопытство укажет вам путь! Разыщите близнеца и узнайте правду!",
@@ -3205,35 +2902,6 @@
       "tag": "аниме"
     },
     {
-      "id": 607,
-      "title": "Team Sonic Racing",
-      "description": "Team Sonic Racing совмещает лучшие элементы аркады и головокружительной азартной гонки. Соревнуйтесь с друзьями в напряженной многопользовательской гонке, мчитесь вместе по невероятным мирам и помогайте друг друг, делясь усилениями и ускорениями.",
-      "thumbnail": "images/sonic_racing/thumbnail.jpg",
-      "image1": "images/sonic_racing/1.jpg",
-      "image2": "images/sonic_racing/2.jpg",
-      "image3": "images/sonic_racing/3.jpg",
-      "video": "https://www.youtube.com/embed/0w7am-tyNMs",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "мультяшная"
-    },
-    {
-      "id": 608,
-      "title": "Biomutant",
-      "description": "Постапокалиптическая кун-фу RPG в открытом мире с уникальной системой боевых искусств. Жуткая чума опустошает земли, и Древо Жизни гибнет на глазах. Племена разобщены. Исследуйте гибнущий мир; спасется он или канет в бездну – решать вам и только вам.",
-      "thumbnail": "images/biomutant/thumbnail.jpg",
-      "image1": "images/biomutant/1.jpg",
-      "image2": "images/biomutant/2.jpg",
-      "image3": "images/biomutant/3.jpg",
-      "video": "https://www.youtube.com/embed/PKB1oNvXwDo",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 612,
       "title": "Batman: Arkham Knight",
       "description": "В игре BATMAN: Рыцарь Аркхема – бурном финале серии, действие разворачивается в Аркхеме, Бэтмен противостоит самой жестокой угрозе городу, который он поклялся защищать.",
@@ -3246,35 +2914,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "супергерои"
-    },
-    {
-      "id": 613,
-      "title": "Borderlands: The Handsome Collection",
-      "description": "Стреляйте и хватайте добычу, исследуя безумный мир Пандоры в BORDERLANDS 2 и лунные пейзажи в BORDERLANDS: THE PRE-SEQUEL. Набор BORDERLANDS: THE HANDSOME COLLECTION знакомит вас со знаменитой серией ролевых шутеров, и вас ждет бесконечное множество оружия, широкие возможности совместной игры.",
-      "thumbnail": "images/borderlands_handsome_collection/thumbnail.jpg",
-      "image1": "images/borderlands_handsome_collection/1.jpg",
-      "image2": "images/borderlands_handsome_collection/2.jpg",
-      "image3": "images/borderlands_handsome_collection/3.jpg",
-      "video": "https://www.youtube.com/watch?v=tcigRA6F2Rc&ab_channel=IGM",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 614,
-      "title": "Borderlands 3",
-      "description": "Всеми любимый «шутер с лутом» возвращается, чтобы порадовать вас базиллионами убойных стволов и новым крышесносным приключением! Вам предстоит покорить доселе не виданные миры, играя за одного из четырех новых искателей Хранилища – нереально крутых перцев, у каждого из которых уникальные навыки, способности и модификации. Действуя в одиночку или в компании друзей, вы должны будете дать бой яростным противникам, нагрести побольше трофеев и спасти свой дом от безжалостных психопатов, возглавляющих самую опасную секту в галактике.",
-      "thumbnail": "images/borderlands_3/thumbnail.jpg",
-      "image1": "images/borderlands_3/1.jpg",
-      "image2": "images/borderlands_3/2.jpg",
-      "image3": "images/borderlands_3/3.jpg",
-      "video": "https://www.youtube.com/watch?v=ltjNEUEQlOU",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "боевик"
     },
     {
       "id": 615,
@@ -3317,35 +2956,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
-    },
-    {
-      "id": 627,
-      "title": "Little Nightmares",
-      "description": "Little Nightmares заставит вас вспомнить свои детские кошмары. Помогите Шестой выбраться из Чрева — странного подводного судна с жуткими существами: они только и ищут, чем бы поживиться... Вы также попадете в страшный кукольный дом, который станет одновременно вашей тюрьмой и игровой площадкой. Разбудите в себе ребенка, дайте простор фантазии и выберитесь на свободу!",
-      "thumbnail": "images/little_nightmares/thumbnail.jpg",
-      "image1": "images/little_nightmares/1.jpg",
-      "image2": "images/little_nightmares/2.jpg",
-      "image3": "images/little_nightmares/3.jpg",
-      "video": "https://www.youtube.com/watch?v=sKIY4chtaBU&ab_channel=PlayStation%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
-      "id": 628,
-      "title": "Resident Evil Revelations 2",
-      "description": "Игра позволит погрузиться в мир хоррора, помогая одному из персонажей (Клэр Рэдфилд) выбраться с неизвестного острова. Там на каждом шагу встречаются кровожадные и чудовищные существа, способные быстро соображать и использовать оружие. В игре предусмотрены 4 эпизода, пройдя которые главные героини узнают много тайн и секретов. Им нужно узнать, кто их похитил и зачем. Играть можно как в одиночку, так и вдвоём.",
-      "thumbnail": "images/re_revelations_2/thumbnail.jpg",
-      "image1": "images/re_revelations_2/1.jpg",
-      "image2": "images/re_revelations_2/2.jpg",
-      "image3": "images/re_revelations_2/3.jpg",
-      "video": "https://www.youtube.com/watch?v=5oL-ChwWHn8&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "страшная",
-      "isLocalMultiplayer": true
     },
     {
       "id": 630,
@@ -3432,20 +3042,6 @@
       "tag": "боевик"
     },
     {
-      "id": 636,
-      "title": "Uncharted 4: Путь вора",
-      "description": "Спустя несколько лет после своего последнего приключения, отказавшийся от жизни охотника за сокровищами Натан Дрейк неожиданно возвращается в мир воров. Судьба бросает ему новый вызов, когда в жизни Дрейка вновь появляется его считавшийся погибшим брат Сэм, с просьбой спасти его жизнь. На этот раз у Дрейка есть личная мотивация отправиться в ошеломляющее приключение всему миру и расследовать исторический заговор, связанный с легендарным пиратским кладом.",
-      "thumbnail": "images/uncharted_4/thumbnail.jpg",
-      "image1": "images/uncharted_4/1.jpg",
-      "image2": "images/uncharted_4/2.jpg",
-      "image3": "images/uncharted_4/3.jpg",
-      "video": "https://www.youtube.com/watch?v=yMMzkBrw7IU&ab_channel=PlayStation%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 637,
       "title": "Uncharted: Утраченное наследие",
       "description": "Чтобы сохранить легендарный индийский артефакт и уберечь его от рук дельца, зарабатывающего на войне, Хлоя Фрейзер должна прибегнуть к помощи известной наемницы Надин Росс из «Uncharted 4: Путь вора».",
@@ -3458,20 +3054,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
-    },
-    {
-      "id": 639,
-      "title": "ONRUSH",
-      "description": "Торжество скорости, откровенного веселья и непревзойденного зрелища. ONRUSH — это гоночная игра, в которой вы всегда находитесь в самом центре событий. Все дело в стиле, чутье и ощущении от выполнения невероятных трюков. Гоняйтесь на грани контроля и рискуя всем, чтобы одержать победу для своей команды.",
-      "thumbnail": "images/onrush/thumbnail.jpg",
-      "image1": "images/onrush/1.jpg",
-      "image2": "images/onrush/2.jpg",
-      "image3": "images/onrush/3.jpg",
-      "video": "https://www.youtube.com/watch?v=-gpcfmFT3jo&ab_channel=PlayStationEurope",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": false,
-      "tag": "экстрим"
     },
     {
       "id": 643,
@@ -3602,21 +3184,6 @@
       "genre": "файтинг",
       "tag": "супергерои",
       "isChild": false,
-      "isLocalMultiplayer": true
-    },
-    {
-      "id": 655,
-      "title": "Horizon Chase Turbo",
-      "description": "Гоночная игра, вдохновленная великолепными хитами 80-х и 90-х: Out Run, Top Gear, Rush и другими. Она воссоздает классический аркадный геймплей и предлагает вам безграничный простор для веселья.",
-      "thumbnail": "images/horizon_chase_turbo/thumbnail.jpg",
-      "image1": "images/horizon_chase_turbo/1.jpg",
-      "image2": "images/horizon_chase_turbo/2.jpg",
-      "image3": "images/horizon_chase_turbo/3.jpg",
-      "video": "https://www.youtube.com/watch?v=4VomFVNGgnA&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "гонка",
-      "tag": "мультяшная",
-      "isChild": true,
       "isLocalMultiplayer": true
     },
     {
@@ -3919,20 +3486,6 @@
       "genre": "аркада",
       "isChild": true,
       "tag": "мультяшная"
-    },
-    {
-      "id": 680,
-      "title": "Alex Kidd in Miracle World DX",
-      "description": "Вам предстоит победить злого Джанкена Великого и спасти население города Radaxian раз и навсегда!Миру нужен герой — чего же вы ждёте?",
-      "thumbnail": "images/alex_kidd/thumbnail.jpg",
-      "image1": "images/alex_kidd/1.jpg",
-      "image2": "images/alex_kidd/2.jpg",
-      "image3": "images/alex_kidd/3.jpg",
-      "video": "https://www.youtube.com/embed/ap-augmfScc",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "пиксельная"
     },
     {
       "id": 681,
@@ -4357,20 +3910,6 @@
       "tag": "супергерои"
     },
     {
-      "id": 714,
-      "title": "Alan Wake Remastered",
-      "description": "В этом отмеченном наградами кинематографическом боевике писатель Алан Уэйк отправляется на отчаянные поиски своей пропавшей жены Элис. После её таинственного исчезновения из городка Брайт-Фоллс на северо-западе тихоокеанского побережья он обнаруживает страницы с ужасающей историей, якобы написанной им, но о чём он сам не помнит.",
-      "thumbnail": "images/alan_wake/thumbnail.jpg",
-      "image1": "images/alan_wake/1.jpg",
-      "image2": "images/alan_wake/2.jpg",
-      "image3": "images/alan_wake/3.jpg",
-      "video": "https://www.youtube.com/embed/cF_YGL3W6CE",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 715,
       "title": "Days Gone",
       "description": "Объездите мир, живущий по волчьим законам и опустошенный смертоносной пандемией, играя за байкера и охотника за головами Дикона Сент-Джона.",
@@ -4407,20 +3946,6 @@
       "image2": "images/horizon_zero_dawn/2.jpg",
       "image3": "images/horizon_zero_dawn/3.jpg",
       "video": "https://www.youtube.com/embed/u4-FCsiF5x4",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 718,
-      "title": "Horizon Запретный Запад",
-      "description": "Отправьтесь вместе с Элой в путешествие по опасному миру Запретного Запада, который скрывает новые загадочные угрозы.",
-      "thumbnail": "images/horizon_forbidden_west/thumbnail.jpg",
-      "image1": "images/horizon_forbidden_west/1.jpg",
-      "image2": "images/horizon_forbidden_west/2.jpg",
-      "image3": "images/horizon_forbidden_west/3.jpg",
-      "video": "https://www.youtube.com/embed/x_qriLfG2PM",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -4607,21 +4132,6 @@
       "category": "ps5",
       "genre": "гонка",
       "isChild": true,
-      "tag": "экстрим"
-    },
-    {
-      "id": 733,
-      "title": "GRIP",
-      "description": "Управляй законами гравитации, стань обладателем внушительного арсенала уникального оружия и погружайся с GRIP в самые быстрые и самые горячие гонки. Взлетай на стены, потолки, - любые поверхности, по которым могут нестись колеса твоего гонщика...после того, как освоишь манящие трассы, секреты вождения и умопомрачительные трюки на своем пути через Галактику.",
-      "thumbnail": "images/grip/thumbnail.jpg",
-      "image1": "images/grip/1.jpg",
-      "image2": "images/grip/2.jpg",
-      "image3": "images/grip/3.jpg",
-      "video": "https://www.youtube.com/embed/81UOQMNA_BY",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": true,
-      "isLocalMultiplayer": true,
       "tag": "экстрим"
     },
     {
