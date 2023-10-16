@@ -2436,6 +2436,20 @@
       "tag": "мультяшная"
     },
     {
+      "id": 550,
+      "title": "Roblox",
+      "description": "Каждый день десятки миллионов людей приходят в Roblox, чтобы исследовать, играть, учиться и общаться друг с другом в захватывающих цифровых 3D-приложениях, созданных нашим глобальным сообществом творцов.",
+      "thumbnail": "images/roblox/thumbnail.jpg",
+      "image1": "images/roblox/1.jpg",
+      "image2": "images/roblox/2.jpg",
+      "image3": "images/roblox/3.jpg",
+      "video": "https://www.youtube.com/embed/vyhT-9Xq-g8",
+      "category": "ps5",
+      "genre": "многопользовательская",
+      "isChild": true,
+      "tag": "миниигры"
+    },
+    {
       "id": 551,
       "title": "Rayman Legends",
       "description": "Поляна Снов опять в опасности! С помощью Мерфи Рэйман и Глобокс пробудились, и теперь они должны сразиться с кошмарами, чтобы спасти тинси!",
