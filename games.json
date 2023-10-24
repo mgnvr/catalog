@@ -3601,34 +3601,6 @@
       "tag": "головоломка"
     },
     {
-      "id": 685,
-      "title": "Limbo",
-      "description": "Не зная о судьбе своей сестры, мальчик входит в LIMBO.",
-      "thumbnail": "images/limbo/thumbnail.jpg",
-      "image1": "images/limbo/1.jpg",
-      "image2": "images/limbo/2.jpg",
-      "image3": "images/limbo/3.jpg",
-      "video": "https://youtu.be/L1nF4XfnJMs",
-      "category": "ps5",
-      "genre": "аркада",
-      "tag": "страшная",
-      "isChild": false
-    },
-    {
-      "id": 686,
-      "title": "Inside",
-      "description": "Гонимый и одинокий, мальчик оказывается в самом центре мрачного проекта.",
-      "thumbnail": "images/inside/thumbnail.jpg",
-      "image1": "images/inside/1.jpg",
-      "image2": "images/inside/2.jpg",
-      "image3": "images/inside/3.jpg",
-      "video": "https://youtu.be/V9sf_s4vyCY",
-      "category": "ps5",
-      "genre": "аркада",
-      "tag": "страшная",
-      "isChild": false
-    },
-    {
       "id": 687,
       "title": "Unravel Two",
       "description": "Ваше приключение начнется в холодных землях, но чем дальше, тем ярче будет мир. Погрузитесь в увлекательную историю, полную энергии, радости, вдохновения и даже монстров. Подходите к проблемам с позитивом и смелостью, чтобы разбудить мир вокруг и познать настоящую дружбу.",
@@ -4135,20 +4107,6 @@
       "tag": "боевик"
     },
     {
-      "id": 729,
-      "title": "Far Cry 5",
-      "description": "Добро пожаловать в округ Хоуп (штат Монтана), где живут свободные смелые люди и нашла себе пристанище фанатичная секта, ожидающая конца света. Бросьте вызов главе секты Иосифу Сиду, а также его братьям и сестре, известным как вестники, чтобы разжечь пламя сопротивления и освободить захваченную общину.",
-      "thumbnail": "images/far_cry_5/thumbnail.jpg",
-      "image1": "images/far_cry_5/1.jpg",
-      "image2": "images/far_cry_5/2.jpg",
-      "image3": "images/far_cry_5/3.jpg",
-      "video": "https://www.youtube.com/embed/HimWP4Q8qg4",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 730,
       "title": "Pure Pool",
       "description": "В игре доступны 4 режима, от классической американской 'восьмёрки' до стрейт-пула, 4 вида соревнований, полноценный многопользовательский режим, а также всемирные списки лидеров.",
@@ -4316,6 +4274,35 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "война"
+    },
+    {
+      "id": 767,
+      "title": "The Dark Pictures Anthology: House of Ashes",
+      "description": "Ирак, 2003 год. Конфликт близится к концу, и отряд военных в сопровождении агента ЦРУ Рейчел Кинг получает задание проверить потенциальную фабрику химического оружия у подножия горы Загрос. Прибыв на место, поисковый отряд попадает в засаду местного патруля, которым командует сержант Салим Отман. Во время боя из-за землетрясения на поверхности образуется провал, и оба отряда попадают в погребённые руины шумерского храма, где во тьме пробудилось нечто зловещее. У древних ненасытных созданий появилась новая добыча. Отряду предстоит столкнуться с ужасающими открытиями и принимать невозможные решения на пути к выходу из подземного лабиринта.",
+      "thumbnail": "images/dark_pictures_house_of_ashes/thumbnail.jpg",
+      "image1": "images/dark_pictures_house_of_ashes/1.jpg",
+      "image2": "images/dark_pictures_house_of_ashes/2.jpg",
+      "image3": "images/dark_pictures_house_of_ashes/3.jpg",
+      "video": "https://youtu.be/7xBij5tzqkk",
+      "category": "ps5",
+      "genre": "интерактивное кино",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "страшная"
+    },
+    {
+      "id": 768,
+      "title": "Dead Island",
+      "description": "Добро пожаловать на величайший и прекраснейший зомби-апокалипсис в мире. Оказавшись в гуще эпидемии зомби на тропическом острове Баной, только одна мысль бьется у вас в голове: выжить!",
+      "thumbnail": "images/dead_island/thumbnail.jpg",
+      "image1": "images/dead_island/1.jpg",
+      "image2": "images/dead_island/2.jpg",
+      "image3": "images/dead_island/3.jpg",
+      "video": "https://youtu.be/0Z-b-1LQ1sI",
+      "category": "ps5",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
     },
     {
       "id": 769,
