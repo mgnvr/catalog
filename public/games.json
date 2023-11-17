@@ -4838,20 +4838,6 @@
       "tag": "зомби"
     },
     {
-      "id": 942,
-      "title": "After the Fall",
-      "description": "Добро пожаловать на Рубеж... Апокалипсис превратил Лос-Анджелес образца 1980-х годов в снежную пустыню, кишащую мутировавшей нежитью. С тех пор прошли десятки лет. Вы начинаете жить заново в подземном лагере с командой. включающей до 32 других выживших, и берете в руки оружие в роли Harvest Runner. В чем ваша задача? Выбраться на поверхность, пересечь Рубеж в городе и найти ресурсы, чтобы человечество прожило ещё день.",
-      "thumbnail": "images/after_the_fall/thumbnail.jpg",
-      "image1": "images/after_the_fall/1.jpg",
-      "image2": "images/after_the_fall/2.jpg",
-      "image3": "images/after_the_fall/3.jpg",
-      "video": "https://youtu.be/uiceGbFf89k",
-      "category": "oq2",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 944,
       "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
       "description": "Преследуемый, казалось бы, неудержимым Топорщиком и противостоящий последнему стремлению Башни к полному господству, узнайте, что объединяет эти новые угрозы, пока не стало слишком поздно.",
@@ -5059,6 +5045,20 @@
       "video": "https://www.youtube.com/embed/YSNPalIihiE",
       "category": "oq2",
       "genre": "спорт",
+      "isChild": true,
+      "tag": "экстрим"
+    },
+    {
+      "id": 972,
+      "title": "Richie's Plank Experience",
+      "description": "Ты на узенькой доске на высоте 80 этажей. Колени дрожат, ладони потные. У тебя есть выбор. Ты пройдёшь или нет?",
+      "thumbnail": "images/richies_plank/thumbnail.jpg",
+      "image1": "images/richies_plank/1.jpg",
+      "image2": "images/richies_plank/2.jpg",
+      "image3": "images/richies_plank/3.jpg",
+      "video": "https://www.youtube.com/embed/ImbhUHhWmSM",
+      "category": "oq2",
+      "genre": "аттракцион",
       "isChild": true,
       "tag": "экстрим"
     },
