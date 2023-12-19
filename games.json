@@ -4431,6 +4431,20 @@
       "tag": "сражение"
     },
     {
+      "id": 904,
+      "title": "Disc Ninja",
+      "description": "Погрузитесь в захватывающую дух виртуальную реальность и попрактикуйтесь в диск-гольфе, не выходя из собственного дома. Отправляйтесь в запредельную страну, следуя примеру золотого дракона, и станьте Диск-ниндзя! Исследуйте впечатляющие ландшафты, включающие высокие горы, коварные долины, прекрасные дворцы и храмы, полные смертельных ловушек.",
+      "thumbnail": "images/disc_ninja/thumbnail.jpg",
+      "image1": "images/disc_ninja/1.jpg",
+      "image2": "images/disc_ninja/2.jpg",
+      "image3": "images/disc_ninja/3.jpg",
+      "video": "https://youtu.be/YEt5UrDIfbg",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "сражение"
+    },
+    {
       "id": 905,
       "title": "Space Pirate Trainer",
       "description": "Space Pirate Trainer - тренажёр для любителей космических пиратов в VR. Возьмите бластеры, наденьте кроссовки и преодолейте свой путь в зал славы космических пиратов.",
@@ -4587,17 +4601,17 @@
     },
     {
       "id": 918,
-      "title": "Ultrawings 2",
-      "description": "С возвращением в Ultrawings, пилот! Поднимитесь в небо, используя свои виртуальные руки, чтобы управлять 5 уникальными самолетами, выполняя разнообразный набор увлекательных, созданных вручную миссий в тематическом мире острова в этой приключенческой игре!",
-      "thumbnail": "images/ultrawings_2/thumbnail.jpg",
-      "image1": "images/ultrawings_2/1.jpg",
-      "image2": "images/ultrawings_2/2.jpg",
-      "image3": "images/ultrawings_2/3.jpg",
-      "video": "https://www.youtube.com/embed/dNEIdHa9NDc",
+      "title": "Asgard's Wrath 2",
+      "description": "Пробудись, Космический Страж – Судьба реальности находится в твоих руках. Путешествуйте по обширным мирам, населенным богами, в поисках бога-обманщика Локи, который угрожает разорвать нити вселенной. Вам предстоит сражаться как с богами, так и с монстрами, принимая участие в одной из самых больших и эпических ролевых игр в жанре экшн, когда-либо существовавших в виртуальной реальности.",
+      "thumbnail": "images/asgard_wrath_2/thumbnail.jpg",
+      "image1": "images/asgard_wrath_2/1.jpg",
+      "image2": "images/asgard_wrath_2/2.jpg",
+      "image3": "images/asgard_wrath_2/3.jpg",
+      "video": "https://youtu.be/qSGbejtHEL0",
       "category": "oq2",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "экстрим"
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
     },
     {
       "id": 921,
@@ -4699,6 +4713,20 @@
     },
     {
       "id": 928,
+      "title": "Goalie Challenge VR",
+      "description": "Почувствуй, как шайба пролетает мимо твоей головы в этом веселом и динамичном виртуальном симуляторе голкипера.",
+      "thumbnail": "images/goalie_challenge/thumbnail.jpg",
+      "image1": "images/goalie_challenge/1.jpg",
+      "image2": "images/goalie_challenge/2.jpg",
+      "image3": "images/goalie_challenge/3.jpg",
+      "video": "https://www.youtube.com/embed/Bv3WuwNgk8A",
+      "category": "oq2",
+      "genre": "спорт",
+      "isChild": true,
+      "tag": "быстрая"
+    },
+    {
+      "id": 929,
       "title": "Painting VR",
       "description": "Рисовать в виртуальной реальности легко: смешайте цвета, обмакните кисть и начните рисовать.",
       "thumbnail": "images/painting_vr/thumbnail.jpg",
@@ -4712,7 +4740,7 @@
       "tag": "дизайн"
     },
     {
-      "id": 929,
+      "id": 930,
       "title": "Another Fisherman's Tale",
       "description": "Погрузитесь в поэтическое повествование, исследуя новую головокружительную механику головоломок виртуальной реальности. Решайте головоломки, используя собственное тело, отсоединяйте конечности и управляйте ими, а также находите новые приспособления для прогресса. Откройте для себя правду, путешествуя по красивым и уникальным локациям, воплощенным в жизнь создателями «Истории рыбака».",
       "thumbnail": "images/another_fisherman_tale/thumbnail.jpg",
@@ -4724,20 +4752,6 @@
       "genre": "головоломка",
       "isChild": true,
       "tag": "сказка"
-    },
-    {
-      "id": 932,
-      "title": "Into the Radius VR",
-      "description": "Исследуйте пустоши Радиуса, полные монстров и опасных аномалий. Защищайтесь с помощью реалистичного оружия, собирайте удивительные артефакты и раскрывайте секреты аномальной местности.",
-      "thumbnail": "images/into_the_radius/thumbnail.jpg",
-      "image1": "images/into_the_radius/1.jpg",
-      "image2": "images/into_the_radius/2.jpg",
-      "image3": "images/into_the_radius/3.jpg",
-      "video": "https://www.youtube.com/embed/ZhnrBeQkOXI",
-      "category": "oq2",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "сюжет"
     },
     {
       "id": 933,
@@ -4838,18 +4852,32 @@
       "tag": "зомби"
     },
     {
-      "id": 944,
-      "title": "The Walking Dead: Saints & Sinners - Chapter 2: Retribution",
-      "description": "Преследуемый, казалось бы, неудержимым Топорщиком и противостоящий последнему стремлению Башни к полному господству, узнайте, что объединяет эти новые угрозы, пока не стало слишком поздно.",
-      "thumbnail": "images/walking_dead_chapter_2/thumbnail.jpg",
-      "image1": "images/walking_dead_chapter_2/1.jpg",
-      "image2": "images/walking_dead_chapter_2/2.jpg",
-      "image3": "images/walking_dead_chapter_2/3.jpg",
-      "video": "https://www.youtube.com/embed/xjDxZ3YD4Cw",
+      "id": 942,
+      "title": "Arizona Sunshine 2",
+      "description": "Пора поприветствовать старого приятеля - Фреда. Arizona Sunshine 2 - современное продолжение полюбившегося фанатам ВР-апокалипсиса, в котором ещё больше шикарного зомби-экшена! Что может быть быть лучше, чем пережить конец света? Выживайте со своим новым лучшим другом - Дружком.",
+      "thumbnail": "images/arizona_sunshine_2/thumbnail.jpg",
+      "image1": "images/arizona_sunshine_2/1.jpg",
+      "image2": "images/arizona_sunshine_2/2.jpg",
+      "image3": "images/arizona_sunshine_2/3.jpg",
+      "video": "https://youtu.be/kNaSe37rcG4",
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
       "tag": "зомби"
+    },
+    {
+      "id": 943,
+      "title": "Assassin’s Creed Nexus VR",
+      "description": "Сыграйте за трёх легендарных ассасинов в новом полномасштабном экшн-приключении из серии Assassin’s Creed. Испытайте трепет во время паркура, прилив восторга в бою и напряженное ожидание, когда прячетесь в тени. Вас ждет непревзойденный уровень погружения в образ ассасина. Раскройте новые воспоминания Эцио Аудиторе, Кассандры и Коннора и помешайте планам 'Абстерго', которая хочет управлять убеждениями людей.",
+      "thumbnail": "images/assassins_сreed_nexus_vr/thumbnail.jpg",
+      "image1": "images/assassins_сreed_nexus_vr/1.jpg",
+      "image2": "images/assassins_сreed_nexus_vr/2.jpg",
+      "image3": "images/assassins_сreed_nexus_vr/3.jpg",
+      "video": "https://youtu.be/6qjhB9xeELo",
+      "category": "oq2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
     },
     {
       "id": 945,
@@ -4874,20 +4902,6 @@
       "image2": "images/star_wars_tales/2.jpg",
       "image3": "images/star_wars_tales/3.jpg",
       "video": "https://www.youtube.com/embed/vXVBiF73a_o",
-      "category": "oq2",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "сюжет"
-    },
-    {
-      "id": 948,
-      "title": "Red Matter 2",
-      "description": "Захватывающая приключенческая игра-головоломка, которая перенесет вас в далекие уголки космоса в антиутопическом сеттинге холодной войны. Встаньте на место Саши, агента, разбуженного на лунной базе оперативником под прикрытием и которому поручено раскрыть секреты таинственной Красной Материи.",
-      "thumbnail": "images/red_matter_2/thumbnail.jpg",
-      "image1": "images/red_matter_2/1.jpg",
-      "image2": "images/red_matter_2/2.jpg",
-      "image3": "images/red_matter_2/3.jpg",
-      "video": "https://youtu.be/a2MbQOcks50",
       "category": "oq2",
       "genre": "экшн",
       "isChild": false,
@@ -4948,20 +4962,6 @@
       "genre": "спорт",
       "isChild": true,
       "tag": "паркур"
-    },
-    {
-      "id": 955,
-      "title": "Espire 2: Stealth Operatives",
-      "description": "Возьмите под свой контроль превосходного оперативника-невидимку и спасите мир в этом одиночном и кооперативном шутерах от первого лица!",
-      "thumbnail": "images/espire_2/thumbnail.jpg",
-      "image1": "images/espire_2/1.jpg",
-      "image2": "images/espire_2/2.jpg",
-      "image3": "images/espire_2/3.jpg",
-      "video": "https://www.youtube.com/embed/hbJW6q-P1xs",
-      "category": "oq2",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "сюжет"
     },
     {
       "id": 956,
