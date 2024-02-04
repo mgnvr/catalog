@@ -72,20 +72,6 @@
       "tag": "смешная"
     },
     {
-      "id": 6,
-      "title": "Island Time VR",
-      "description": "Если вы когда-нибудь задумывались над тем, на что может быть похоже выживание на острове, эта игра для вас, приятель. Воспользовавшись советом нового друга, краба Карла, вы сможете найти способ уберечь себя от голода и выжить как можно дольше.",
-      "thumbnail": "images/island_time/thumbnail.jpg",
-      "image1": "images/island_time/1.jpg",
-      "image2": "images/island_time/2.jpg",
-      "image3": "images/island_time/3.jpg",
-      "video": "https://www.youtube.com/embed/pkGwJoAqUjo",
-      "category": "htc",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "выживание"
-    },
-    {
       "id": 7,
       "title": "Cave Digger",
       "description": "Cave Digger – это VR-симулятор копателя руды для HTC Vive и Oculus Rift. Действие игры происходит в маленьком городке в альтернативной вселенной Дикого Запада. Экипируйте списанные в утиль инструменты и прыгайте в лифт, который спустит Вас на глубину шахты. Находите самые богатые жилы, которые просто не могут дождаться того момента, когда честные трудяги вонзят в них свои кирки!",
@@ -154,21 +140,6 @@
       "genre": "песочница",
       "isChild": true,
       "tag": "крафт"
-    },
-    {
-      "id": 12,
-      "title": "Spider-Man: Homecoming VR",
-      "description": "Впервые вы можете примерить костюм Человека-паука на себя и узнать, каково это — быть любимым супергероем всего мира. Изучайте возможности новых улучшенных пускателей паутины, разработанных компанией Stark Industries, и осваивайте различные виды паутины, выполняя динамичные задания. Учтите: учиться придется буквально на лету — Стервятник на свободе и разыскивает вас.",
-      "thumbnail": "images/spider_man/thumbnail.jpg",
-      "image1": "images/spider_man/1.jpg",
-      "image2": "images/spider_man/2.jpg",
-      "image3": "images/spider_man/3.jpg",
-      "video": "https://www.youtube.com/embed/g86VYjQnX0c",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": true,
-      "isVeryChild": true,
-      "tag": "супергерои"
     },
     {
       "id": 13,
@@ -285,20 +256,6 @@
       "tag": "ритм"
     },
     {
-      "id": 21,
-      "title": "Townsmen VR",
-      "description": "Откиньтесь на спинку кресла, расслабьтесь и наблюдайте за суетливой жизнью ваших жителей или активно принимайте участие в ускорении процессов и перемещении работников и ресурсов туда, где они необходимы. Вы можете плавно переключаться между всеобъемлющим взглядом бога и детальным взглядом гражданина, способного следить за красочной жизнью вашей деревни. Существует много открытий! Но остерегайтесь разграбления орд Черного рыцаря!",
-      "thumbnail": "images/townsmen/thumbnail.jpg",
-      "image1": "images/townsmen/1.jpg",
-      "image2": "images/townsmen/2.jpg",
-      "image3": "images/townsmen/3.jpg",
-      "video": "https://www.youtube.com/embed/twHzBGTKvlo",
-      "category": "htc",
-      "genre": "стратегия",
-      "isChild": false,
-      "tag": "стройка"
-    },
-    {
       "id": 22,
       "title": "Accounting",
       "description": "Современная сфера бухгалтерского учета - это серьезная и почетная профессия. Многие люди потратили свои жизни на тяжелую науку о числах. Тысячи людей умерли, чтобы мы могли достичь того уровня понимания, который мы имеем сегодня. Тысячи умерли. Тем не менее, так как бухгалтеры и кузнецы приняли счеты и калькулятор, сегодня мы должны принять новейшие технологические достижения.",
@@ -397,20 +354,6 @@
       "tag": "лук"
     },
     {
-      "id": 29,
-      "title": "SACRALITH : The Archer`s Tale",
-      "description": "Интересная история, которая погрузит вас с головой в мир виртуальной реальности. Максимально правдоподобная стрельба из лука, единственное, что мы не можем передать - тяжесть лука, но всегда можно привязать к геймпаду камень.",
-      "thumbnail": "images/sacralith/thumbnail.jpg",
-      "image1": "images/sacralith/1.jpg",
-      "image2": "images/sacralith/2.jpg",
-      "image3": "images/sacralith/3.jpg",
-      "video": "https://www.youtube.com/embed/DiBJAXai-bk",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "лук"
-    },
-    {
       "id": 30,
       "title": "Serious Sam VR: The Last Hope",
       "description": "Вы когда-нибудь задумывались о том, каково быть в шкуре Крутого Сэма? Вы когда-нибудь хотели отвесить люлей прихвостням Ментала собственными руками? Что же, время пришло! Возьмите на себя роль величайшего героя Армии Обороны Земли в уникальной VR-симуляции, основанной на журнальных записях Сэма Стоуна в бытность его службы капитаном боевого эсминца Саратога. Пройдите через тот ад, который сделал капитана Стоуна легендой.",
@@ -481,34 +424,6 @@
       "tag": "вестерн"
     },
     {
-      "id": 35,
-      "title": "Killing Floor: Incursion",
-      "description": "Killing Floor — приключенческая игра с сюжетом из нескольких глав, созданная специально для виртуальной реальности. Вам предстоит исследовать детально проработанный захватывающий мир — в одиночку или с другом, — борясь за жизнь с помощью пистолетов, дробовиков, топоров и даже попавших под руку конечностей. Вы побываете в самых разных местах — от жутких ферм до загадочных катакомб — и выясните, кто или что стоит за нашествием мутантов. Вам откроются истинные намерения компании Horzine — но будьте бдительны в выборе того, кому можно доверять.",
-      "thumbnail": "images/killing_floor/thumbnail.jpg",
-      "image1": "images/killing_floor/1.jpg",
-      "image2": "images/killing_floor/2.jpg",
-      "image3": "images/killing_floor/3.jpg",
-      "video": "https://www.youtube.com/embed/hjI8pLCX4O8",
-      "category": "htc",
-      "genre": "шутер",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
-      "id": 36,
-      "title": "Onward",
-      "description": "Onward - тактический многопользовательский шутер. Игроки будут использовать навыки координации, общения и меткой стрельбы для выполнения задач в онлайн-бою пехоты. С динамическим временем дня, погодными эффектами, множеством сред и сценариев никакие перестрелки не будут ощущаться одинаково. С ограниченными возрождениями, без интерфейса и без прицела игрокам понадобятся их остроумие и боевые навыки, чтобы выжить.",
-      "thumbnail": "images/onward/thumbnail.jpg",
-      "image1": "images/onward/1.jpg",
-      "image2": "images/onward/2.jpg",
-      "image3": "images/onward/3.jpg",
-      "video": "https://www.youtube.com/watch?v=sp7xcZPzWGE&ab_channel=vrgamecritic",
-      "category": "htc",
-      "genre": "шутер",
-      "isChild": false,
-      "tag": "война"
-    },
-    {
       "id": 37,
       "title": "Sairento VR",
       "description": "Sairento VR — аркадный экшн с видом от первого лица. События игры разворачиваются в Японии недалекого будущего, вокруг одного ниндзя, который и по это время чтит древний кодекс самураев. Далеко не все кланы поступили так же и всё же перешли на темную сторону, улучшив себя кибер-имплантами. Вам предстоит уничтожить их всех, используя огнестрельное оружие и меч самурая.",
@@ -521,20 +436,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "киберпанк"
-    },
-    {
-      "id": 38,
-      "title": "STAND OUT",
-      "description": "В STAND OUT: VR Battle Royale вы будете прыгать с парашютом на острове, и вам придется исследовать окрестности, чтобы найти оружие и снаряжение для борьбы за свое выживание. Используйте машины, чтобы двигаться быстрее и следите за смертоносным барьером, который сокращает поле битвы во время игры и заставляет игроков убивать друг друга. Только один останется...",
-      "thumbnail": "images/stand_out/thumbnail.jpg",
-      "image1": "images/stand_out/1.jpg",
-      "image2": "images/stand_out/2.jpg",
-      "image3": "images/stand_out/3.jpg",
-      "video": "https://www.youtube.com/embed/e3JbJXEGwOs",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "война"
     },
     {
       "id": 39,
@@ -649,20 +550,6 @@
       "tag": "олдскул"
     },
     {
-      "id": 48,
-      "title": "Drunk or Dead",
-      "description": "VR-шутер Drunk or Dead погружает вас в пост-апокалиптический мир, где вам предстоит противостоять бесчисленным зомби с помощью оружия и алкоголя. Вас ждет увлекательный и динамичный соревновательный геймплей: толпы врагов, опасные боссы, горячие красотки и море алкоголя - ведь только он спасет вас от зомби-вируса!",
-      "thumbnail": "images/drunk_or_dead/thumbnail.jpg",
-      "image1": "images/drunk_or_dead/1.jpg",
-      "image2": "images/drunk_or_dead/2.jpg",
-      "image3": "images/drunk_or_dead/3.jpg",
-      "video": "https://www.youtube.com/embed/70kby6hjnpQ",
-      "category": "htc",
-      "genre": "шутер",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 49,
       "title": "Headshot VR",
       "description": "Мультяшный Counter-Strike",
@@ -675,20 +562,6 @@
       "genre": "шутер",
       "isChild": false,
       "tag": "война"
-    },
-    {
-      "id": 50,
-      "title": "Raw Data",
-      "description": "Нео-Синдзюку - 2271 год. Огромная и, казалось бы, доброжелательная корпорация Иден владеет миром. Элитное движение сопротивления хакеров SyndiK8 раскопало зловещую правду, стоящую за новейшей линейкой роботизированных продуктов Eden Corp. Как один из элитных оперативников SyndiK8, ваша миссия проста: проникнуть в Eden Tower, украсть как можно больше необработанных данных и выбраться живым.",
-      "thumbnail": "images/raw_data/thumbnail.jpg",
-      "image1": "images/raw_data/1.jpg",
-      "image2": "images/raw_data/2.jpg",
-      "image3": "images/raw_data/3.jpg",
-      "video": "https://www.youtube.com/watch?v=8phhKZn4DuM&ab_channel=Survios",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "киберпанк"
     },
     {
       "id": 51,
@@ -741,34 +614,6 @@
       "image2": "images/bellows/2.jpg",
       "image3": "images/bellows/3.jpg",
       "video": "https://www.youtube.com/embed/FV6mjxxAuBM",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
-      "id": 55,
-      "title": "Paranormal Activity",
-      "description": "Это оригинальная история, основанная на мифологии широко популярной франшизы Paranormal Activity, включает в себя наш собственный механизм запугивания, позволяющий каждый раз играть по-новому. Вооруженный фонарем, заряженным от батареи, вы обнаруживаете, что исследуете что-то вроде тихого среднего дома в лесном районе. Вскоре вы понимаете, что не одиноки, когда находите подсказки, разгадывающие ужасающую тайну того, что происходит в этом доме, и боретесь, чтобы пережить ужас, который преследует вас.",
-      "thumbnail": "images/paranormal_activity/thumbnail.jpg",
-      "image1": "images/paranormal_activity/1.jpg",
-      "image2": "images/paranormal_activity/2.jpg",
-      "image3": "images/paranormal_activity/3.jpg",
-      "video": "https://www.youtube.com/embed/QWznT_VbMx0",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
-      "id": 56,
-      "title": "Emily Wants To Play",
-      "description": "Сейчас 11 вечера, и вы в последнем доме на вашем маршруте. Горит свет, и передняя дверь открыта. Но окна заколочены, а трава заросла. Это кажется странным местом для доставки пиццы, но, по крайней мере, похоже, что кто-то дома.",
-      "thumbnail": "images/emily_wants_to_play/thumbnail.jpg",
-      "image1": "images/emily_wants_to_play/1.jpg",
-      "image2": "images/emily_wants_to_play/2.jpg",
-      "image3": "images/emily_wants_to_play/3.jpg",
-      "video": "https://www.youtube.com/watch?v=Wh50lrJkw04&ab_channel=VR",
       "category": "htc",
       "genre": "хоррор",
       "isChild": false,
@@ -867,20 +712,6 @@
       "image2": "images/thrill_of_fight/2.jpg",
       "image3": "images/thrill_of_fight/3.jpg",
       "video": "https://www.youtube.com/embed/ivebsS4-k8E",
-      "category": "htc",
-      "genre": "спорт",
-      "isChild": false,
-      "tag": "драка"
-    },
-    {
-      "id": 64,
-      "title": "Creed: Rise to Glory",
-      "description": "Вы - Адонис Крид, сражающийся один на один с лучшими противниками мира, чтобы стать чемпионом.",
-      "thumbnail": "images/creed/thumbnail.jpg",
-      "image1": "images/creed/1.jpg",
-      "image2": "images/creed/2.jpg",
-      "image3": "images/creed/3.jpg",
-      "video": "https://www.youtube.com/watch?v=8jX_cnQTKWg&ab_channel=PlayStation",
       "category": "htc",
       "genre": "спорт",
       "isChild": false,
@@ -1001,20 +832,6 @@
       "tag": "экстрим"
     },
     {
-      "id": 73,
-      "title": "The Gallery - Episode 1: Call of the Starseed",
-      "description": "Странное сообщение, оставленное вашей озорной сестрой-близнецом, Элси, втянет вас в таинственное путешествие, наполненное странными персонажами, зловещим присутствием и внушающим страх приключением. По пути вам будет помогать полезный, но расстроенный профессор, который может скрывать свои скрытые мотивы. Поиски Элси приведут вас к космической машине, которая обладает невероятной силой, и она проверит вашу волю против сил скрытой в ней фигуры.",
-      "thumbnail": "images/the_gallery_episode_1/thumbnail.jpg",
-      "image1": "images/the_gallery_episode_1/1.jpg",
-      "image2": "images/the_gallery_episode_1/2.jpg",
-      "image3": "images/the_gallery_episode_1/3.jpg",
-      "video": "https://www.youtube.com/embed/S04hsMVcqCQ",
-      "category": "htc",
-      "genre": "квест",
-      "isChild": false,
-      "tag": "сюжет"
-    },
-    {
       "id": 74,
       "title": "The Talos Principle VR",
       "description": "Словно пробудившись от глубокого сна, вы оказываетесь в странном, диковинном мире, полном древних руин и сложных машин. По воле своего создателя, вам предстоит решить ряд непростых головоломок и сделать сложный выбор — положиться на веру или задать себе сложные вопросы: Кто вы? Каково ваше предназначение? И что, исходя из этого, вы собираетесь делать?",
@@ -1083,20 +900,6 @@
       "genre": "квест",
       "isChild": true,
       "tag": "загадка"
-    },
-    {
-      "id": 79,
-      "title": "Portal Stories: VR",
-      "description": "В вашем распоряжении оказывается устройство мгновенной телепортации. Пройдите все 10 уровней в стенах лаборатории исследования природы порталов.",
-      "thumbnail": "images/portal_stories_vr/thumbnail.jpg",
-      "image1": "images/portal_stories_vr/1.jpg",
-      "image2": "images/portal_stories_vr/2.jpg",
-      "image3": "images/portal_stories_vr/3.jpg",
-      "video": "https://www.youtube.com/embed/6xYAyWp8fbY",
-      "category": "htc",
-      "genre": "головоломка",
-      "isChild": true,
-      "tag": "физика"
     },
     {
       "id": 80,
@@ -1240,48 +1043,6 @@
       "tag": "сказка"
     },
     {
-      "id": 91,
-      "title": "Catify VR",
-      "description": "Залезь в шкуру парижского кота в виртуальной реальности и живи повседневной жизнью кошки: гуляй, прыгай, наблюдай за ночью и царапай!",
-      "thumbnail": "images/catify/thumbnail.jpg",
-      "image1": "images/catify/1.jpg",
-      "image2": "images/catify/2.jpg",
-      "image3": "images/catify/3.jpg",
-      "video": "https://www.youtube.com/embed/p4aVaFIDmhk",
-      "category": "htc",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "смешная"
-    },
-    {
-      "id": 92,
-      "title": "Show It 2 Me",
-      "description": "3D-музыкальный клип с ретро-футуристическим ландшафтом с демонами, космическими машинами и сумасшедшими головами. Создано в Google Tilt Brush с музыкой из ночного клуба.",
-      "thumbnail": "images/show_it_2_me/thumbnail.jpg",
-      "image1": "images/show_it_2_me/1.jpg",
-      "image2": "images/show_it_2_me/2.jpg",
-      "image3": "images/show_it_2_me/3.jpg",
-      "video": "https://www.youtube.com/embed/JtYa0rb_jGQ",
-      "category": "htc",
-      "genre": "аттракцион",
-      "isChild": false,
-      "tag": "дизайн"
-    },
-    {
-      "id": 93,
-      "title": "In Your Face TD",
-      "description": "In Your Face TD - Tower Defense (защита башни), которая использует виртуальную реальность масштаба комнаты, чтобы придать новое измерение классическому жанру. Сражайтесь с монстрами лицом к лицу с помощью лазерного минигана или даже взрывающейся тарелки с ножом и постройте башни, чтобы выстоять.",
-      "thumbnail": "images/in_your_face_td/thumbnail.jpg",
-      "image1": "images/in_your_face_td/1.jpg",
-      "image2": "images/in_your_face_td/2.jpg",
-      "image3": "images/in_your_face_td/3.jpg",
-      "video": "https://www.youtube.com/embed/aQ1jR4zZfaU",
-      "category": "htc",
-      "genre": "стратегия",
-      "isChild": false,
-      "tag": "стройка"
-    },
-    {
       "id": 94,
       "title": "Deadly Hunter VR",
       "description": "Возьмите на себя роль Смертельного Охотника в этой оборонительной игре от первого лица! Орки вторглись на нашу родину, но мы победили их. Тем не менее, в наших крепостях все еще есть небольшие группы орков. Как известному охотнику, ваша задача состоит в том, чтобы уничтожить оставшиеся войска орков и освободить все цитадели.",
@@ -1322,20 +1083,6 @@
       "genre": "аттракцион",
       "isChild": true,
       "tag": "миниигры"
-    },
-    {
-      "id": 98,
-      "title": "ZomDay",
-      "description": "Когда по всему миру разразился зомби-апокалипсис, вы будете играть за одного из воинов SEAT (Special Event Action Team), чтобы сражаться с зомби по всему миру. ZomDay - это скоростной VR-шутер с захватывающми боями с боссом, улучшением персонажа и продвинутой оружейной системой.",
-      "thumbnail": "images/zomday/thumbnail.jpg",
-      "image1": "images/zomday/1.jpg",
-      "image2": "images/zomday/2.jpg",
-      "image3": "images/zomday/3.jpg",
-      "video": "https://www.youtube.com/embed/n9p-A4g9-40",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
     },
     {
       "id": 99,
@@ -1437,20 +1184,6 @@
       "tag": "экстрим"
     },
     {
-      "id": 106,
-      "title": "Senza Peso",
-      "description": "Как душа, переходящая в загробную жизнь, игра отправляет вас в духовное путешествие через прекрасный темный мир потерянных душ и искупления.",
-      "thumbnail": "images/senza_peso/thumbnail.jpg",
-      "image1": "images/senza_peso/1.jpg",
-      "image2": "images/senza_peso/2.jpg",
-      "image3": "images/senza_peso/3.jpg",
-      "video": "https://www.youtube.com/embed/WnubSWthzh0",
-      "category": "htc",
-      "genre": "аттракцион",
-      "isChild": true,
-      "tag": "природа"
-    },
-    {
       "id": 107,
       "title": "Plank not Included",
       "description": "В игре 'Планка в комплект не входит' вы исытаете акрофобию или боязнь высоты, проходя вдоль узкой доски и пытаясь поймать птицу в разных локациях: в городской среде, на крыше поезда и даже в космосе.",
@@ -1508,48 +1241,6 @@
       "tag": "головоломка"
     },
     {
-      "id": 112,
-      "title": "Holy Chick",
-      "description": "В мире, где кровожадные цыплята захватили планету, трудно сохранять хладнокровие. Вы находите убежище в подозрительном трейлере, но злые клювы клюют в окна снаружи. Время на исходе. Можете ли вы найти выход из этого затруднительного положения?",
-      "thumbnail": "images/holy_chick/thumbnail.jpg",
-      "image1": "images/holy_chick/1.jpg",
-      "image2": "images/holy_chick/2.jpg",
-      "image3": "images/holy_chick/3.jpg",
-      "video": "https://www.youtube.com/embed/U4EUDlvKQJg",
-      "category": "htc",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "загадка"
-    },
-    {
-      "id": 113,
-      "title": "Cook-Out",
-      "description": "Приготовьте свои фартуки… в этой отмеченной наградами многопользовательской VR-игре от Resolution Games все будет запутано!",
-      "thumbnail": "images/cook_out/thumbnail.jpg",
-      "image1": "images/cook_out/1.jpg",
-      "image2": "images/cook_out/2.jpg",
-      "image3": "images/cook_out/3.jpg",
-      "video": "https://www.youtube.com/embed/PK70csxvyk8",
-      "category": "htc",
-      "genre": "многопользовательская",
-      "isChild": true,
-      "tag": "профессия"
-    },
-    {
-      "id": 115,
-      "title": "Sleep Tight",
-      "description": "Sleep Tight - это быстроразвивающаяся игра ужасов. Выживайте среди волн монстров, если сможете, обновляйте различное оружие, чтобы помочь себе. Помните, будьте внимательны, слушайте и не позволяйте им добраться до вас!",
-      "thumbnail": "images/sleep_tight/thumbnail.jpg",
-      "image1": "images/sleep_tight/1.jpg",
-      "image2": "images/sleep_tight/2.jpg",
-      "image3": "images/sleep_tight/3.jpg",
-      "video": "https://www.youtube.com/embed/H53-7fr4_5Y",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
       "id": 116,
       "title": "Gorilla Tag",
       "description": "Бегите, прыгайте и карабкайтесь только руками. Обнимите свою внутреннюю обезьяну.",
@@ -1576,34 +1267,6 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "выживание"
-    },
-    {
-      "id": 119,
-      "title": "IRON REBELLION",
-      "description": "Захватывающий опыт пилотирования мехов. Мы хотим, чтобы игроки почувствовали себя по-настоящему запертыми внутри механического титана и дали им все кнопки, рычаги и боеприпасы, необходимые для доминирования на поле боя.",
-      "thumbnail": "images/iron_rebellion/thumbnail.jpg",
-      "image1": "images/iron_rebellion/1.jpg",
-      "image2": "images/iron_rebellion/2.jpg",
-      "image3": "images/iron_rebellion/3.jpg",
-      "video": "https://www.youtube.com/embed/BkDGqp4cg4s",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "роботы"
-    },
-    {
-      "id": 120,
-      "title": "Kingspray Graffiti VR",
-      "description": "Kingspray - VR-симулятор граффити с реалистичными аэрозолями, красками, каплями и многим другим!",
-      "thumbnail": "images/kingspray/thumbnail.jpg",
-      "image1": "images/kingspray/1.jpg",
-      "image2": "images/kingspray/2.jpg",
-      "image3": "images/kingspray/3.jpg",
-      "video": "https://www.youtube.com/embed/_Ev4tqFUdrk",
-      "category": "htc",
-      "genre": "творчество",
-      "isChild": true,
-      "tag": "дизайн"
     },
     {
       "id": 121,
@@ -1670,34 +1333,6 @@
       "image2": "images/inside_backrooms/2.jpg",
       "image3": "images/inside_backrooms/3.jpg",
       "video": "https://www.youtube.com/embed/mx0qiw6s9_s",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
-      "id": 126,
-      "title": "DEVOUR",
-      "description": "DEVOUR - кооперативная хоррор-игра на выживание для 1-4 игроков. Остановите одержимых культистов, пока они не затащили вас в ад. Беги. Кричи. Прячся. Только не попадитесь.",
-      "thumbnail": "images/devour/thumbnail.jpg",
-      "image1": "images/devour/1.jpg",
-      "image2": "images/devour/2.jpg",
-      "image3": "images/devour/3.jpg",
-      "video": "https://www.youtube.com/embed/mIridrRzU3w",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
-      "id": 127,
-      "title": "FOREWARNED",
-      "description": "Соберите команду археологов и охотников за сокровищами в этом совместном триллере и узнайте правду, скрывающуюся за легендой. Играйте в одиночку, с группой друзей или найдите публичный матч в Интернете.",
-      "thumbnail": "images/forewarned/thumbnail.jpg",
-      "image1": "images/forewarned/1.jpg",
-      "image2": "images/forewarned/2.jpg",
-      "image3": "images/forewarned/3.jpg",
-      "video": "https://www.youtube.com/embed/sUgud-Iw8jk",
       "category": "htc",
       "genre": "хоррор",
       "isChild": false,
@@ -2112,20 +1747,6 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "космос"
-    },
-    {
-      "id": 336,
-      "title": "Fracked",
-      "description": "Вы — герой поневоле, который оказался заперт на горной базе. Вы единственная защита планеты от полчищ врагов из других измерений, поэтому цельтесь, стреляйте, лазайте по горам и очертя голову катитесь на лыжах в эту экстремальную приключенческую игру!",
-      "thumbnail": "images/fracked/thumbnail.jpg",
-      "image1": "images/fracked/1.jpg",
-      "image2": "images/fracked/2.jpg",
-      "image3": "images/fracked/3.jpg",
-      "video": "https://www.youtube.com/embed/PiwgUwtJjEA",
-      "category": "psvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "экстрим"
     },
     {
       "id": 338,
@@ -4148,6 +3769,20 @@
       "tag": "экстрим"
     },
     {
+      "id": 733,
+      "title": "Trials Fusion",
+      "description": "Trials Fusion сочетает в себе гонки на мотоциклах, основанные на законах физики, сумасшедший мультиплеер, глобальные списки лидеров, создание и публикацию собственных трасс и новую систему трюков FMX.",
+      "thumbnail": "images/trials_fusion/thumbnail.jpg",
+      "image1": "images/trials_fusion/1.jpg",
+      "image2": "images/trials_fusion/2.jpg",
+      "image3": "images/trials_fusion/3.jpg",
+      "video": "https://www.youtube.com/embed/sAGXhqUcPzs",
+      "category": "ps5",
+      "genre": "спорт",
+      "isChild": true,
+      "tag": "экстрим"
+    },
+    {
       "id": 735,
       "title": "Wreckfest",
       "description": "Эпические столкновения, нешуточная борьба до самого финиша и миллион способов гнуть и корежить металл - вот что ждет вас в Wreckfest, новой гоночной игре со сверхреалистичной симуляцией физики от легендарного разработчика Bugbear, подарившего миру FlatOut 1 & 2!",
@@ -5089,20 +4724,6 @@
       "genre": "песочница",
       "isChild": true,
       "tag": "крафт"
-    },
-    {
-      "id": 976,
-      "title": "Discovery",
-      "description": "Дайте волю своему творчеству и создавайте впечатляющие миры!",
-      "thumbnail": "images/discovery_vr/thumbnail.jpg",
-      "image1": "images/discovery_vr/1.jpg",
-      "image2": "images/discovery_vr/2.jpg",
-      "image3": "images/discovery_vr/3.jpg",
-      "video": "https://www.youtube.com/embed/S6XTWDzmTeY",
-      "category": "oq2",
-      "genre": "песочница",
-      "isChild": true,
-      "tag": "стройка"
     },
     {
       "id": 977,
