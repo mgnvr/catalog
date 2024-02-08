@@ -657,6 +657,7 @@ p.empty-offer {
 }
 
 .card__header {
+  display: flex;
   margin-bottom: auto;
 }
 
@@ -952,6 +953,21 @@ table li {
 .game-name {
   margin-bottom: 0;
   font-size: 20px;
+}
+
+.game-platform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48px;
+  height: 48px;
+  padding: 8px;
+}
+
+.game-platform>svg {
+  width: 24px;
+  height: 24px;
+  opacity: 0.7;
 }
 
 .like {

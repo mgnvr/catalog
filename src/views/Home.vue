@@ -3,7 +3,7 @@
     <AppHeader></AppHeader>
     <div>
       <div class="container container-select">
-        <div v-show="selectedPlatform !== 'мои'" class="select-container">
+        <div v-show="selectedPlatform !== 'мои' && selectedPlatform !== 'g29'" class="select-container">
           <div class="select-genre-container">
 
             <vs-select v-show="selectedPlatform == 'htc'" class="select-genre" label="Выбрать жанр"
@@ -66,8 +66,20 @@
             </vs-checkbox>
           </div>
         </div>
-        <div :class="{ 'container-input-only': selectedPlatform == 'мои' }" class="container-input show"
-          ref="containerInput">
+        <div v-show="selectedPlatform == 'g29'" class="select-container">
+          <div class="select-item select-item--checkbox">
+            <vs-checkbox label-before v-model="isNonVR" @click="setNonVR">
+              Без шлема (PS4 Pro, PS5)
+            </vs-checkbox>
+          </div>
+          <div class="select-item select-item--checkbox">
+            <vs-checkbox label-before v-model="isVR" @click="setVR">
+              В шлеме (PSVR)
+            </vs-checkbox>
+          </div>
+        </div>
+        <div :class="{ 'container-input-only': selectedPlatform == 'мои' && selectedPlatform == 'g29' }"
+          class="container-input show" ref="containerInput">
           <vs-input placeholder="Поиск игры..." type="text" v-model="search" class="search-input" autocomplete="off"
             @input="closeSearchGame" v-on:keyup.esc="clearSearch">
           </vs-input>
@@ -267,6 +279,68 @@
               <p>Есть и другие игры, тоже интересные</p>
             </div>
           </vk-tabs-item>
+          <vk-tabs-item v-bind:title="'G29 ' +
+            '(' +
+            this.$store.state.games.filter((game) => game.category === 'g29')
+              .length +
+            ')'
+            ">
+            <div v-if="showGamesByG29.length !== 0" class="wrapper">
+              <div class="item" v-for="game in showGamesByG29" :key="game.id">
+                <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
+                  :style="{
+                    'background-image':
+                      `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
+                      'url(' +
+                      game.thumbnail +
+                      ')',
+                  }">
+                  <div class="card__header">
+                    <div v-if="game.platform == 'ps'" class="game-platform">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#fff"
+                        class="bi bi-playstation" viewBox="0 0 16 16">
+                        <path
+                          d="M15.858 11.451c-.313.395-1.079.676-1.079.676l-5.696 2.046v-1.509l4.192-1.493c.476-.17.549-.412.162-.538-.386-.127-1.085-.09-1.56.08l-2.794.984v-1.566l.161-.054s.807-.286 1.942-.412c1.135-.125 2.525.017 3.616.43 1.23.39 1.368.962 1.056 1.356ZM9.625 8.883v-3.86c0-.453-.083-.87-.508-.988-.326-.105-.528.198-.528.65v9.664l-2.606-.827V2c1.108.206 2.722.692 3.59.985 2.207.757 2.955 1.7 2.955 3.825 0 2.071-1.278 2.856-2.903 2.072Zm-8.424 3.625C-.061 12.15-.271 11.41.304 10.984c.532-.394 1.436-.69 1.436-.69l3.737-1.33v1.515l-2.69.963c-.474.17-.547.411-.161.538.386.126 1.085.09 1.56-.08l1.29-.469v1.356l-.257.043a8.454 8.454 0 0 1-4.018-.323Z" />
+                      </svg>
+                    </div>
+                    <div v-else class="game-platform">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#fff" viewBox="0 0 512 512">
+                        <title>ionicons-v5_logos</title>
+                        <path d="M480,265H232V444l248,36V265Z" />
+                        <path d="M216,265H32V415l184,26.7V265Z" />
+                        <path d="M480,32,232,67.4V249H480V32Z" />
+                        <path d="M216,69.7,32,96V249H216V69.7Z" />
+                      </svg>
+                    </div>
+                    <button :class="{ liked: wishlistIds.includes(game.id) }" class="like"
+                      @click.stop="putLike($event, game.id)" title="Добавить в избранное / Удалить из избранного">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M12 21.35L10.55 20.03C5.4 15.36 2 12.27 2 8.5C2 5.41 4.42 3 7.5 3C9.24 3 10.91 3.81 12 5.08C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.41 22 8.5C22 12.27 18.6 15.36 13.45 20.03L12 21.35Z"
+                          fill="#fff" />
+                      </svg>
+                    </button>
+                  </div>
+                  <div v-once class="card-desc">
+                    <h3 v-text="game.title" class="game-title"></h3>
+                    <p v-text="game.description" class="game-desc"></p>
+                    <div class="card__footer">
+                      <div class="card-genre" v-text="game.genre"></div>
+                      <div class="card-genre card-tag" v-text="game.tag"></div>
+                      <div v-show="game.isLocalMultiplayer" class="card-genre card-genre-coop">
+                        на двоих
+                      </div>
+                    </div>
+                  </div>
+                </router-link>
+              </div>
+            </div>
+            <div v-else class="wrapper--empty">
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <p class="empty-start">По вашему запросу ничего не найдено</p>
+              <p>Есть и другие игры, тоже интересные</p>
+            </div>
+          </vk-tabs-item>
           <vk-tabs-item v-bind:title="'МОИ ' + '(' + wishlistIds.length + ')'">
             <div v-if="isEmpty" class="wrapper wrapper--empty">
               <img class="empty-heart" :src="this.publicPath + 'assets/heart.png'" alt="Сердце" width="150"
@@ -401,6 +475,8 @@ export default {
       isChild: false,
       isVeryChild: false,
       isLocalMultiplayer: false,
+      isNonVR: false,
+      isVR: false,
       end: false,
       wishlistIds: [],
       gameId: null,
@@ -426,6 +502,12 @@ export default {
     },
     setVeryChild: function () {
       this.isChild = false;
+    },
+    setNonVR: function () {
+      this.isVR = false;
+    },
+    setVR: function () {
+      this.isNonVR = false;
     },
     clearSearch: function () {
       this.search = "";
@@ -482,16 +564,6 @@ export default {
         this.$store.commit(val ? "addGame" : "removeGame", this.gameId);
       },
     },
-    showGames() {
-      return this.$store.getters.showGames(
-        this.search,
-        this.selectedPlatform,
-        this.selectedGenre,
-        this.isChild,
-        this.isVeryChild,
-        this.selectedSort
-      );
-    },
     showGamesByHTC() {
       return this.$store.getters.showHTCGames(
         this.search,
@@ -526,6 +598,13 @@ export default {
         this.isChild,
         this.isLocalMultiplayer,
         this.selectedSort
+      );
+    },
+    showGamesByG29() {
+      return this.$store.getters.showG29Games(
+        this.search,
+        this.isNonVR,
+        this.isVR
       );
     },
     showLikedGames() {

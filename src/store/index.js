@@ -164,6 +164,24 @@ export default new Vuex.Store({
       }
       return filteredGames;
     },
+    showG29Games: state => (
+      query,
+      isNonVR,
+      isVR
+    ) => {
+      var tmpArray = state.games.filter(game => {
+        return (
+          game.category == "g29" &&
+          (!isNonVR || game.isNonVR) &&
+          (!isVR || game.isVR) &&
+          (query.length == 0 ||
+            game.title.toLowerCase().includes(query) ||
+            game.genre.includes(query) ||
+            game.tag.includes(query))
+        );
+      });
+      return tmpArray;
+    },
     showLikedGames: state => query => {
       return state.wishlist.filter(game => {
         return game.title.toLowerCase().includes(query);

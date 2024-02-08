@@ -56,7 +56,7 @@
           <div class="platform-info">
             <div class="platform-info-wrapper">
               <h2 class="platform-name">PlayStation VR</h2>
-              <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой позволяет почувствовать
+              <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой Logitech G29 позволяет почувствовать
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
               <p class="platform-count-games">
