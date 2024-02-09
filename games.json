@@ -1325,20 +1325,6 @@
       "tag": "страшная"
     },
     {
-      "id": 125,
-      "title": "Inside the Backrooms",
-      "description": "Inside the Backrooms — это совместная онлайн-игра ужасов для 4 игроков, в которой вы и ваши друзья будете сражаться, чтобы сбежать с разных уровней подсобных помещений, решая разные головоломки с разными механиками на каждом из них.",
-      "thumbnail": "images/inside_backrooms/thumbnail.jpg",
-      "image1": "images/inside_backrooms/1.jpg",
-      "image2": "images/inside_backrooms/2.jpg",
-      "image3": "images/inside_backrooms/3.jpg",
-      "video": "https://www.youtube.com/embed/mx0qiw6s9_s",
-      "category": "htc",
-      "genre": "хоррор",
-      "isChild": false,
-      "tag": "страшная"
-    },
-    {
       "id": 128,
       "title": "Into the Radius VR",
       "description": "Исследуйте пустоши Радиуса, полные монстров и опасных аномалий. Защищайтесь с помощью реалистичного оружия, собирайте удивительные артефакты и раскрывайте секреты аномальной местности.",
@@ -4277,7 +4263,7 @@
       "tag": "быстрая"
     },
     {
-      "id": 924,
+      "id": 923,
       "title": "Racket Fury: Table Tennis",
       "description": "Знакомьтесь: самый реалистичный симулятор настольного тенниса готов подарить вам незабываемые ощущения!",
       "thumbnail": "images/racket_fury/thumbnail.jpg",
@@ -4291,7 +4277,7 @@
       "tag": "быстрая"
     },
     {
-      "id": 925,
+      "id": 924,
       "title": "Hockey Bockey",
       "description": "Каждый аспект арены спроектирован таким образом, чтобы игра оставалась динамичной, а игроки могли делать эффектные движения. Боты с искусственным интеллектом гарантируют, что ваша игра никогда не останется пустой, даже когда вы играете в одиночку!",
       "thumbnail": "images/hockey_bockey/thumbnail.jpg",
