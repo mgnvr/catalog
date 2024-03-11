@@ -1805,20 +1805,6 @@
       "tag": "баттлрояль"
     },
     {
-      "id": 502,
-      "title": "Apex Legends",
-      "description": "Покорите вершину славы в Apex Legends, бесплатном* шутере в жанре королевской битвы, где легендарные персонажи с мощными умениями сражаются за звание лучших на всем Фронтире. Освойте стиль боя каждой легенды, число которых постоянно растет, а также тонкости тактической игры в отряде и смелые новшества, поднявшие планку жанра на новый уровень. Добро пожаловать в королевскую битву следующего поколения.",
-      "thumbnail": "images/apex_legends/thumbnail.jpg",
-      "image1": "images/apex_legends/1.jpg",
-      "image2": "images/apex_legends/2.jpg",
-      "image3": "images/apex_legends/3.jpg",
-      "video": "https://www.youtube.com/embed/WYT8pyRRv7M",
-      "category": "ps5",
-      "genre": "многопользовательская",
-      "isChild": true,
-      "tag": "баттлрояль"
-    },
-    {
       "id": 503,
       "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
       "description": "Обыграй, ограбь и обхитри противников, чтобы остаться единственным победителем в этой захватывающей игре, полной неожиданностей и волнующих моментов.",
@@ -2599,20 +2585,6 @@
       "image2": "images/god_of_war_3_remastered/2.jpg",
       "image3": "images/god_of_war_3_remastered/3.jpg",
       "video": "https://www.youtube.com/watch?v=qKogMfIAAkY&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 627,
-      "title": "Devil May Cry 5",
-      "description": "В пятой части легендарной серии Devil May Cry вы вновь сможете насладиться сверхскоростными сражениями с участием невероятных персонажей.",
-      "thumbnail": "images/dmc_5/thumbnail.jpg",
-      "image1": "images/dmc_5/1.jpg",
-      "image2": "images/dmc_5/2.jpg",
-      "image3": "images/dmc_5/3.jpg",
-      "video": "https://youtu.be/dG6_CAdiLPM",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -3937,20 +3909,6 @@
       "isChild": false,
       "tag": "страшная",
       "isLocalMultiplayer": true
-    },
-    {
-      "id": 770,
-      "title": "RESIDENT EVIL VII",
-      "description": "Гнилые стены заброшенной фермы на американском Юге порождают чувство страха и одиночества. Жуткая «изолированная камера» — это новая страница в жанре survival horror. Движок RE Engine раздвигает границы ужаса — вы не сможете оторваться от экрана, настолько реалистичным будет изображение. Переживите новый чудовищный кошмар.",
-      "thumbnail": "images/resident_evil_7/thumbnail.jpg",
-      "image1": "images/resident_evil_7/1.jpg",
-      "image2": "images/resident_evil_7/2.jpg",
-      "image3": "images/resident_evil_7/3.jpg",
-      "video": "https://www.youtube.com/embed/u3zIzY6M3fQ",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "страшная"
     },
     {
       "id": 771,
