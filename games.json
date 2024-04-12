@@ -3164,20 +3164,6 @@
       "tag": "сказка"
     },
     {
-      "id": 683,
-      "title": "Hue",
-      "description": "Яркая головоломка-платформер Hue отмечена многими наградами. Здесь вы меняете мир, меняя его цвет. В поисках исчезнувшей матери вы исследуете опасный серый мир и находите цветные обломки. Препятствия исчезают, если их цвет совпадает с цветом фона. Так получаются головоломки - опасные, загадочные, разноцветные.",
-      "thumbnail": "images/hue/thumbnail.jpg",
-      "image1": "images/hue/1.jpg",
-      "image2": "images/hue/2.jpg",
-      "image3": "images/hue/3.jpg",
-      "video": "https://www.youtube.com/embed/-TbQxVphzO4",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "головоломка"
-    },
-    {
       "id": 687,
       "title": "Unravel Two",
       "description": "Ваше приключение начнется в холодных землях, но чем дальше, тем ярче будет мир. Погрузитесь в увлекательную историю, полную энергии, радости, вдохновения и даже монстров. Подходите к проблемам с позитивом и смелостью, чтобы разбудить мир вокруг и познать настоящую дружбу.",
@@ -3783,20 +3769,6 @@
       "tag": "экстрим"
     },
     {
-      "id": 738,
-      "title": "Snowrrunner",
-      "description": "Вас ждут грязь, потоки воды, снег и застывшие озёра. Выполняйте опасные контракты и задания. Расширяйте свой автопарк, а также модернизируйте его, устанавливая улучшения и различные приспособления, такие как шноркель для преодоления водных потоков или цепи для езды по снегу.",
-      "thumbnail": "images/snowrunner/thumbnail.jpg",
-      "image1": "images/snowrunner/1.jpg",
-      "image2": "images/snowrunner/2.jpg",
-      "image3": "images/snowrunner/3.jpg",
-      "video": "https://youtu.be/XC21lfJpjjo",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": false,
-      "tag": "экстрим"
-    },
-    {
       "id": 740,
       "title": "WipEout Omega Collection",
       "description": "Рассекайте воздух на головокружительных скоростях в быстрых гонках, которые можно выиграть или проиграть в мгновение ока. Гоняйте на 26 реверсивных трассах, управляйте 46 уникальными кораблями в 9 режимах в WipEout HD Fury и WipEout 2048.",
@@ -3851,20 +3823,6 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "профессия"
-    },
-    {
-      "id": 760,
-      "title": "ACE COMBAT 7: SKIES UNKNOWN",
-      "description": "Станьте летчиком-асом, покоряйте фотореалистичные небеса и сбивайте противников в напряженных воздушных боях!",
-      "thumbnail": "images/ace_combat_7/thumbnail.jpg",
-      "image1": "images/ace_combat_7/1.jpg",
-      "image2": "images/ace_combat_7/2.jpg",
-      "image3": "images/ace_combat_7/3.jpg",
-      "video": "https://www.youtube.com/embed/I2TNic_BpHQ",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": false,
-      "tag": "война"
     },
     {
       "id": 767,
