@@ -2015,20 +2015,6 @@
       "tag": "выживание"
     },
     {
-      "id": 549,
-      "title": "Crash Bandicoot N. Sane Trilogy",
-      "description": "Всеобщий сумчатый любимец Crash Bandicoot возвращается! В коллекции N. Sane Trilogy он стал еще шустрее, веселее и обаятельнее! Крутитесь волчком и прыгайте, прыгайте и крутитесь! Вас ждет море приключений и хорошего настроения в трех замечательных играх, с которых все началось: Crash Bandicoot, Crash Bandicoot 2: Cortex Strikes Back и Crash Bandicoot: Warped. Переживите заново любимые моменты истории Крэша, увидев их во всем блеске полностью переработанной графики! Готовьтесь к настоящему веселью!",
-      "thumbnail": "images/crash_bandicoot/thumbnail.jpg",
-      "image1": "images/crash_bandicoot/1.jpg",
-      "image2": "images/crash_bandicoot/2.jpg",
-      "image3": "images/crash_bandicoot/3.jpg",
-      "video": "https://www.youtube.com/embed/F7G91RjVmvk",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "мультяшная"
-    },
-    {
       "id": 550,
       "title": "Roblox",
       "description": "Каждый день десятки миллионов людей приходят в Roblox, чтобы исследовать, играть, учиться и общаться друг с другом в захватывающих цифровых 3D-приложениях, созданных нашим глобальным сообществом творцов.",
@@ -2190,6 +2176,21 @@
       "tag": "лего"
     },
     {
+      "id": 562,
+      "title": "LEGO Marvel's Avengers",
+      "description": "Мстители, собирайтесь! Сыграйте за величайших супергероев, которым предстоит спасти мир.",
+      "thumbnail": "images/lego_avengers/thumbnail.jpg",
+      "image1": "images/lego_avengers/1.jpg",
+      "image2": "images/lego_avengers/2.jpg",
+      "image3": "images/lego_avengers/3.jpg",
+      "video": "https://www.youtube.com/embed/e8Way-1cEAA",
+      "category": "ps5",
+      "genre": "аркада",
+      "isChild": true,
+      "isLocalMultiplayer": true,
+      "tag": "лего"
+    },
+    {
       "id": 563,
       "title": "Rec Room",
       "description": "Rec Room - лучшее место для общения с друзьями со всего мира! Играйте в многопользовательские игры, такие как Paintball, или просто расслабьтесь в парке. Откройте для себя тысячи комнат, созданных игроками, с добавлением новых. Или создайте свои комнаты с друзьями.",
@@ -2231,20 +2232,6 @@
       "genre": "песочница",
       "isChild": true,
       "tag": "крафт"
-    },
-    {
-      "id": 567,
-      "title": "Need for Speed Heat",
-      "description": "Устраивайте гонки днём и ставьте на кон всё ночью в Need for Speed Heat — захватывающей игре, в которой вам предстоит столкнуться с лучшими силами полиции и покорить мир уличных гонок.",
-      "thumbnail": "images/nfs_heat/thumbnail.jpg",
-      "image1": "images/nfs_heat/1.jpg",
-      "image2": "images/nfs_heat/2.jpg",
-      "image3": "images/nfs_heat/3.jpg",
-      "video": "https://www.youtube.com/embed/9ewiJJe_nYI",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": true,
-      "tag": "экстрим"
     },
     {
       "id": 568,
@@ -2479,20 +2466,6 @@
       "tag": "боевик"
     },
     {
-      "id": 602,
-      "title": "Subnautica",
-      "description": "Стройте базы на морском дне. Выбирайте компоновку и элементы, контролируйте прочность по мере роста глубины и давления. Используйте базу для хранения ресурсов, стыковки транспорта и пополнения запасов кислорода по мере исследования необъятного океана.",
-      "thumbnail": "images/subnautica/thumbnail.jpg",
-      "image1": "images/subnautica/1.jpg",
-      "image2": "images/subnautica/2.jpg",
-      "image3": "images/subnautica/3.jpg",
-      "video": "https://www.youtube.com/embed/sJsIV5Uy9Qs",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "выживание"
-    },
-    {
       "id": 603,
       "title": "Губка Боб Квадратные Штаны",
       "description": "Вы готовы, дети? Культовая история возвращается в обновленном виде! Играйте за любимых персонажей и спасите Бикини-Боттом!",
@@ -2716,20 +2689,6 @@
       "isChild": false,
       "tag": "смешная",
       "isLocalMultiplayer": true
-    },
-    {
-      "id": 645,
-      "title": "PAC-MAN CHAMPIONSHIP EDITION 2",
-      "description": "В последней версии классической игры, которая имеет ошеломляющую 3D-графику и потрясающие визуальные эффекты, поедание точек и привидений и беготня по лабиринту переходят на абсолютно новый уровень! Создавайте до четырех цепочек привидений, чтобы поедать их по максимуму! Новые режимы включают «Гонку на время» и «Приключение» с быстро исчезающими фруктами, огромными боссами, нелепыми переделанными правилами и не только!",
-      "thumbnail": "images/pacman_championship_edition/thumbnail.jpg",
-      "image1": "images/pacman_championship_edition/1.jpg",
-      "image2": "images/pacman_championship_edition/2.jpg",
-      "image3": "images/pacman_championship_edition/3.jpg",
-      "video": "https://www.youtube.com/watch?v=qAUwCe_8DXE&ab_channel=BandaiNamcoEntertainmentAmerica",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "tag": "мультяшная"
     },
     {
       "id": 648,
@@ -3164,21 +3123,6 @@
       "tag": "сказка"
     },
     {
-      "id": 687,
-      "title": "Unravel Two",
-      "description": "Ваше приключение начнется в холодных землях, но чем дальше, тем ярче будет мир. Погрузитесь в увлекательную историю, полную энергии, радости, вдохновения и даже монстров. Подходите к проблемам с позитивом и смелостью, чтобы разбудить мир вокруг и познать настоящую дружбу.",
-      "thumbnail": "images/unravel_two/thumbnail.jpg",
-      "image1": "images/unravel_two/1.jpg",
-      "image2": "images/unravel_two/2.jpg",
-      "image3": "images/unravel_two/3.jpg",
-      "video": "https://www.youtube.com/embed/j2TmLrTl6gs",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "сказка"
-    },
-    {
       "id": 688,
       "title": "The Long Dark",
       "description": "Исследовательская игра-симулятор выживания, в которой игроки-одиночки должны позаботиться о себе в ходе изучения обширных морозных необитаемых территорий, переживших геомагнитную катастрофу.",
@@ -3474,20 +3418,6 @@
       "tag": "киберпанк"
     },
     {
-      "id": 712,
-      "title": "Ghostbusters: The Video Game Remastered",
-      "description": "Настоящие Охотники за приведениями - погрузись в охоту на призраков и их поимку с крутым оружием в разрушаемом окружении.",
-      "thumbnail": "images/ghostbusters/thumbnail.jpg",
-      "image1": "images/ghostbusters/1.jpg",
-      "image2": "images/ghostbusters/2.jpg",
-      "image3": "images/ghostbusters/3.jpg",
-      "video": "https://www.youtube.com/embed/M6ON61SZs-A",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 713,
       "title": "Стражи Галактики Marvel",
       "description": "Отправляйтесь бороздить космос вместе со Стражами Галактики Marvel! В этом приключенческом боевике от третьего лица вы попробуете себя в роли Звездного Лорда. Ваши лидерские качества сомнительны, но ваша причудливая команда пока с вами! Какой-то недотепа (точно не вы) кое в чем напортачил, и теперь Галактика на грани гибели.",
@@ -3629,41 +3559,13 @@
     },
     {
       "id": 726,
-      "title": "FAR CRY 3",
-      "description": "Раскройте тайны острова и сразитесь с легендарным Ваасом Монтенегро.",
-      "thumbnail": "images/far_cry_3/thumbnail.jpg",
-      "image1": "images/far_cry_3/1.jpg",
-      "image2": "images/far_cry_3/2.jpg",
-      "image3": "images/far_cry_3/3.jpg",
-      "video": "https://www.youtube.com/embed/GN563Yxar-o",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 727,
-      "title": "FAR CRY 3: BLOOD DRAGON",
-      "description": "Сержант Рекс Кольт – на 50% человек, на 50% робот и на 100% американец. Что нужно делать? Уничтожить бывшего командира и его батальон беспощадных киборгов-убийц. Не останавливайтесь ни перед чем, чтобы довести дело до конца.",
-      "thumbnail": "images/far_cry_blood_dragon/thumbnail.jpg",
-      "image1": "images/far_cry_blood_dragon/1.jpg",
-      "image2": "images/far_cry_blood_dragon/2.jpg",
-      "image3": "images/far_cry_blood_dragon/3.jpg",
-      "video": "https://www.youtube.com/embed/0dofacvjRkc",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "киберпанк"
-    },
-    {
-      "id": 728,
-      "title": "FAR CRY 4",
-      "description": "Кират – затерянная среди вершин Гималаев страна с богатыми традициями, миру в которой угрожает деспотичный правитель. Аджай Гейл прибыл сюда, чтобы исполнить последнюю волю матери, но оказался втянут в гражданскую войну против самозванца Пэйгана Мина. Будьте осторожны: в незнакомой стране с вами может случиться что угодно.",
-      "thumbnail": "images/far_cry_4/thumbnail.jpg",
-      "image1": "images/far_cry_4/1.jpg",
-      "image2": "images/far_cry_4/2.jpg",
-      "image3": "images/far_cry_4/3.jpg",
-      "video": "https://www.youtube.com/embed/UUlyDEFGqxw",
+      "title": "Far Cry 6",
+      "description": "Антон Кастильо, диктатор Яры, намерен любой ценой вернуть былое величие нации. Ему помогает сын – Диего. Но в угнетенной стране вспыхнуло пламя революции.",
+      "thumbnail": "images/far_cry_6/thumbnail.jpg",
+      "image1": "images/far_cry_6/1.jpg",
+      "image2": "images/far_cry_6/2.jpg",
+      "image3": "images/far_cry_6/3.jpg",
+      "video": "https://www.youtube.com/embed/-a45dz-ZBHk",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -3709,21 +3611,21 @@
       "video": "https://www.youtube.com/embed/VIdyrfnnfgA",
       "category": "ps5",
       "genre": "гонка",
-      "isChild": true,
+      "isChild": false,
       "tag": "экстрим"
     },
     {
-      "id": 733,
-      "title": "Trials Fusion",
-      "description": "Trials Fusion сочетает в себе гонки на мотоциклах, основанные на законах физики, сумасшедший мультиплеер, глобальные списки лидеров, создание и публикацию собственных трасс и новую систему трюков FMX.",
-      "thumbnail": "images/trials_fusion/thumbnail.jpg",
-      "image1": "images/trials_fusion/1.jpg",
-      "image2": "images/trials_fusion/2.jpg",
-      "image3": "images/trials_fusion/3.jpg",
-      "video": "https://www.youtube.com/embed/sAGXhqUcPzs",
+      "id": 734,
+      "title": "Need for Speed Unbound",
+      "description": "Весь мир — это ваша игровая площадка. Докажите, что вам по силам выиграть Гранд-заезд, главное гоночное испытание Lakeshore. Побеждайте в гонке на время и уходите от копов.",
+      "thumbnail": "images/nfs_unbound/thumbnail.jpg",
+      "image1": "images/nfs_unbound/1.jpg",
+      "image2": "images/nfs_unbound/2.jpg",
+      "image3": "images/nfs_unbound/3.jpg",
+      "video": "https://www.youtube.com/embed/H2Y8XCe7F9E",
       "category": "ps5",
-      "genre": "спорт",
-      "isChild": true,
+      "genre": "гонка",
+      "isChild": false,
       "tag": "экстрим"
     },
     {
@@ -3735,20 +3637,6 @@
       "image2": "images/wreckfest/2.jpg",
       "image3": "images/wreckfest/3.jpg",
       "video": "https://www.youtube.com/embed/qIIpryxD6kc",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": false,
-      "tag": "экстрим"
-    },
-    {
-      "id": 736,
-      "title": "The Crew Motorfest",
-      "description": "В новой части серии гоночных симуляторов с открытым миром вашей игровой площадкой станет живописный гавайский островок Оаху.",
-      "thumbnail": "images/the_crew_motorfest/thumbnail.jpg",
-      "image1": "images/the_crew_motorfest/1.jpg",
-      "image2": "images/the_crew_motorfest/2.jpg",
-      "image3": "images/the_crew_motorfest/3.jpg",
-      "video": "https://www.youtube.com/embed/RsVV6aznDC0",
       "category": "ps5",
       "genre": "гонка",
       "isChild": false,
@@ -3823,6 +3711,21 @@
       "genre": "симулятор",
       "isChild": false,
       "tag": "профессия"
+    },
+    {
+      "id": 766,
+      "title": "The Dark Pictures Anthology: Man of Medan",
+      "description": "Антология The Dark Pictures — цикл киноигр в жанре хоррор. В Man of Medan пятеро друзей отправились на дайвинг, но шторм превратил их поездку в настоящий кошмар.",
+      "thumbnail": "images/dark_pictures_man_of_medan/thumbnail.jpg",
+      "image1": "images/dark_pictures_man_of_medan/1.jpg",
+      "image2": "images/dark_pictures_man_of_medan/2.jpg",
+      "image3": "images/dark_pictures_man_of_medan/3.jpg",
+      "video": "https://youtu.be/UJaaOYVGEC8",
+      "category": "ps5",
+      "genre": "интерактивное кино",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "страшная"
     },
     {
       "id": 767,
