@@ -649,7 +649,7 @@
     },
     {
       "id": 59,
-      "title": "FIVE NIGHTS AT FREDDY'S VR",
+      "title": "Five Nights at Freddy's: Help Wanted VR",
       "description": "FNaF VR: HW - это коллекция классических и оригинальных мини-игр, созданных во вселенной Five Nights.",
       "thumbnail": "images/fnaf_vr/thumbnail.jpg",
       "image1": "images/fnaf_vr/1.jpg",
@@ -4194,20 +4194,6 @@
       "tag": "дизайн"
     },
     {
-      "id": 930,
-      "title": "Another Fisherman's Tale",
-      "description": "Погрузитесь в поэтическое повествование, исследуя новую головокружительную механику головоломок виртуальной реальности. Решайте головоломки, используя собственное тело, отсоединяйте конечности и управляйте ими, а также находите новые приспособления для прогресса. Откройте для себя правду, путешествуя по красивым и уникальным локациям, воплощенным в жизнь создателями «Истории рыбака».",
-      "thumbnail": "images/another_fisherman_tale/thumbnail.jpg",
-      "image1": "images/another_fisherman_tale/1.jpg",
-      "image2": "images/another_fisherman_tale/2.jpg",
-      "image3": "images/another_fisherman_tale/3.jpg",
-      "video": "https://www.youtube.com/embed/vS7lZU--vPg",
-      "category": "oq2",
-      "genre": "головоломка",
-      "isChild": true,
-      "tag": "сказка"
-    },
-    {
       "id": 933,
       "title": "Pistol Whip",
       "description": "Pistol Whip - это экшн-ритм игра. Комбинация Superhot, Beat Saber и Джона Уика с головокружительным саундтреком. Станьте главным героем боевика.",
@@ -4377,7 +4363,7 @@
     },
     {
       "id": 950,
-      "title": "FIVE NIGHTS AT FREDDY'S VR",
+      "title": "Five Nights at Freddy's: Help Wanted VR",
       "description": "FNaF VR: HW - это коллекция классических и оригинальных мини-игр, созданных во вселенной Five Nights.",
       "thumbnail": "images/fnaf_vr/thumbnail.jpg",
       "image1": "images/fnaf_vr/1.jpg",
@@ -4391,6 +4377,20 @@
     },
     {
       "id": 951,
+      "title": "Five Nights at Freddy's: Help Wanted 2 VR",
+      "description": "Отправляйтесь в закулисье в качестве VIP-гостя и помогите волчице Роксанне и роботизированному персоналу подготовиться к выступлению в салоне пицца-плекса!",
+      "thumbnail": "images/fnaf_vr2/thumbnail.jpg",
+      "image1": "images/fnaf_vr2/1.jpg",
+      "image2": "images/fnaf_vr2/2.jpg",
+      "image3": "images/fnaf_vr2/3.jpg",
+      "video": "https://www.youtube.com/embed/3-OETgUnEeU",
+      "category": "oq2",
+      "genre": "хоррор",
+      "isChild": false,
+      "tag": "страшная"
+    },
+    {
+      "id": 952,
       "title": "Propagation VR",
       "description": "Таинственный вирус вызвал апокалипсис. Оказавшись в ловушке на заброшенной станции метро, ​​наполненной монстрами из ваших самых страшных кошмаров, вы можете рассчитывать только на свое хладнокровие и свои навыки, чтобы выжить.",
       "thumbnail": "images/propagation_vr/thumbnail.jpg",
@@ -4404,7 +4404,7 @@
       "tag": "страшная"
     },
     {
-      "id": 952,
+      "id": 953,
       "title": "TO THE TOP",
       "description": "Супер-боты - это управляемые человеком роботы, обладающие сверхспособностями для защиты и обслуживания людей. TO THE TOP Академия - это учебная программа для проверки ваших навыков и проверки того, способны ли вы пилотировать одну из этих машин. Так что пристегнитесь и посмотрите, сможете ли вы пройти этот вызов.",
       "thumbnail": "images/to_the_top/thumbnail.jpg",
