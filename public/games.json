@@ -1805,6 +1805,20 @@
       "tag": "баттлрояль"
     },
     {
+      "id": 502,
+      "title": "HELLDIVERS 2",
+      "description": "Вступите в величайшую армию в истории и сделайте галактику безопасной и свободной.",
+      "thumbnail": "images/helldivers_2/thumbnail.jpg",
+      "image1": "images/helldivers_2/1.jpg",
+      "image2": "images/helldivers_2/2.jpg",
+      "image3": "images/helldivers_2/3.jpg",
+      "video": "https://www.youtube.com/embed/oD3pxbG9YYI",
+      "category": "ps5",
+      "genre": "многопользовательская",
+      "isChild": false,
+      "tag": "война"
+    },
+    {
       "id": 503,
       "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
       "description": "Обыграй, ограбь и обхитри противников, чтобы остаться единственным победителем в этой захватывающей игре, полной неожиданностей и волнующих моментов.",
@@ -2464,6 +2478,20 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
+    },
+    {
+      "id": 602,
+      "title": "Subnautica",
+      "description": "Стройте базы на морском дне. Выбирайте компоновку и элементы, контролируйте прочность по мере роста глубины и давления. Используйте базу для хранения ресурсов, стыковки транспорта и пополнения запасов кислорода по мере исследования необъятного океана.",
+      "thumbnail": "images/subnautica/thumbnail.jpg",
+      "image1": "images/subnautica/1.jpg",
+      "image2": "images/subnautica/2.jpg",
+      "image3": "images/subnautica/3.jpg",
+      "video": "https://www.youtube.com/embed/sJsIV5Uy9Qs",
+      "category": "ps5",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "выживание"
     },
     {
       "id": 603,
@@ -3623,20 +3651,6 @@
       "image2": "images/nfs_unbound/2.jpg",
       "image3": "images/nfs_unbound/3.jpg",
       "video": "https://www.youtube.com/embed/H2Y8XCe7F9E",
-      "category": "ps5",
-      "genre": "гонка",
-      "isChild": false,
-      "tag": "экстрим"
-    },
-    {
-      "id": 735,
-      "title": "Wreckfest",
-      "description": "Эпические столкновения, нешуточная борьба до самого финиша и миллион способов гнуть и корежить металл - вот что ждет вас в Wreckfest, новой гоночной игре со сверхреалистичной симуляцией физики от легендарного разработчика Bugbear, подарившего миру FlatOut 1 & 2!",
-      "thumbnail": "images/wreckfest/thumbnail.jpg",
-      "image1": "images/wreckfest/1.jpg",
-      "image2": "images/wreckfest/2.jpg",
-      "image3": "images/wreckfest/3.jpg",
-      "video": "https://www.youtube.com/embed/qIIpryxD6kc",
       "category": "ps5",
       "genre": "гонка",
       "isChild": false,
