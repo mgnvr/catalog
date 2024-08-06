@@ -3915,6 +3915,21 @@
     },
     {
       "id": 906,
+      "title": "I am Cat",
+      "description": "Играйте за кота в доме бабушки, полном квестов и исследований.",
+      "thumbnail": "images/i_am_cat/thumbnail.jpg",
+      "image1": "images/i_am_cat/1.jpg",
+      "image2": "images/i_am_cat/2.jpg",
+      "image3": "images/i_am_cat/3.jpg",
+      "video": "https://www.youtube.com/embed/AXRJzYTG3xQ",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "isVeryChild": true,
+      "tag": "смешная"
+    },
+    {
+      "id": 907,
       "title": "Beat Saber",
       "description": "Погрузись в чарующий ритм, уровни ручной работы, электронную музыку и футуристический мир! Не отставая от музыки, рассекай мечами кубики нужного цвета.",
       "thumbnail": "images/beat_saber/thumbnail.jpg",
