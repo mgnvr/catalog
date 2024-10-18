@@ -3137,21 +3137,6 @@
       "isChild": true
     },
     {
-      "id": 668,
-      "title": "LittleBigPlanet 3",
-      "description": "Пустите в ход уникальные таланты Оддсока, Свупа и Тоггла, чтобы помочь Сэкбою решать головоломки и исследовать заряженную творчеством планету Бункум.",
-      "thumbnail": "images/little_big_planet_3/thumbnail.jpg",
-      "image1": "images/little_big_planet_3/1.jpg",
-      "image2": "images/little_big_planet_3/2.jpg",
-      "image3": "images/little_big_planet_3/3.jpg",
-      "video": "https://youtu.be/ymCDdrMKPrY",
-      "category": "ps5",
-      "genre": "аркада",
-      "tag": "мультяшная",
-      "isChild": true,
-      "isLocalMultiplayer": true
-    },
-    {
       "id": 670,
       "title": "Toy Story 3",
       "description": "Помогите Баззу, Вуди и остальным игрушкам проследить, чтобы ни одна игрушка не осталась без внимания.",
@@ -3252,6 +3237,21 @@
       "tag": "смешная"
     },
     {
+      "id": 678,
+      "title": "The Plucky Squire",
+      "description": "Присоединяйтесь к волшебным приключениям Очерка и его друзей — сказочных персонажей, которые открывают для себя трёхмерный мир за пределами страниц своей книги.",
+      "thumbnail": "images/the_plucky_squire/thumbnail.jpg",
+      "image1": "images/the_plucky_squire/1.jpg",
+      "image2": "images/the_plucky_squire/2.jpg",
+      "image3": "images/the_plucky_squire/3.jpg",
+      "video": "https://www.youtube.com/embed/Sxv072ksoMU",
+      "category": "ps5",
+      "genre": "аркада",
+      "isChild": true,
+      "isLocalMultiplayer": false,
+      "tag": "мультяшная"
+    },
+    {
       "id": 679,
       "title": "Trine 4: The Nightmare Prince",
       "description": "Принц Селий страдает от кошмаров, а те, благодаря его магическим талантам, воплощаются наяву и сеют хаос. Амадею, Понтию и Зое нужно найти принца и спасти положение, пока тёмная магия не поглотила мир.",
@@ -3281,7 +3281,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 681,
+      "id": 682,
       "title": "MediEvil",
       "description": "Сыграйте за сэра Дэниэла Фортескью, не слишком умелого (и давно погибшего) рыцаря, которого случайно оживил его заклятый враг — злой колдун Зарок. Дэн получает второй шанс победить злодея, спасти королевство Гэллоумир и стать настоящим героем.",
       "thumbnail": "images/medievil/thumbnail.jpg",
@@ -3295,7 +3295,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 682,
+      "id": 683,
       "title": "Immortals Fenyx Rising",
       "description": "В Immortals Fenyx Rising вы сыграете за нового полубога с крыльями и спасете греческих богов. Вы - их последняя надежда.",
       "thumbnail": "images/immortals_fenyx_risig/thumbnail.jpg",
@@ -3309,7 +3309,7 @@
       "tag": "сказка"
     },
     {
-      "id": 688,
+      "id": 684,
       "title": "The Long Dark",
       "description": "Исследовательская игра-симулятор выживания, в которой игроки-одиночки должны позаботиться о себе в ходе изучения обширных морозных необитаемых территорий, переживших геомагнитную катастрофу.",
       "thumbnail": "images/the_long_dark/thumbnail.jpg",
@@ -3988,6 +3988,21 @@
     },
     {
       "id": 768,
+      "title": "The Dark Pictures Anthology: The Devil in Me",
+      "description": "Группа документалистов получает таинственное приглашение в современную копию «Замка убийств» серийного убийцы Г. Г. Холмса. Это прекрасный шанс разжечь интерес публики, и упускать его нельзя.",
+      "thumbnail": "images/dark_pictures_devil_in_me/thumbnail.jpg",
+      "image1": "images/dark_pictures_devil_in_me/1.jpg",
+      "image2": "images/dark_pictures_devil_in_me/2.jpg",
+      "image3": "images/dark_pictures_devil_in_me/3.jpg",
+      "video": "https://youtu.be/zcvSvh1jaWQ",
+      "category": "ps5",
+      "genre": "интерактивное кино",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "страшная"
+    },
+    {
+      "id": 769,
       "title": "Dead Island",
       "description": "Добро пожаловать на величайший и прекраснейший зомби-апокалипсис в мире. Оказавшись в гуще эпидемии зомби на тропическом острове Баной, только одна мысль бьется у вас в голове: выжить!",
       "thumbnail": "images/dead_island/thumbnail.jpg",
@@ -3995,6 +4010,20 @@
       "image2": "images/dead_island/2.jpg",
       "image3": "images/dead_island/3.jpg",
       "video": "https://youtu.be/0Z-b-1LQ1sI",
+      "category": "ps5",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
+      "id": 770,
+      "title": "Dead Island 2",
+      "description": "Зацените утопающие в крови улицы Эл-Эй. Знакомьтесь с безумными персонажами. Рубите на куски несметные полчища врагов. Развивайтесь и станьте крутейшим истребителем зомби!",
+      "thumbnail": "images/dead_island_2/thumbnail.jpg",
+      "image1": "images/dead_island_2/1.jpg",
+      "image2": "images/dead_island_2/2.jpg",
+      "image3": "images/dead_island_2/3.jpg",
+      "video": "https://youtu.be/yiHalBhBMj4",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
