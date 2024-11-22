@@ -1141,20 +1141,6 @@
       "tag": "сюжет"
     },
     {
-      "id": 103,
-      "title": "The Walking Dead: Saints & Sinners",
-      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
-      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
-      "image1": "images/walking_dead_sas/1.jpg",
-      "image2": "images/walking_dead_sas/2.jpg",
-      "image3": "images/walking_dead_sas/3.jpg",
-      "video": "https://www.youtube.com/embed/PwQx872oy4A",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 104,
       "title": "Half-Life: Alyx",
       "description": "Half-Life: Alyx — это возвращение Valve во вселенную Half-Life в виртуальной реальности. Это история невозможной борьбы с жестокой расой пришельцев, известной как Альянс. События происходят между Half-Life и Half-Life 2.",
@@ -1735,20 +1721,6 @@
       "tag": "космос"
     },
     {
-      "id": 338,
-      "title": "The Walking Dead: Saints & Sinners",
-      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
-      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
-      "image1": "images/walking_dead_sas/1.jpg",
-      "image2": "images/walking_dead_sas/2.jpg",
-      "image3": "images/walking_dead_sas/3.jpg",
-      "video": "https://www.youtube.com/embed/lunEgeczpyk",
-      "category": "psvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 340,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
@@ -1773,20 +1745,6 @@
       "video": "https://www.youtube.com/embed/VjZ5tgjPVfU",
       "category": "ps5",
       "genre": "многопользовательская",
-      "isChild": true,
-      "tag": "открытый мир"
-    },
-    {
-      "id": 501,
-      "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
-      "description": "Испытайте классику, обновл`нную для нового поколения со всесторонними улучшениями, включая новое освещение и улучшения окружающей среды, с текстурами высокого разрешения и увеличенной дальностью прорисовки, управлением и прицеливанием в стиле Grand Theft Auto V и многим другим.",
-      "thumbnail": "images/gta_sa/thumbnail.jpg",
-      "image1": "images/gta_sa/1.jpg",
-      "image2": "images/gta_sa/2.jpg",
-      "image3": "images/gta_sa/3.jpg",
-      "video": "https://www.youtube.com/embed/H4rYVsJ4v9Y",
-      "category": "ps5",
-      "genre": "экшн",
       "isChild": true,
       "tag": "открытый мир"
     },
@@ -2906,21 +2864,6 @@
       "tag": "выживание"
     },
     {
-      "id": 644,
-      "title": "Overcooked! 2",
-      "description": "Overcooked возвращается с новой порцией безумной кулинарии! Вы снова отправитесь в Луковое королевство и соберете команду поваров для классической локальной или сетевой совместной игры, в которую могут играть до 4 человек. Хватайтесь за фартуки — пришло время (снова) спасать мир!",
-      "thumbnail": "images/overcooked_2/thumbnail.jpg",
-      "image1": "images/overcooked_2/1.jpg",
-      "image2": "images/overcooked_2/2.jpg",
-      "image3": "images/overcooked_2/3.jpg",
-      "video": "https://www.youtube.com/watch?v=uKLb8D36YKk&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": false,
-      "tag": "смешная",
-      "isLocalMultiplayer": true
-    },
-    {
       "id": 648,
       "title": "Child of Light",
       "description": "Злая королева похитила солнце, луну и звезды. Вместе с юной принцессой Авророй вам предстоит вернуть небесные светила, одолеть злую королеву и возродить королевство Лемурия. Сражайтесь бок о бок со светлячком Игникулюсом, используя боевую систему Active Time Battle. Вашим союзником также может управлять другой игрок. Вас ждут встречи не только с добрыми феями и гномами, но и со злыми волками и драконами.",
@@ -3137,21 +3080,6 @@
       "isChild": true
     },
     {
-      "id": 668,
-      "title": "LittleBigPlanet 3",
-      "description": "Пустите в ход уникальные таланты Оддсока, Свупа и Тоггла, чтобы помочь Сэкбою решать головоломки и исследовать заряженную творчеством планету Бункум.",
-      "thumbnail": "images/little_big_planet_3/thumbnail.jpg",
-      "image1": "images/little_big_planet_3/1.jpg",
-      "image2": "images/little_big_planet_3/2.jpg",
-      "image3": "images/little_big_planet_3/3.jpg",
-      "video": "https://youtu.be/ymCDdrMKPrY",
-      "category": "ps5",
-      "genre": "аркада",
-      "tag": "мультяшная",
-      "isChild": true,
-      "isLocalMultiplayer": true
-    },
-    {
       "id": 670,
       "title": "Toy Story 3",
       "description": "Помогите Баззу, Вуди и остальным игрушкам проследить, чтобы ни одна игрушка не осталась без внимания.",
@@ -3237,19 +3165,19 @@
       "tag": "супергерои"
     },
     {
-      "id": 677,
-      "title": "Moving Out",
-      "description": "Симулятор переезда с реалистичной физикой!",
-      "thumbnail": "images/moving_out/thumbnail.jpg",
-      "image1": "images/moving_out/1.jpg",
-      "image2": "images/moving_out/2.jpg",
-      "image3": "images/moving_out/3.jpg",
-      "video": "https://www.youtube.com/embed/XIUIfAv5OLI",
+      "id": 678,
+      "title": "The Plucky Squire",
+      "description": "Присоединяйтесь к волшебным приключениям Очерка и его друзей — сказочных персонажей, которые открывают для себя трёхмерный мир за пределами страниц своей книги.",
+      "thumbnail": "images/the_plucky_squire/thumbnail.jpg",
+      "image1": "images/the_plucky_squire/1.jpg",
+      "image2": "images/the_plucky_squire/2.jpg",
+      "image3": "images/the_plucky_squire/3.jpg",
+      "video": "https://www.youtube.com/embed/Sxv072ksoMU",
       "category": "ps5",
       "genre": "аркада",
       "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "смешная"
+      "isLocalMultiplayer": false,
+      "tag": "мультяшная"
     },
     {
       "id": 679,
@@ -3281,7 +3209,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 681,
+      "id": 682,
       "title": "MediEvil",
       "description": "Сыграйте за сэра Дэниэла Фортескью, не слишком умелого (и давно погибшего) рыцаря, которого случайно оживил его заклятый враг — злой колдун Зарок. Дэн получает второй шанс победить злодея, спасти королевство Гэллоумир и стать настоящим героем.",
       "thumbnail": "images/medievil/thumbnail.jpg",
@@ -3295,7 +3223,7 @@
       "tag": "мультяшная"
     },
     {
-      "id": 682,
+      "id": 683,
       "title": "Immortals Fenyx Rising",
       "description": "В Immortals Fenyx Rising вы сыграете за нового полубога с крыльями и спасете греческих богов. Вы - их последняя надежда.",
       "thumbnail": "images/immortals_fenyx_risig/thumbnail.jpg",
@@ -3309,7 +3237,7 @@
       "tag": "сказка"
     },
     {
-      "id": 688,
+      "id": 684,
       "title": "The Long Dark",
       "description": "Исследовательская игра-симулятор выживания, в которой игроки-одиночки должны позаботиться о себе в ходе изучения обширных морозных необитаемых территорий, переживших геомагнитную катастрофу.",
       "thumbnail": "images/the_long_dark/thumbnail.jpg",
@@ -3988,6 +3916,21 @@
     },
     {
       "id": 768,
+      "title": "The Dark Pictures Anthology: The Devil in Me",
+      "description": "Группа документалистов получает таинственное приглашение в современную копию «Замка убийств» серийного убийцы Г. Г. Холмса. Это прекрасный шанс разжечь интерес публики, и упускать его нельзя.",
+      "thumbnail": "images/dark_pictures_devil_in_me/thumbnail.jpg",
+      "image1": "images/dark_pictures_devil_in_me/1.jpg",
+      "image2": "images/dark_pictures_devil_in_me/2.jpg",
+      "image3": "images/dark_pictures_devil_in_me/3.jpg",
+      "video": "https://youtu.be/zcvSvh1jaWQ",
+      "category": "ps5",
+      "genre": "интерактивное кино",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "страшная"
+    },
+    {
+      "id": 769,
       "title": "Dead Island",
       "description": "Добро пожаловать на величайший и прекраснейший зомби-апокалипсис в мире. Оказавшись в гуще эпидемии зомби на тропическом острове Баной, только одна мысль бьется у вас в голове: выжить!",
       "thumbnail": "images/dead_island/thumbnail.jpg",
@@ -3995,6 +3938,20 @@
       "image2": "images/dead_island/2.jpg",
       "image3": "images/dead_island/3.jpg",
       "video": "https://youtu.be/0Z-b-1LQ1sI",
+      "category": "ps5",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
+      "id": 770,
+      "title": "Dead Island 2",
+      "description": "Зацените утопающие в крови улицы Эл-Эй. Знакомьтесь с безумными персонажами. Рубите на куски несметные полчища врагов. Развивайтесь и станьте крутейшим истребителем зомби!",
+      "thumbnail": "images/dead_island_2/thumbnail.jpg",
+      "image1": "images/dead_island_2/1.jpg",
+      "image2": "images/dead_island_2/2.jpg",
+      "image3": "images/dead_island_2/3.jpg",
+      "video": "https://youtu.be/yiHalBhBMj4",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
