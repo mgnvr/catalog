@@ -1141,20 +1141,6 @@
       "tag": "сюжет"
     },
     {
-      "id": 103,
-      "title": "The Walking Dead: Saints & Sinners",
-      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
-      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
-      "image1": "images/walking_dead_sas/1.jpg",
-      "image2": "images/walking_dead_sas/2.jpg",
-      "image3": "images/walking_dead_sas/3.jpg",
-      "video": "https://www.youtube.com/embed/PwQx872oy4A",
-      "category": "htc",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 104,
       "title": "Half-Life: Alyx",
       "description": "Half-Life: Alyx — это возвращение Valve во вселенную Half-Life в виртуальной реальности. Это история невозможной борьбы с жестокой расой пришельцев, известной как Альянс. События происходят между Half-Life и Half-Life 2.",
@@ -1735,20 +1721,6 @@
       "tag": "космос"
     },
     {
-      "id": 338,
-      "title": "The Walking Dead: Saints & Sinners",
-      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
-      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
-      "image1": "images/walking_dead_sas/1.jpg",
-      "image2": "images/walking_dead_sas/2.jpg",
-      "image3": "images/walking_dead_sas/3.jpg",
-      "video": "https://www.youtube.com/embed/lunEgeczpyk",
-      "category": "psvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 340,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
@@ -1773,20 +1745,6 @@
       "video": "https://www.youtube.com/embed/VjZ5tgjPVfU",
       "category": "ps5",
       "genre": "многопользовательская",
-      "isChild": true,
-      "tag": "открытый мир"
-    },
-    {
-      "id": 501,
-      "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
-      "description": "Испытайте классику, обновл`нную для нового поколения со всесторонними улучшениями, включая новое освещение и улучшения окружающей среды, с текстурами высокого разрешения и увеличенной дальностью прорисовки, управлением и прицеливанием в стиле Grand Theft Auto V и многим другим.",
-      "thumbnail": "images/gta_sa/thumbnail.jpg",
-      "image1": "images/gta_sa/1.jpg",
-      "image2": "images/gta_sa/2.jpg",
-      "image3": "images/gta_sa/3.jpg",
-      "video": "https://www.youtube.com/embed/H4rYVsJ4v9Y",
-      "category": "ps5",
-      "genre": "экшн",
       "isChild": true,
       "tag": "открытый мир"
     },
@@ -2906,21 +2864,6 @@
       "tag": "выживание"
     },
     {
-      "id": 644,
-      "title": "Overcooked! 2",
-      "description": "Overcooked возвращается с новой порцией безумной кулинарии! Вы снова отправитесь в Луковое королевство и соберете команду поваров для классической локальной или сетевой совместной игры, в которую могут играть до 4 человек. Хватайтесь за фартуки — пришло время (снова) спасать мир!",
-      "thumbnail": "images/overcooked_2/thumbnail.jpg",
-      "image1": "images/overcooked_2/1.jpg",
-      "image2": "images/overcooked_2/2.jpg",
-      "image3": "images/overcooked_2/3.jpg",
-      "video": "https://www.youtube.com/watch?v=uKLb8D36YKk&ab_channel=PlayStation",
-      "category": "ps5",
-      "genre": "симулятор",
-      "isChild": false,
-      "tag": "смешная",
-      "isLocalMultiplayer": true
-    },
-    {
       "id": 648,
       "title": "Child of Light",
       "description": "Злая королева похитила солнце, луну и звезды. Вместе с юной принцессой Авророй вам предстоит вернуть небесные светила, одолеть злую королеву и возродить королевство Лемурия. Сражайтесь бок о бок со светлячком Игникулюсом, используя боевую систему Active Time Battle. Вашим союзником также может управлять другой игрок. Вас ждут встречи не только с добрыми феями и гномами, но и со злыми волками и драконами.",
@@ -3220,21 +3163,6 @@
       "isChild": true,
       "isLocalMultiplayer": true,
       "tag": "супергерои"
-    },
-    {
-      "id": 677,
-      "title": "Moving Out",
-      "description": "Симулятор переезда с реалистичной физикой!",
-      "thumbnail": "images/moving_out/thumbnail.jpg",
-      "image1": "images/moving_out/1.jpg",
-      "image2": "images/moving_out/2.jpg",
-      "image3": "images/moving_out/3.jpg",
-      "video": "https://www.youtube.com/embed/XIUIfAv5OLI",
-      "category": "ps5",
-      "genre": "аркада",
-      "isChild": true,
-      "isLocalMultiplayer": true,
-      "tag": "смешная"
     },
     {
       "id": 678,
