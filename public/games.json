@@ -2337,6 +2337,20 @@
     },
     {
       "id": 571,
+      "title": "Need for Speed Hot Pursuit Remastered",
+      "description": "Почувствуйте азарт погони и получите настоящий драйв в Need for Speed™ Hot Pursuit Remastered на PlayStation®4. Дайте волю неистовой жажде скорости — примерьте на себя роль преступника или служителя закона и носитесь на самых крутых и мощных машинах мира. Перехитрите копов или нейтрализуйте нарушителей, используя свой арсенал, в невероятном мире захватывающих гонок, где можно состязаться вместе с друзьями.",
+      "thumbnail": "images/nfs_hp_remastered/thumbnail.jpg",
+      "image1": "images/nfs_hp_remastered/1.jpg",
+      "image2": "images/nfs_hp_remastered/2.jpg",
+      "image3": "images/nfs_hp_remastered/3.jpg",
+      "video": "https://www.youtube.com/embed/HLiY6wwfGX4",
+      "category": "ps5",
+      "genre": "гонка",
+      "isChild": true,
+      "tag": "экстрим"
+    },
+    {
+      "id": 572,
       "title": "Crossout",
       "description": "Crossout — это постапокалиптический экшн, в котором вы сможете собрать из десятков деталей бронемашину уникального дизайна, а затем сразиться на ней в жарких многопользовательских боях.",
       "thumbnail": "images/crossout/thumbnail.jpg",
@@ -2350,7 +2364,7 @@
       "tag": "баттлрояль"
     },
     {
-      "id": 572,
+      "id": 573,
       "title": "World of Tanks",
       "description": "Командуйте самыми мощными танками в истории в легендарных массовых многопользовательских сражениях с бесплатным доступом. Управляйте более чем 350 танками из семи разных стран с возможностью полностью подогнать под свои нужды боевую технику.",
       "thumbnail": "images/world_of_tanks/thumbnail.jpg",
@@ -2364,7 +2378,7 @@
       "tag": "баттлрояль"
     },
     {
-      "id": 573,
+      "id": 574,
       "title": "Warface",
       "description": "Warface – знаменитый шутер от первого лица, который не даст вам спокойно сидеть в кресле. Выберите один из четырех классов, каждый со своим уникальным стилем игры, и оружие из более чем 100 видов, которое больше всего подходит под то, как вы играете. ",
       "thumbnail": "images/warface/thumbnail.jpg",
@@ -2666,20 +2680,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "супергерои"
-    },
-    {
-      "id": 615,
-      "title": "Just Cause 4",
-      "description": "Добро пожаловать на Солис, огромный остров в Южной Америке, где царят конфликты, тирания и природные катаклизмы. В Just Cause 4 независимый агент Рико Родригес высаживается на Солис, чтобы любой ценой выяснить правду о своем прошлом. Облачайтесь в вингсьют, берите свой полностью настраиваемый крюк и готовьтесь нести разрушения!",
-      "thumbnail": "images/just_cause_4/thumbnail.jpg",
-      "image1": "images/just_cause_4/1.jpg",
-      "image2": "images/just_cause_4/2.jpg",
-      "image3": "images/just_cause_4/3.jpg",
-      "video": "https://www.youtube.com/embed/kyuCGQJuzVk",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "открытый мир"
     },
     {
       "id": 616,
@@ -3924,20 +3924,6 @@
       "image2": "images/dead_island_2/2.jpg",
       "image3": "images/dead_island_2/3.jpg",
       "video": "https://youtu.be/yiHalBhBMj4",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
-      "id": 775,
-      "title": "RESIDENT EVIL 2",
-      "description": "Пройдите отдельные кампании за Leon Kennedy и Claire Redfield в новом режиме от третьего лица. Отправляйтесь в кишащий зомби Raccoon City, воссозданный на RE Engine — эксклюзивном движке Capcom. Ужасающие открытия ждут не только новых игроков, но и закаленных поклонников, ведь город наполнен головоломками, ответвлениями сюжета и областями!",
-      "thumbnail": "images/re2/thumbnail.jpg",
-      "image1": "images/re2/1.jpg",
-      "image2": "images/re2/2.jpg",
-      "image3": "images/re2/3.jpg",
-      "video": "https://www.youtube.com/embed/u3wS-Q2KBpk",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
