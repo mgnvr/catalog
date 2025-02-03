@@ -5,6 +5,8 @@
         <a class="link" href="tel: +79000939392" title="Позвонить нам">+7 (900) 093-93-92</a>
         <a class="link" href="https://vk.com/mgnvr" target="_blank" title="Мы ВКонтакте">Вк
         </a>
+        <a class="link" href="https://t.me/+z1_HLSna-YVjZmJi" target="_blank" title="Мы в Телеграм">Тг
+        </a>
         <router-link v-if="currentRouteName !== 'about'" class="link" tag="a" to="/about" title="О нас">О
           нас</router-link>
         <span v-else class="about-not-link">О нас</span>
