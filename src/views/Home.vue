@@ -86,12 +86,7 @@
 
       <div class="container">
         <vk-tabs align="justify" v-on:click.native="changePlatform($event)">
-          <vk-tabs-item v-bind:title="'HTC ' +
-            '(' +
-            this.$store.state.games.filter((game) => game.category === 'htc')
-              .length +
-            ')'
-            ">
+          <vk-tabs-item v-bind:title="'HTC'">
             <div v-if="showGamesByHTC.length !== 0" class="wrapper">
               <div class="item" v-for="game in showGamesByHTC" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
@@ -132,12 +127,7 @@
               <p>Есть и другие игры, тоже интересные</p>
             </div>
           </vk-tabs-item>
-          <vk-tabs-item v-bind:title="'OQ2 ' +
-            '(' +
-            this.$store.state.games.filter((game) => game.category === 'oq2')
-              .length +
-            ')'
-            ">
+          <vk-tabs-item v-bind:title="'OQ2'">
             <div v-if="showGamesByOQ2.length !== 0" class="wrapper">
               <div class="item" v-for="game in showGamesByOQ2" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
@@ -178,12 +168,7 @@
               <p>Есть и другие игры, тоже интересные</p>
             </div>
           </vk-tabs-item>
-          <vk-tabs-item v-bind:title="'PSVR ' +
-            '(' +
-            this.$store.state.games.filter((game) => game.category === 'psvr')
-              .length +
-            ')'
-            ">
+          <vk-tabs-item v-bind:title="'PSVR'">
             <div v-if="showGamesByPSVR.length !== 0" class="wrapper">
               <div class="item" v-for="game in showGamesByPSVR" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
@@ -221,12 +206,7 @@
               <p>Есть и другие игры, тоже интересные</p>
             </div>
           </vk-tabs-item>
-          <vk-tabs-item v-bind:title="'PS5 ' +
-            '(' +
-            this.$store.state.games.filter((game) => game.category === 'ps5')
-              .length +
-            ')'
-            ">
+          <vk-tabs-item v-bind:title="'PS5'">
             <div v-if="showGamesByPS5.length !== 0" class="wrapper">
               <div class="item" v-for="game in showGamesByPS5" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
@@ -267,7 +247,7 @@
               <p>Есть и другие игры, тоже интересные</p>
             </div>
           </vk-tabs-item>
-          <vk-tabs-item v-bind:title="'МОИ ' + '(' + wishlistIds.length + ')'">
+          <vk-tabs-item v-bind:title="'МОИ'">
             <div v-if="isEmpty" class="wrapper wrapper--empty">
               <img class="empty-heart" :src="this.publicPath + 'assets/heart.png'" alt="Сердце" width="150"
                 height="150" />
