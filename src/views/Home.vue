@@ -86,7 +86,7 @@
 
       <div class="container">
         <vk-tabs align="justify" v-on:click.native="changePlatform($event)">
-          <vk-tabs-item v-bind:title="'HTC'">
+          <vk-tabs-item v-bind:title="'PCVR'">
             <div v-if="showGamesByHTC.length !== 0" class="wrapper">
               <div class="item" v-for="game in showGamesByHTC" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"

@@ -11,7 +11,8 @@
       </router-link>
       <h1 class="about-header">О нас</h1>
       <p class="about-text">
-        DriV3R - это то место, где Вы пересекаете грань реальности, оказываетесь в совершенно новых мирах и становитесь их
+        DriV3R - это то место, где Вы пересекаете грань реальности, оказываетесь в совершенно новых мирах и становитесь
+        их
         частью, а не только наблюдателями.</p>
       <p class="about-text">
         У нас Вы сможете испытать самые последние технологии, которые используются для погружения в виртуальную
@@ -19,7 +20,7 @@
       </p>
 
       <div class="platforms">
-        <div class="platform platform--htc">
+        <!-- <div class="platform platform--htc">
           <div class="platform-img">
             <img :src="this.publicPath + 'assets/htc.png'" alt="HTC" width="100%" height="auto" />
           </div>
@@ -34,7 +35,7 @@
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="platform platform--oq2">
           <div class="platform-img">
             <img :src="this.publicPath + 'assets/oq2.png'" alt="Oculus Quest 2" width="100%" height="auto" />
@@ -42,7 +43,8 @@
           <div class="platform-info">
             <div class="platform-info-wrapper">
               <h2 class="platform-name">Oculus Quest 2</h2>
-              <p class="platform-desc">Система виртуальной реальности Oculus Quest 2 отличается возможностью автономного использования. Также на платформе представлены эксклюзивные игры во вселенной Star Wars и др.</p>
+              <p class="platform-desc">Система виртуальной реальности Oculus Quest 2 отличается возможностью автономного
+                использования. Также на платформе представлены эксклюзивные игры во вселенной Star Wars и др.</p>
               <p class="platform-count-games">
                 Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'oq2').length }}
               </p>
@@ -56,7 +58,8 @@
           <div class="platform-info">
             <div class="platform-info-wrapper">
               <h2 class="platform-name">PlayStation VR</h2>
-              <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой позволяет почувствовать
+              <p class="platform-desc">PlayStation VR вместе с PlayStation 5 и рулевой установкой позволяет
+                почувствовать
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
               <p class="platform-count-games">
@@ -83,13 +86,13 @@
         </div>
       </div>
       <iframe class="video-veshalka"
-        src="https://vk.com/video_ext.php?oid=-68399984&id=456239162&hash=ddc772ca94cd0b29&hd=2" width="100%" height="480"
-        allow="encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
+        src="https://vk.com/video_ext.php?oid=-68399984&id=456239162&hash=ddc772ca94cd0b29&hd=2" width="100%"
+        height="480" allow="encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
       <h2>Прайс</h2>
       <table class="uk-table uk-table-striped">
         <thead>
           <tr>
-            <th>HTC / OQ2 / PSVR</th>
+            <th>OQ2 / PSVR</th>
             <th>PS4 Pro / PS5</th>
           </tr>
         </thead>
@@ -120,60 +123,6 @@
           </tr>
           <tr>
             <td colspan="4" class="cell-rent">Аренда центра - 2500₽/час</td>
-          </tr>
-        </tbody>
-        <thead>
-          <tr>
-            <th colspan="4">Выездное мероприятие (MINI)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td colspan="4"><b>120 мин - 5000₽ (каждый последующий час - 1500₽)</b>
-              <ul style="margin: 0px; padding-left: 20px;">
-                <li>Платформа HTC Vive или PSVR на выбор</li>
-                <li>Телевизор для зрителей 32"</li>
-                <li>Оператор</li>
-              </ul>
-            </td>
-          </tr>
-        </tbody>
-        <thead>
-          <tr>
-            <th colspan="4">Выездное мероприятие (STANDART)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td colspan="4"><b>120 мин - 7000₽ (каждый последующий час - 2000₽)</b>
-              <ul style="margin: 0px; padding-left: 20px;">
-                <li>
-                  Платформа HTC Vive или PlayStation VR + рулевая установка на
-                  выбор
-                </li>
-                <li>Телевизор для зрителей 40"</li>
-                <li>Оператор</li>
-              </ul>
-            </td>
-          </tr>
-        </tbody>
-        <thead>
-          <tr>
-            <th colspan="4">Выездное мероприятие (MAXI)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td colspan="4"><b>120 мин - 10000₽ (каждый последующий час - 2500₽)</b>
-              <ul style="margin: 0px; padding-left: 20px;">
-                <li>
-                  2 Платформы HTC Vive или PlayStation VR + рулевая установка
-                  на выбор
-                </li>
-                <li>2 Телевизора для зрителей 40"</li>
-                <li>2 Оператора</li>
-              </ul>
-            </td>
           </tr>
         </tbody>
       </table>
