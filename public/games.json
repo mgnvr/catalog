@@ -9,7 +9,7 @@
       "image2": "images/job_simulator/2.jpg",
       "image3": "images/job_simulator/3.jpg",
       "video": "https://www.youtube.com/embed/8H9ieJk8AJ4",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "смешная"
@@ -23,7 +23,7 @@
       "image2": "images/vacation_simulator/2.jpg",
       "image3": "images/vacation_simulator/3.jpg",
       "video": "https://www.youtube.com/embed/9io7Zkoyxcw",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "смешная"
@@ -37,7 +37,7 @@
       "image2": "images/space_pirate/2.jpg",
       "image3": "images/space_pirate/3.jpg",
       "video": "https://www.youtube.com/embed/xfa9Jqm34b0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": true,
       "isVeryChild": true,
@@ -52,7 +52,7 @@
       "image2": "images/i_expect_you_to_die/2.jpg",
       "image3": "images/i_expect_you_to_die/3.jpg",
       "video": "https://www.youtube.com/embed/vedFA8yXr2Y",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "квест",
       "isChild": false,
       "tag": "головоломка"
@@ -66,7 +66,7 @@
       "image2": "images/rick_and_morty/2.jpg",
       "image3": "images/rick_and_morty/3.jpg",
       "video": "https://www.youtube.com/watch?v=ZsCGXcpa3Qw&ab_channel=AdultSwim",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "смешная"
@@ -80,7 +80,7 @@
       "image2": "images/cave_digger/2.jpg",
       "image3": "images/cave_digger/3.jpg",
       "video": "https://www.youtube.com/embed/U1mNZzYqRDE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "профессия"
@@ -94,7 +94,7 @@
       "image2": "images/dungeon_brewmaster/2.jpg",
       "image3": "images/dungeon_brewmaster/3.jpg",
       "video": "https://www.youtube.com/embed/wVcAeUb9p_8",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "профессия"
@@ -108,7 +108,7 @@
       "image2": "images/surgeon_simulator/2.jpg",
       "image3": "images/surgeon_simulator/3.jpg",
       "video": "https://www.youtube.com/embed/WBHQyRYlGoo",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": false,
       "tag": "профессия"
@@ -122,7 +122,7 @@
       "image2": "images/surgeon_simulator_medic/2.jpg",
       "image3": "images/surgeon_simulator_medic/3.jpg",
       "video": "https://www.youtube.com/embed/DH_zN0hF1s0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": false,
       "tag": "профессия"
@@ -136,7 +136,7 @@
       "image2": "images/minecraft_vr/2.jpg",
       "image3": "images/minecraft_vr/3.jpg",
       "video": "https://www.youtube.com/embed/f2uVmpXkFX8",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "песочница",
       "isChild": true,
       "tag": "крафт"
@@ -150,7 +150,7 @@
       "image2": "images/spider_man_far_from_home/2.jpg",
       "image3": "images/spider_man_far_from_home/3.jpg",
       "video": "https://www.youtube.com/watch?v=hkVROJncowU&ab_channel=HTCVIVE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": true,
       "tag": "супергерои"
@@ -164,7 +164,7 @@
       "image2": "images/justice_league/2.jpg",
       "image3": "images/justice_league/3.jpg",
       "video": "https://www.youtube.com/embed/cNtDzK4zons",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": true,
       "tag": "супергерои"
@@ -178,7 +178,7 @@
       "image2": "images/the_lab/2.jpg",
       "image3": "images/the_lab/3.jpg",
       "video": "https://www.youtube.com/embed/ASVku-48N8Q",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "миниигры"
@@ -192,7 +192,7 @@
       "image2": "images/fruit_ninja/2.jpg",
       "image3": "images/fruit_ninja/3.jpg",
       "video": "https://www.youtube.com/embed/FioW-aBrGbM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "isVeryChild": true,
@@ -207,7 +207,7 @@
       "image2": "images/waltz_of_the_wizard/2.jpg",
       "image3": "images/waltz_of_the_wizard/3.jpg",
       "video": "https://www.youtube.com/watch?v=3r82wje_UdU&ab_channel=VirtualZone",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "сказка"
@@ -221,7 +221,7 @@
       "image2": "images/the_blu/2.jpg",
       "image3": "images/the_blu/3.jpg",
       "video": "https://www.youtube.com/embed/A8XIYjNoovo",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -236,7 +236,7 @@
       "image2": "images/beat_saber/2.jpg",
       "image3": "images/beat_saber/3.jpg",
       "video": "https://www.youtube.com/embed/vL39Sg2AqWg",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "музыкальная",
       "isChild": true,
       "tag": "ритм"
@@ -250,7 +250,7 @@
       "image2": "images/audioshield/2.jpg",
       "image3": "images/audioshield/3.jpg",
       "video": "https://www.youtube.com/embed/-jswyYSxREA",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "музыкальная",
       "isChild": true,
       "tag": "ритм"
@@ -264,7 +264,7 @@
       "image2": "images/accounting/2.jpg",
       "image3": "images/accounting/3.jpg",
       "video": "https://www.youtube.com/embed/sFaC-9Q-Fp8",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "квест",
       "isChild": false,
       "tag": "смешная"
@@ -278,7 +278,7 @@
       "image2": "images/vrchat/2.jpg",
       "image3": "images/vrchat/3.jpg",
       "video": "https://www.youtube.com/embed/PWLPw4RE9Ig",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "многопользовательская",
       "isChild": false,
       "tag": "общение"
@@ -292,7 +292,7 @@
       "image2": "images/rec_room/2.jpg",
       "image3": "images/rec_room/3.jpg",
       "video": "https://www.youtube.com/embed/6kl9gqv9t_I",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "многопользовательская",
       "isChild": true,
       "tag": "общение"
@@ -306,7 +306,7 @@
       "image2": "images/superhot_vr/2.jpg",
       "image3": "images/superhot_vr/3.jpg",
       "video": "https://www.youtube.com/watch?v=pzG7Wc6mbwE&ab_channel=SUPERHOT",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "киберпанк"
@@ -320,7 +320,7 @@
       "image2": "images/arizona_sunshine/2.jpg",
       "image3": "images/arizona_sunshine/3.jpg",
       "video": "https://www.youtube.com/embed/_i0C5JGlppw",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "зомби"
@@ -334,7 +334,7 @@
       "image2": "images/pavlov_vr/2.jpg",
       "image3": "images/pavlov_vr/3.jpg",
       "video": "https://www.youtube.com/embed/6P8Vi0DJ7sw",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "война"
@@ -348,7 +348,7 @@
       "image2": "images/elven_assassin/2.jpg",
       "image3": "images/elven_assassin/3.jpg",
       "video": "https://www.youtube.com/embed/sQw8-DJ0zHk",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": true,
       "tag": "лук"
@@ -362,7 +362,7 @@
       "image2": "images/serious_sam_last_hope/2.jpg",
       "image3": "images/serious_sam_last_hope/3.jpg",
       "video": "https://www.youtube.com/embed/BnYorJy797I",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "олдскул"
@@ -376,7 +376,7 @@
       "image2": "images/serious_sam_second_encounter/2.jpg",
       "image3": "images/serious_sam_second_encounter/3.jpg",
       "video": "https://www.youtube.com/watch?v=EEapCdUCciQ&ab_channel=vrgamecritic",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "олдскул"
@@ -390,7 +390,7 @@
       "image2": "images/serious_sam_3/2.jpg",
       "image3": "images/serious_sam_3/3.jpg",
       "video": "https://www.youtube.com/embed/0d0qf9ss2cE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "олдскул"
@@ -404,7 +404,7 @@
       "image2": "images/war_dust/2.jpg",
       "image3": "images/war_dust/3.jpg",
       "video": "https://www.youtube.com/embed/GzZpL1TAsAQ",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "война"
@@ -418,7 +418,7 @@
       "image2": "images/guns_n_stories/2.jpg",
       "image3": "images/guns_n_stories/3.jpg",
       "video": "https://www.youtube.com/watch?v=v4h6XBGtJ6M&ab_channel=vrgamecritic",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "вестерн"
@@ -432,7 +432,7 @@
       "image2": "images/sairento/2.jpg",
       "image3": "images/sairento/3.jpg",
       "video": "https://www.youtube.com/watch?v=9PoxrZRfqCI&ab_channel=vrgamecritic",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "киберпанк"
@@ -446,7 +446,7 @@
       "image2": "images/blue_effect/2.jpg",
       "image3": "images/blue_effect/3.jpg",
       "video": "https://www.youtube.com/embed/KRYTvm00pno",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "киберпанк"
@@ -460,7 +460,7 @@
       "image2": "images/dead_effect_2/2.jpg",
       "image3": "images/dead_effect_2/3.jpg",
       "video": "https://www.youtube.com/embed/lj5Syw59UMk",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "олдскул"
@@ -474,7 +474,7 @@
       "image2": "images/duck_season/2.jpg",
       "image3": "images/duck_season/3.jpg",
       "video": "https://www.youtube.com/embed/eRGGTaZFtfQ",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "олдскул"
@@ -488,7 +488,7 @@
       "image2": "images/eternity_warriors/2.jpg",
       "image3": "images/eternity_warriors/3.jpg",
       "video": "https://www.youtube.com/watch?v=sb5uz_bAC0k&ab_channel=vrgamecritic",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "зомби"
@@ -502,7 +502,7 @@
       "image2": "images/payday_2_vr/2.jpg",
       "image3": "images/payday_2_vr/3.jpg",
       "video": "https://www.youtube.com/embed/LvCNIC_-Cl0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "война"
@@ -516,7 +516,7 @@
       "image2": "images/war_robots/2.jpg",
       "image3": "images/war_robots/3.jpg",
       "video": "https://www.youtube.com/embed/IozojEWIZdw",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "роботы"
@@ -530,7 +530,7 @@
       "image2": "images/brookhaven/2.jpg",
       "image3": "images/brookhaven/3.jpg",
       "video": "https://www.youtube.com/embed/BPpFG2Q_V2I",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "зомби"
@@ -544,7 +544,7 @@
       "image2": "images/death_race/2.jpg",
       "image3": "images/death_race/3.jpg",
       "video": "https://www.youtube.com/embed/3a5neXI9kp0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "олдскул"
@@ -558,7 +558,7 @@
       "image2": "images/headshot_vr/2.jpg",
       "image3": "images/headshot_vr/3.jpg",
       "video": "https://www.youtube.com/embed/XA8ZhtPzBns",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "шутер",
       "isChild": false,
       "tag": "война"
@@ -572,7 +572,7 @@
       "image2": "images/prison_boss/2.jpg",
       "image3": "images/prison_boss/3.jpg",
       "video": "https://www.youtube.com/embed/qtPW6EaUDxk",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "крафт"
@@ -586,7 +586,7 @@
       "image2": "images/baby_hands/2.jpg",
       "image3": "images/baby_hands/3.jpg",
       "video": "https://www.youtube.com/embed/50lGbFImvik",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "смешная"
@@ -600,7 +600,7 @@
       "image2": "images/nevrosa_prelude/2.jpg",
       "image3": "images/nevrosa_prelude/3.jpg",
       "video": "https://www.youtube.com/watch?v=GSp1AxBcolA&ab_channel=CaveKostroma",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -614,7 +614,7 @@
       "image2": "images/bellows/2.jpg",
       "image3": "images/bellows/3.jpg",
       "video": "https://www.youtube.com/embed/FV6mjxxAuBM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -628,7 +628,7 @@
       "image2": "images/affected/2.jpg",
       "image3": "images/affected/3.jpg",
       "video": "https://www.youtube.com/watch?v=Bog71KMSsdE&ab_channel=HTCVIVE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -642,7 +642,7 @@
       "image2": "images/run_rooms/2.jpg",
       "image3": "images/run_rooms/3.jpg",
       "video": "https://www.youtube.com/embed/cNM6Ug90j6Q",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -656,7 +656,7 @@
       "image2": "images/fnaf_vr/2.jpg",
       "image3": "images/fnaf_vr/3.jpg",
       "video": "https://www.youtube.com/embed/G1qD5j-RwJ0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -670,7 +670,7 @@
       "image2": "images/gorn/2.jpg",
       "image3": "images/gorn/3.jpg",
       "video": "https://www.youtube.com/embed/khsYz8oqm28",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "сражение"
@@ -684,7 +684,7 @@
       "image2": "images/drunkn_bar/2.jpg",
       "image3": "images/drunkn_bar/3.jpg",
       "video": "https://www.youtube.com/watch?v=TSQ70ucA9QU&ab_channel=PortalVirtualReality",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "драка"
@@ -698,7 +698,7 @@
       "image2": "images/drunkn_bar_halloween/2.jpg",
       "image3": "images/drunkn_bar_halloween/3.jpg",
       "video": "https://www.youtube.com/watch?v=QWYqoTjA8qQ&ab_channel=VoltrexTrailers",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "драка"
@@ -712,7 +712,7 @@
       "image2": "images/thrill_of_fight/2.jpg",
       "image3": "images/thrill_of_fight/3.jpg",
       "video": "https://www.youtube.com/embed/ivebsS4-k8E",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": false,
       "tag": "драка"
@@ -726,7 +726,7 @@
       "image2": "images/blade_and_sorcery/2.jpg",
       "image3": "images/blade_and_sorcery/3.jpg",
       "video": "https://www.youtube.com/embed/KyZDbWvRxZM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "сражение"
@@ -740,7 +740,7 @@
       "image2": "images/gladius/2.jpg",
       "image3": "images/gladius/3.jpg",
       "video": "https://www.youtube.com/embed/KyZDbWvRxZM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "сражение"
@@ -754,7 +754,7 @@
       "image2": "images/angry_birds_vr/2.jpg",
       "image3": "images/angry_birds_vr/3.jpg",
       "video": "https://www.youtube.com/watch?v=4fkKA71wyKU&ab_channel=PlayStation",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "физика"
@@ -768,7 +768,7 @@
       "image2": "images/tilt_brush/2.jpg",
       "image3": "images/tilt_brush/3.jpg",
       "video": "https://www.youtube.com/embed/TckqNdrdbgk",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "творчество",
       "isChild": true,
       "tag": "дизайн"
@@ -782,7 +782,7 @@
       "image2": "images/richies_plank/2.jpg",
       "image3": "images/richies_plank/3.jpg",
       "video": "https://www.youtube.com/embed/ImbhUHhWmSM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "tag": "экстрим"
@@ -796,7 +796,7 @@
       "image2": "images/epic_roller/2.jpg",
       "image3": "images/epic_roller/3.jpg",
       "video": "https://www.youtube.com/embed/p_PhArRIwB4",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -811,7 +811,7 @@
       "image2": "images/ultimate_booster/2.jpg",
       "image3": "images/ultimate_booster/3.jpg",
       "video": "https://www.youtube.com/embed/TGAJjXHMqZ0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -826,7 +826,7 @@
       "image2": "images/rollerforce/2.jpg",
       "image3": "images/rollerforce/3.jpg",
       "video": "https://www.youtube.com/embed/BKQ-F2IL404",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "tag": "экстрим"
@@ -840,7 +840,7 @@
       "image2": "images/talos_principle/2.jpg",
       "image3": "images/talos_principle/3.jpg",
       "video": "https://www.youtube.com/embed/yeDt1Bivcc4",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "головоломка",
       "isChild": false,
       "tag": "сюжет"
@@ -854,7 +854,7 @@
       "image2": "images/budget_cuts/2.jpg",
       "image3": "images/budget_cuts/3.jpg",
       "video": "https://www.youtube.com/embed/J-6dvqy6xdw",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": true,
       "tag": "сюжет"
@@ -868,7 +868,7 @@
       "image2": "images/ranger_lost_tribe/2.jpg",
       "image3": "images/ranger_lost_tribe/3.jpg",
       "video": "https://www.youtube.com/watch?v=BjdVPHdW3t0&ab_channel=C.J",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "лук"
@@ -882,7 +882,7 @@
       "image2": "images/vanishing_realms/2.jpg",
       "image3": "images/vanishing_realms/3.jpg",
       "video": "https://www.youtube.com/watch?v=B-yZ3Wc9gRA&ab_channel=VRPlanet",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "приключение",
       "isChild": false,
       "tag": "сражение"
@@ -896,7 +896,7 @@
       "image2": "images/please_dont_touch/2.jpg",
       "image3": "images/please_dont_touch/3.jpg",
       "video": "https://www.youtube.com/embed/Z4cH68fw4c8",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "квест",
       "isChild": true,
       "tag": "загадка"
@@ -910,7 +910,7 @@
       "image2": "images/fallout4_vr/2.jpg",
       "image3": "images/fallout4_vr/3.jpg",
       "video": "https://www.youtube.com/embed/jspdtha3t1k",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "приключение",
       "isChild": false,
       "tag": "сюжет"
@@ -924,7 +924,7 @@
       "image2": "images/virtual_sports/2.jpg",
       "image3": "images/virtual_sports/3.jpg",
       "video": "https://www.youtube.com/embed/Xa6mx3V01_M",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "быстрая"
@@ -938,7 +938,7 @@
       "image2": "images/fancy_skiing/2.jpg",
       "image3": "images/fancy_skiing/3.jpg",
       "video": "https://www.youtube.com/embed/rvtm8T14BRE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "экстрим"
@@ -952,7 +952,7 @@
       "image2": "images/goalie_challenge/2.jpg",
       "image3": "images/goalie_challenge/3.jpg",
       "video": "https://www.youtube.com/embed/Bv3WuwNgk8A",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "быстрая"
@@ -966,7 +966,7 @@
       "image2": "images/final_soccer/2.jpg",
       "image3": "images/final_soccer/3.jpg",
       "video": "https://www.youtube.com/embed/VUbeE9bYS5A",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "быстрая"
@@ -980,7 +980,7 @@
       "image2": "images/to_the_top/2.jpg",
       "image3": "images/to_the_top/3.jpg",
       "video": "https://www.youtube.com/embed/dtSdPU6x568",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "паркур"
@@ -994,7 +994,7 @@
       "image2": "images/rush/2.jpg",
       "image3": "images/rush/3.jpg",
       "video": "https://www.youtube.com/embed/fc1B9v01SWg",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "экстрим"
@@ -1008,7 +1008,7 @@
       "image2": "images/google_earth/2.jpg",
       "image3": "images/google_earth/3.jpg",
       "video": "https://www.youtube.com/embed/SCrkZOx5Q1M",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "tag": "природа"
@@ -1022,7 +1022,7 @@
       "image2": "images/nvidia_fun_house/2.jpg",
       "image3": "images/nvidia_fun_house/3.jpg",
       "video": "https://www.youtube.com/embed/FGDtvmuMfkM",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -1037,7 +1037,7 @@
       "image2": "images/moss/2.jpg",
       "image3": "images/moss/3.jpg",
       "video": "https://www.youtube.com/embed/OX1PewLB104",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "приключение",
       "isChild": true,
       "tag": "сказка"
@@ -1051,7 +1051,7 @@
       "image2": "images/deadly_hunter/2.jpg",
       "image3": "images/deadly_hunter/3.jpg",
       "video": "https://www.youtube.com/embed/hJTUhIrpA6E",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "лук"
@@ -1065,7 +1065,7 @@
       "image2": "images/growrilla/2.jpg",
       "image3": "images/growrilla/3.jpg",
       "video": "https://www.youtube.com/embed/bD6Wt31_HGc",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "паркур"
@@ -1079,7 +1079,7 @@
       "image2": "images/summer_funland/2.jpg",
       "image3": "images/summer_funland/3.jpg",
       "video": "https://www.youtube.com/embed/uWA8gKPkHSc",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "tag": "миниигры"
@@ -1093,7 +1093,7 @@
       "image2": "images/pistol_whip/2.jpg",
       "image3": "images/pistol_whip/3.jpg",
       "video": "https://www.youtube.com/embed/KUwzpaReU5g",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "ритм"
@@ -1107,7 +1107,7 @@
       "image2": "images/hockey_player/2.jpg",
       "image3": "images/hockey_player/3.jpg",
       "video": "https://www.youtube.com/embed/4hUazXzMrAg",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": true,
       "tag": "быстрая"
@@ -1121,7 +1121,7 @@
       "image2": "images/boneworks/2.jpg",
       "image3": "images/boneworks/3.jpg",
       "video": "https://www.youtube.com/embed/oP8C2nmv3Ag",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "сюжет"
@@ -1135,7 +1135,7 @@
       "image2": "images/budget_cuts_2/2.jpg",
       "image3": "images/budget_cuts_2/3.jpg",
       "video": "https://www.youtube.com/embed/pvsXdlgAOYA",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": true,
       "tag": "сюжет"
@@ -1149,7 +1149,7 @@
       "image2": "images/hl_alyx/2.jpg",
       "image3": "images/hl_alyx/3.jpg",
       "video": "https://www.youtube.com/embed/O2W0N3uKXmo",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "сюжет"
@@ -1163,7 +1163,7 @@
       "image2": "images/roller_coaster/2.jpg",
       "image3": "images/roller_coaster/3.jpg",
       "video": "https://www.youtube.com/embed/w_Ne1qPnEdA",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -1178,7 +1178,7 @@
       "image2": "images/plank_not_included/2.jpg",
       "image3": "images/plank_not_included/3.jpg",
       "video": "https://www.youtube.com/embed/yecp5pIT0SQ",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "tag": "экстрим"
@@ -1192,7 +1192,7 @@
       "image2": "images/no_limits_coaster/2.jpg",
       "image3": "images/no_limits_coaster/3.jpg",
       "video": "https://www.youtube.com/embed/aAakzLQPTk8",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "аттракцион",
       "isChild": true,
       "isVeryChild": true,
@@ -1207,7 +1207,7 @@
       "image2": "images/zero_caliber/2.jpg",
       "image3": "images/zero_caliber/3.jpg",
       "video": "https://www.youtube.com/embed/6_r8KJLcSSQ",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "война"
@@ -1221,7 +1221,7 @@
       "image2": "images/room_vr/2.jpg",
       "image3": "images/room_vr/3.jpg",
       "video": "https://www.youtube.com/embed/iySB6jnYwYE",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "квест",
       "isChild": false,
       "tag": "головоломка"
@@ -1235,7 +1235,7 @@
       "image2": "images/gorilla_tag/2.jpg",
       "image3": "images/gorilla_tag/3.jpg",
       "video": "https://www.youtube.com/embed/HV1O9TaK_qg",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "паркур"
@@ -1249,7 +1249,7 @@
       "image2": "images/the_forest/2.jpg",
       "image3": "images/the_forest/3.jpg",
       "video": "https://www.youtube.com/embed/ay3tDjnBziY",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": false,
       "tag": "выживание"
@@ -1263,7 +1263,7 @@
       "image2": "images/knockout_league/2.jpg",
       "image3": "images/knockout_league/3.jpg",
       "video": "https://www.youtube.com/embed/1Sgv0Jz0_jQ",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "спорт",
       "isChild": false,
       "tag": "драка"
@@ -1277,7 +1277,7 @@
       "image2": "images/cosmonious_high/2.jpg",
       "image3": "images/cosmonious_high/3.jpg",
       "video": "https://www.youtube.com/embed/zwZdtLLa2O0",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
       "tag": "смешная"
@@ -1291,7 +1291,7 @@
       "image2": "images/hellsplit_arena/2.jpg",
       "image3": "images/hellsplit_arena/3.jpg",
       "video": "https://www.youtube.com/embed/Hn5xuJwFu1I",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "файтинг",
       "isChild": false,
       "tag": "сражение"
@@ -1305,7 +1305,7 @@
       "image2": "images/phasmophobia/2.jpg",
       "image3": "images/phasmophobia/3.jpg",
       "video": "https://www.youtube.com/embed/sRa9oeo5KiY",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "хоррор",
       "isChild": false,
       "tag": "страшная"
@@ -1319,7 +1319,7 @@
       "image2": "images/into_the_radius/2.jpg",
       "image3": "images/into_the_radius/3.jpg",
       "video": "https://www.youtube.com/embed/ZhnrBeQkOXI",
-      "category": "htc",
+      "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
       "tag": "сюжет"

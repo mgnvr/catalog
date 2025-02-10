@@ -6,10 +6,10 @@
         <div v-show="selectedPlatform !== 'мои'" class="select-container">
           <div class="select-genre-container">
 
-            <vs-select v-show="selectedPlatform == 'htc'" class="select-genre" label="Выбрать жанр"
+            <vs-select v-show="selectedPlatform == 'pcvr'" class="select-genre" label="Выбрать жанр"
               v-model="selectedGenre">
               <vs-option label="все" value="все"> все </vs-option>
-              <vs-option v-for="(genre, index) in htcGenres" :key="index" :label="genre" :value="genre">
+              <vs-option v-for="(genre, index) in pcvrGenres" :key="index" :label="genre" :value="genre">
                 {{ genre }}
               </vs-option>
             </vs-select>
@@ -54,7 +54,7 @@
               Для детей
             </vs-checkbox>
           </div>
-          <div v-show="selectedPlatform == 'htc' || selectedPlatform == 'oq2' || selectedPlatform == 'psvr'"
+          <div v-show="selectedPlatform == 'pcvr' || selectedPlatform == 'oq2' || selectedPlatform == 'psvr'"
             class="select-item select-item--checkbox">
             <vs-checkbox label-before v-model="isVeryChild" @click="setVeryChild">
               Для самых маленьких
@@ -87,8 +87,8 @@
       <div class="container">
         <vk-tabs align="justify" v-on:click.native="changePlatform($event)">
           <vk-tabs-item v-bind:title="'PCVR'">
-            <div v-if="showGamesByHTC.length !== 0" class="wrapper">
-              <div class="item" v-for="game in showGamesByHTC" :key="game.id">
+            <div v-if="showGamesByPCVR.length !== 0" class="wrapper">
+              <div class="item" v-for="game in showGamesByPCVR" :key="game.id">
                 <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
                   :style="{
                     'background-image':
@@ -118,7 +118,7 @@
                 </router-link>
               </div>
             </div>
-            <div v-else-if="showGamesByHTC.length == 0 && search.length == 0" class="wrapper--empty">
+            <div v-else-if="showGamesByPCVR.length == 0 && search.length == 0" class="wrapper--empty">
               <img :src="this.publicPath + 'assets/loading.svg'" alt="Загрузка..." width="150" />
             </div>
             <div v-else class="wrapper--empty">
@@ -315,7 +315,7 @@ export default {
       category: "",
       genre: "все",
       games: [],
-      htcGenres: [
+      pcvrGenres: [
         "симулятор",
         "шутер",
         "экшн",
@@ -377,7 +377,7 @@ export default {
       ],
       isOpened: false,
       selectedGenre: "все",
-      selectedPlatform: "htc",
+      selectedPlatform: "pcvr",
       selectedSort: "default",
       isChild: false,
       isVeryChild: false,
@@ -473,8 +473,8 @@ export default {
         this.selectedSort
       );
     },
-    showGamesByHTC() {
-      return this.$store.getters.showHTCGames(
+    showGamesByPCVR() {
+      return this.$store.getters.showPCVRGames(
         this.search,
         this.selectedGenre,
         this.isChild,

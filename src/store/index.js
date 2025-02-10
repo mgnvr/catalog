@@ -32,7 +32,7 @@ export default new Vuex.Store({
       }, []);
       return result;
     },
-    showHTCGames: state => (
+    showPCVRGames: state => (
       query,
       genre,
       isChild,
@@ -41,7 +41,7 @@ export default new Vuex.Store({
     ) => {
       var tmpArray = state.games.filter(game => {
         return (
-          game.category == "htc" &&
+          game.category == "pcvr" &&
           (genre == "все" || game.genre === genre) &&
           (!isChild || game.isChild) &&
           (!isVeryChild || game.isVeryChild) &&
