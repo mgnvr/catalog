@@ -368,34 +368,6 @@
       "tag": "олдскул"
     },
     {
-      "id": 31,
-      "title": "Serious Sam VR: The Second Encounter",
-      "description": "Serious Sam VR: Second Encounter является продолжением Serious Sam VR: The First Encounter - безумного аркадного игрового шутера от первого лица. Возьмите свою виртуальную гарнитуру и исследуйте беспорядочный мир Сэма, в котором вы испытаете крайнее насилие и бесконечное веселье.",
-      "thumbnail": "images/serious_sam_second_encounter/thumbnail.jpg",
-      "image1": "images/serious_sam_second_encounter/1.jpg",
-      "image2": "images/serious_sam_second_encounter/2.jpg",
-      "image3": "images/serious_sam_second_encounter/3.jpg",
-      "video": "https://www.youtube.com/watch?v=EEapCdUCciQ&ab_channel=vrgamecritic",
-      "category": "pcvr",
-      "genre": "шутер",
-      "isChild": false,
-      "tag": "олдскул"
-    },
-    {
-      "id": 32,
-      "title": "Serious Sam 3 VR: BFE",
-      "description": "Serious Sam 3 VR: BFE — это великолепное возвращение в золотой век шутеров с видом от первого лица, когда мужчины были мужчинами, укрытия были для трусов, а нажатие на курок сопровождалось огромными взрывами. В качестве приквела оригинальной инди-сенсации Serious Sam: The First Encounter, события в Serious Sam 3 происходят во время последней битвы за Землю против легионов инопланетных зверей и наемников Ментала. На фоне разваливающихся храмов древней цивилизации и разрушающихся городов Египта 22-го века, Serious Sam 3 сочетает в себе классический безостановочный шутер и особенности современного геймплея. НИКАКИХ УКРЫТИЙ. БУДЬ МУЖИКОМ.",
-      "thumbnail": "images/serious_sam_3/thumbnail.jpg",
-      "image1": "images/serious_sam_3/1.jpg",
-      "image2": "images/serious_sam_3/2.jpg",
-      "image3": "images/serious_sam_3/3.jpg",
-      "video": "https://www.youtube.com/embed/0d0qf9ss2cE",
-      "category": "pcvr",
-      "genre": "шутер",
-      "isChild": false,
-      "tag": "олдскул"
-    },
-    {
       "id": 33,
       "title": "WAR DUST",
       "description": "С War Dust мы хотим раздвинуть границы виртуальной реальности и создать эпические сражения в масштабах, которые никогда не были достигнуты ранее. Полный опыт погружения, который бросает вас в захватывающий боевик, полный взрывов и динамичной тактики. Возможность жить невероятной ситуацией, где сталкиваются армии. Наша цель - создать ощущение участия в настоящей эпической войне, а не просто в маленькой битве.",
@@ -432,20 +404,6 @@
       "image2": "images/sairento/2.jpg",
       "image3": "images/sairento/3.jpg",
       "video": "https://www.youtube.com/watch?v=9PoxrZRfqCI&ab_channel=vrgamecritic",
-      "category": "pcvr",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "киберпанк"
-    },
-    {
-      "id": 39,
-      "title": "Blue Effect VR",
-      "description": "Добро пожаловать на планету Экзо-277. Место, где ваши способности будут проверены. Этот мир принадлежит инопланетной расе, которая не знает, что означает поражение. Вы столкнетесь с врагами, которые безжалостны, жестоки и в основном ужасны. Выживи и стань знаменитым воином во вселенной!",
-      "thumbnail": "images/blue_effect/thumbnail.jpg",
-      "image1": "images/blue_effect/1.jpg",
-      "image2": "images/blue_effect/2.jpg",
-      "image3": "images/blue_effect/3.jpg",
-      "video": "https://www.youtube.com/embed/KRYTvm00pno",
       "category": "pcvr",
       "genre": "экшн",
       "isChild": false,
@@ -1707,20 +1665,6 @@
       "tag": "сказка"
     },
     {
-      "id": 335,
-      "title": "STAR WARS: Squadrons",
-      "description": "Освойте искусство сражений на звёздных истребителях в реалистичном симуляторе полёта STAR WARS: Squadrons. Пристегните ремень и ощутите прилив адреналина в крови, участвуя в многопользовательских воздушных схватках от первого лица со своей эскадрильей.",
-      "thumbnail": "images/sw_squadrons/thumbnail.jpg",
-      "image1": "images/sw_squadrons/1.jpg",
-      "image2": "images/sw_squadrons/2.jpg",
-      "image3": "images/sw_squadrons/3.jpg",
-      "video": "https://www.youtube.com/embed/w0eRkhR1z6A",
-      "category": "psvr",
-      "genre": "симулятор",
-      "isChild": false,
-      "tag": "космос"
-    },
-    {
       "id": 340,
       "title": "Marvel's Iron Man VR",
       "description": "Уже несколько лет как всемирно известный супергерой Тони Старк оставил производство оружия и занимается созданием технологий, которые помогут Железному Человеку в борьбе со злом.",
@@ -2568,6 +2512,21 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "открытый мир"
+    },
+    {
+      "id": 596,
+      "title": "Sonic Colors: Ultimate",
+      "description": "Злой доктор Эггман построил космический парк развлечений и питает его энергией захваченных в плен инопланетян — виспов. Освободи виспов вместе с неуловимым Соником, узнай, какими силами они обладают, и исследуй шесть уникальных миров, полных непростых испытаний.",
+      "thumbnail": "images/sonic_colors/thumbnail.jpg",
+      "image1": "images/sonic_colors/1.jpg",
+      "image2": "images/sonic_colors/2.jpg",
+      "image3": "images/sonic_colors/3.jpg",
+      "video": "https://www.youtube.com/embed/8BkH9gnqI7M",
+      "category": "ps5",
+      "genre": "аркада",
+      "isChild": true,
+      "isLocalMultiplayer": true,
+      "tag": "мультяшная"
     },
     {
       "id": 597,
