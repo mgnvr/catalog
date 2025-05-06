@@ -1171,13 +1171,18 @@ h2.platform-name {
 }
 
 .platform--psvr .platform-img,
-.platform--oq2 .platform-img {
+.platform--oq2 .platform-img,
+.platform--psvr2 .platform-img {
   text-align: center;
 }
 
 .platform--psvr img,
 .platform--oq2 img {
   max-width: 80%;
+}
+
+.platform--psvr2 img {
+  max-width: 100%;
 }
 
 h1.game-title {
@@ -1588,7 +1593,7 @@ p.game-tag .card-genre {
   }
 
   .platform--oq2 .platform-img,
-  .platform--ps5 .platform-img {
+  .platform--psvr2 .platform-img {
     order: 1;
   }
 }
@@ -1774,7 +1779,7 @@ p.game-tag .card-genre {
 
   .platform {
     flex-direction: column;
-    width: 33.3333%;
+    width: 25%;
   }
 
   h2.platform-name {

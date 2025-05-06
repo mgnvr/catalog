@@ -30,6 +30,14 @@
               </vs-option>
             </vs-select>
 
+            <vs-select v-show="selectedPlatform == 'psvr2'" class="select-genre" label="Выбрать жанр"
+              v-model="selectedGenre">
+              <vs-option label="все" value="все"> все </vs-option>
+              <vs-option v-for="(genre, index) in psvr2Genres" :key="index" :label="genre" :value="genre">
+                {{ genre }}
+              </vs-option>
+            </vs-select>
+
             <vs-select v-show="selectedPlatform == 'ps5'" class="select-genre" label="Выбрать жанр"
               v-model="selectedGenre">
               <vs-option label="все" value="все"> все </vs-option>
@@ -122,7 +130,8 @@
               <img :src="this.publicPath + 'assets/loading.svg'" alt="Загрузка..." width="150" />
             </div>
             <div v-else class="wrapper--empty">
-              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
             </div>
@@ -163,7 +172,8 @@
               <img :src="this.publicPath + 'assets/loading.svg'" alt="Загрузка..." width="150" />
             </div>
             <div v-else class="wrapper--empty">
-              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
             </div>
@@ -201,7 +211,47 @@
               </div>
             </div>
             <div v-else class="wrapper--empty">
-              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
+              <p class="empty-start">По вашему запросу ничего не найдено</p>
+              <p>Есть и другие игры, тоже интересные</p>
+            </div>
+          </vk-tabs-item>
+          <vk-tabs-item v-bind:title="'PSVR2'">
+            <div v-if="showGamesByPSVR2.length !== 0" class="wrapper">
+              <div class="item" v-for="game in showGamesByPSVR2" :key="game.id">
+                <router-link tag="div" :to="{ name: 'Id', params: { id: game.id } }" class="card" title="Перейти к игре"
+                  :style="{
+                    'background-image':
+                      `linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0.65) 100%), ` +
+                      'url(' +
+                      game.thumbnail +
+                      ')',
+                  }">
+                  <div class="card__header">
+                    <button :class="{ liked: wishlistIds.includes(game.id) }" class="like"
+                      @click.stop="putLike($event, game.id)" title="Добавить в избранное / Удалить из избранного">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M12 21.35L10.55 20.03C5.4 15.36 2 12.27 2 8.5C2 5.41 4.42 3 7.5 3C9.24 3 10.91 3.81 12 5.08C13.09 3.81 14.76 3 16.5 3C19.58 3 22 5.41 22 8.5C22 12.27 18.6 15.36 13.45 20.03L12 21.35Z"
+                          fill="#fff" />
+                      </svg>
+                    </button>
+                  </div>
+                  <div v-once class="card-desc">
+                    <h3 v-text="game.title" class="game-title"></h3>
+                    <p v-text="game.description" class="game-desc"></p>
+                    <div class="card__footer">
+                      <div class="card-genre" v-text="game.genre"></div>
+                      <div class="card-genre card-tag" v-text="game.tag"></div>
+                    </div>
+                  </div>
+                </router-link>
+              </div>
+            </div>
+            <div v-else class="wrapper--empty">
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
             </div>
@@ -242,7 +292,8 @@
               </div>
             </div>
             <div v-else class="wrapper--empty">
-              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
             </div>
@@ -255,7 +306,8 @@
               <p class="empty-offer">Начните добавлять любимые игры, чтобы не потерять их</p>
             </div>
             <div v-else-if="!isEmpty && showLikedGames.length == 0" class="wrapper--empty">
-              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150" height="150" />
+              <img class="empty-loupe" :src="this.publicPath + 'assets/loupe.png'" alt="Лупа" width="150"
+                height="150" />
               <p class="empty-start">По вашему запросу ничего не найдено</p>
               <p>Есть и другие игры, тоже интересные</p>
             </div>
@@ -360,6 +412,14 @@ export default {
         "аттракцион",
         "приключение",
         "многопользовательская",
+      ],
+      psvr2Genres: [
+        "симулятор",
+        "экшн",
+        "квест",
+        "аттракцион",
+        "музыкальная",
+        "спорт",
       ],
       ps5Genres: [
         "экшн",
@@ -497,6 +557,14 @@ export default {
         this.selectedGenre,
         this.isChild,
         this.isVeryChild,
+        this.selectedSort
+      );
+    },
+    showGamesByPSVR2() {
+      return this.$store.getters.showPSVR2Games(
+        this.search,
+        this.selectedGenre,
+        this.isChild,
         this.selectedSort
       );
     },

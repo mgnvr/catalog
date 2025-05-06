@@ -20,22 +20,6 @@
       </p>
 
       <div class="platforms">
-        <!-- <div class="platform platform--htc">
-          <div class="platform-img">
-            <img :src="this.publicPath + 'assets/htc.png'" alt="HTC" width="100%" height="auto" />
-          </div>
-          <div class="platform-info">
-            <div class="platform-info-wrapper">
-              <h2 class="platform-name">HTC Vive</h2>
-              <p class="platform-desc">Прими участие в гладиаторских сражениях, стань главным героем боевика, примерь
-                костюм
-                супергероя, останови зомби-апокалипсис, покатайся на американских горках и многое другое.</p>
-              <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'htc').length }}
-              </p>
-            </div>
-          </div>
-        </div> -->
         <div class="platform platform--oq2">
           <div class="platform-img">
             <img :src="this.publicPath + 'assets/oq2.png'" alt="Oculus Quest 2" width="100%" height="auto" />
@@ -46,7 +30,7 @@
               <p class="platform-desc">Система виртуальной реальности Oculus Quest 2 отличается возможностью автономного
                 использования. Также на платформе представлены эксклюзивные игры во вселенной Star Wars и др.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'oq2').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'oq2').length}}
               </p>
             </div>
           </div>
@@ -63,7 +47,21 @@
                 себя участником настоящей гонки с болельщиками на трибунах, и проработанной до мельчайших деталей
                 природой.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'psvr').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'psvr').length}}
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="platform platform--psvr2">
+          <div class="platform-img">
+            <img :src="this.publicPath + 'assets/psvr2.png'" alt="PlayStation VR2" width="100%" height="auto" />
+          </div>
+          <div class="platform-info">
+            <div class="platform-info-wrapper">
+              <h2 class="platform-name">PlayStation VR 2</h2>
+              <p class="platform-desc">Система виртуальной реальности PlayStation VR2 позволяет ощущать эффект полного погружения в любимую игру. Уникальная система отслеживания глаз подарит новый опыт в играх.</p>
+              <p class="platform-count-games">
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'psvr2').length}}
               </p>
             </div>
           </div>
@@ -79,7 +77,7 @@
                 последнего поколения. Предусмотрена возможность локального кооператива или игра по сети на несколько
                 человек.</p>
               <p class="platform-count-games">
-                Игр на платформе: {{ this.$store.state.games.filter(game => game.category === 'ps5').length }}
+                Игр на платформе: {{this.$store.state.games.filter(game => game.category === 'ps5').length}}
               </p>
             </div>
           </div>
@@ -92,7 +90,7 @@
       <table class="uk-table uk-table-striped">
         <thead>
           <tr>
-            <th>OQ2 / PSVR</th>
+            <th>OQ2 / PSVR / PSVR 2</th>
             <th>PS4 Pro / PS5</th>
           </tr>
         </thead>

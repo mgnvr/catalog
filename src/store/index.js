@@ -131,6 +131,32 @@ export default new Vuex.Store({
       }
       return filteredGames;
     },
+    showPSVR2Games: state => (query, genre, isChild, selectedSort) => {
+      var tmpArray = state.games.filter(game => {
+        return (
+          game.category == "psvr2" &&
+          (genre == "все" || game.genre === genre) &&
+          (!isChild || game.isChild) &&
+          (query.length == 0 ||
+            game.title.toLowerCase().includes(query) ||
+            game.genre.includes(query) ||
+            game.tag.includes(query))
+        );
+      });
+      var filteredGames = [];
+      if (selectedSort == "ascending") {
+        filteredGames = tmpArray.sort((a, b) => a.title.localeCompare(b.title));
+      } else if (selectedSort == "descending") {
+        filteredGames = tmpArray.sort((a, b) => b.title.localeCompare(a.title));
+      } else if (selectedSort == "bygenre") {
+        filteredGames = tmpArray.sort((a, b) => a.genre.localeCompare(b.genre));
+      } else if (selectedSort == "bytag") {
+        filteredGames = tmpArray.sort((a, b) => a.tag.localeCompare(b.tag));
+      } else {
+        filteredGames = tmpArray;
+      }
+      return filteredGames;
+    },
     showPS5Games: state => (
       query,
       genre,
