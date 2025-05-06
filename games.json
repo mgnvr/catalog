@@ -12,7 +12,7 @@
       "category": "pcvr",
       "genre": "симулятор",
       "isChild": true,
-      "tag": "смешная"
+      "tag": "профессия"
     },
     {
       "id": 2,
@@ -1437,7 +1437,7 @@
       "category": "psvr",
       "genre": "симулятор",
       "isChild": true,
-      "tag": "смешная"
+      "tag": "профессия"
     },
     {
       "id": 312,
@@ -1677,6 +1677,160 @@
       "genre": "экшн",
       "isChild": true,
       "tag": "супергерои"
+    },
+    {
+      "id": 400,
+      "title": "Job Simulator",
+      "description": "В мире, где роботы заменили всю человеческую работу, зайдите в «Симулятор работы», чтобы узнать, каково это - «работать».",
+      "thumbnail": "images/job_simulator/thumbnail.jpg",
+      "image1": "images/job_simulator/1.jpg",
+      "image2": "images/job_simulator/2.jpg",
+      "image3": "images/job_simulator/3.jpg",
+      "video": "https://www.youtube.com/embed/8H9ieJk8AJ4",
+      "category": "psvr2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "профессия"
+    },
+    {
+      "id": 401,
+      "title": "Vacation Simulator",
+      "description": "Добро пожаловать в «Симулятор отпуска»: примерное представление ОТДЫХА, вдохновленного реальным человеком, НЕ РАБОТАЮЩИМ, представленным вам теми же роботами из «Симулятора Работы».",
+      "thumbnail": "images/vacation_simulator/thumbnail.jpg",
+      "image1": "images/vacation_simulator/1.jpg",
+      "image2": "images/vacation_simulator/2.jpg",
+      "image3": "images/vacation_simulator/3.jpg",
+      "video": "https://www.youtube.com/embed/9io7Zkoyxcw",
+      "category": "psvr2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "смешная"
+    },
+    {
+      "id": 402,
+      "title": "Arcade Paradise VR",
+      "description": "Перенеситесь в 1993-й год и окунитесь в виртуальный мир Arcade Paradise VR, чтобы пережить невероятный опыт и ощутить могучую ностальгию по ретро-играм! Arcade Paradise — это приключенческая игра с элементами симулятора управления бизнесом, где вам предстоит подняться из грязи в князи и построить процветающий бизнес на базе дряхлой прачечной King Wash.",
+      "thumbnail": "images/arcade_paradise_vr/thumbnail.jpg",
+      "image1": "images/arcade_paradise_vr/1.jpg",
+      "image2": "images/arcade_paradise_vr/2.jpg",
+      "image3": "images/arcade_paradise_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/fwdwVdCT968",
+      "category": "psvr2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "профессия"
+    },
+    {
+      "id": 403,
+      "title": "Tin Hearts",
+      "description": "Отправьтесь в серию головоломок, похожих на леммингов, чтобы заново пережить захватывающую и эмоциональную историю гениального изобретателя Альберта Дж. Баттерворта, направляя отряд оловянных солдатиков к достижению их цели.",
+      "thumbnail": "images/tin_hearts/thumbnail.jpg",
+      "image1": "images/tin_hearts/1.jpg",
+      "image2": "images/tin_hearts/2.jpg",
+      "image3": "images/tin_hearts/3.jpg",
+      "video": "https://www.youtube.com/embed/Piutws2WrYk",
+      "category": "psvr2",
+      "genre": "квест",
+      "isChild": true,
+      "tag": "головоломка"
+    },
+    {
+      "id": 404,
+      "title": "Before Your Eyes",
+      "description": "Отправьтесь в эмоциональное, отмеченное наградами приключение, в котором вы управляете историей и влияете на ее исход с помощью моргания в реальной жизни. В этом уникальном опыте виртуальной реальности вы полностью погрузитесь в мир воспоминаний, как радостных, так и душераздирающих, поскольку вся ваша жизнь проносится перед вашими глазами.",
+      "thumbnail": "images/before_your_eyes/thumbnail.jpg",
+      "image1": "images/before_your_eyes/1.jpg",
+      "image2": "images/before_your_eyes/2.jpg",
+      "image3": "images/before_your_eyes/3.jpg",
+      "video": "https://www.youtube.com/embed/v9OhfCk51Mo",
+      "category": "psvr2",
+      "genre": "аттракцион",
+      "isChild": true,
+      "tag": "сюжет"
+    },
+    {
+      "id": 405,
+      "title": "Kayak VR: Mirage",
+      "description": "Потрясающее и волнующее путешествие по красивым и уникальным местам, созданное специально для виртуальной реальности. Маневрируйте нашим полностью физически точным каяком вокруг контрольных точек и станьте самым быстрым или расслабьтесь и используйте режим свободного перемещения для неспешной поездки и наслаждайтесь пейзажем.",
+      "thumbnail": "images/kayak_vr_mirage/thumbnail.jpg",
+      "image1": "images/kayak_vr_mirage/1.jpg",
+      "image2": "images/kayak_vr_mirage/2.jpg",
+      "image3": "images/kayak_vr_mirage/3.jpg",
+      "video": "https://www.youtube.com/embed/FxlRZYqLZWE",
+      "category": "psvr2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "экстрим"
+    },
+    {
+      "id": 406,
+      "title": "Synth Riders",
+      "description": "Позвольте музыке двигать вами, когда вы ловите ноты, едете по рельсам и уклоняетесь от препятствий в уникальном физическом опыте, оптимизированном для PlayStation VR2!",
+      "thumbnail": "images/synth_riders/thumbnail.jpg",
+      "image1": "images/synth_riders/1.jpg",
+      "image2": "images/synth_riders/2.jpg",
+      "image3": "images/synth_riders/3.jpg",
+      "video": "https://www.youtube.com/embed/PNsUCrbEoJY",
+      "category": "psvr2",
+      "genre": "музыкальная",
+      "isChild": true,
+      "tag": "ритм"
+    },
+    {
+      "id": 407,
+      "title": "Ghostbusters: Rise of the Ghost Lord",
+      "description": "Ответьте на зов охотника за привидениями Рэя Стэнца (которого играет Дэн Эйкройд), отправляйтесь на задания по всему Нью-Йорку и Сан-Франциско и победите ледяного врага Гарраку. Посетите знаменитую пожарную часть «Охотников за привидениями» в Нью-Йорке, воспользуйтесь оригинальным оборудованием «Охотников за привидениями», поймайте новых призраков и приготовьтесь к решающему и ледяному финалу.",
+      "thumbnail": "images/ghostbusters_vr/thumbnail.jpg",
+      "image1": "images/ghostbusters_vr/1.jpg",
+      "image2": "images/ghostbusters_vr/2.jpg",
+      "image3": "images/ghostbusters_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/RYtdI3F_n4Y",
+      "category": "psvr2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "боевик"
+    },
+    {
+      "id": 408,
+      "title": "Star Wars: Tales from the Galaxy's Edge",
+      "description": "Приключенческий боевик, в котором вы возьмете на себя роль техника по ремонту дроидов, работающего недалеко от Внешнего Кольца. Когда группа пиратов нападет на вас на Батуу, вы обнаружите, что любой в галактике может стать героем.",
+      "thumbnail": "images/star_wars_tales/thumbnail.jpg",
+      "image1": "images/star_wars_tales/1.jpg",
+      "image2": "images/star_wars_tales/2.jpg",
+      "image3": "images/star_wars_tales/3.jpg",
+      "video": "https://www.youtube.com/embed/vXVBiF73a_o",
+      "category": "psvr2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "сюжет"
+    },
+    {
+      "id": 409,
+      "title": "The Walking Dead: Saints & Sinners",
+      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
+      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
+      "image1": "images/walking_dead_sas/1.jpg",
+      "image2": "images/walking_dead_sas/2.jpg",
+      "image3": "images/walking_dead_sas/3.jpg",
+      "video": "https://www.youtube.com/embed/PwQx872oy4A",
+      "category": "psvr2",
+      "genre": "экшн",
+      "isChild": false,
+      "tag": "зомби"
+    },
+    {
+      "id": 410,
+      "title": "Walkabout Mini Golf VR",
+      "description": "Весёлый и красивый мир, наполненный лучшими полями для мини-гольфа, которые вы когда-либо видели!",
+      "thumbnail": "images/walkabout_mini_golf/thumbnail.jpg",
+      "image1": "images/walkabout_mini_golf/1.jpg",
+      "image2": "images/walkabout_mini_golf/2.jpg",
+      "image3": "images/walkabout_mini_golf/3.jpg",
+      "video": "https://www.youtube.com/embed/SULUgn3pja8",
+      "category": "psvr2",
+      "genre": "спорт",
+      "isChild": true,
+      "tag": "быстрая"
     },
     {
       "id": 500,
@@ -3053,20 +3207,6 @@
       "tag": "смешная"
     },
     {
-      "id": 674,
-      "title": "Kena: Bridge of Spirits",
-      "description": "Молодая проводница духов Кена отправляется в заброшенное поселение в поисках горного святилища. Она пытается узнать секреты забытого племени в густых лесах, ставших ловушкой для блуждающих духов.",
-      "thumbnail": "images/kena/thumbnail.jpg",
-      "image1": "images/kena/1.jpg",
-      "image2": "images/kena/2.jpg",
-      "image3": "images/kena/3.jpg",
-      "video": "https://www.youtube.com/embed/V44I1TSFpOc",
-      "category": "ps5",
-      "genre": "приключение",
-      "isChild": true,
-      "tag": "сказка"
-    },
-    {
       "id": 675,
       "title": "Spirit of the North: Enhanced Edition",
       "description": "Примерьте на себя роль обычного лиса, который встретил сородича: стража северного сияния. Путешествуйте по горным тропам под расцвеченным красным небом и узнавайте всё больше о своем спутнике-духе и стране, что лежит в руинах.",
@@ -3889,20 +4029,6 @@
       "tag": "зомби"
     },
     {
-      "id": 776,
-      "title": "RESIDENT EVIL 3",
-      "description": "Только Джилл Валентайн знает о преступлениях корпорации «Амбрелла». Чтобы остановить ее, «Амбрелла» использует секретное оружие: Немезис!",
-      "thumbnail": "images/re3/thumbnail.jpg",
-      "image1": "images/re3/1.jpg",
-      "image2": "images/re3/2.jpg",
-      "image3": "images/re3/3.jpg",
-      "video": "https://www.youtube.com/embed/BBky2uCGqtM",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
-    },
-    {
       "id": 777,
       "title": "Resident Evil Revelations 2",
       "description": "Игра позволит погрузиться в мир хоррора, помогая одному из персонажей (Клэр Рэдфилд) выбраться с неизвестного острова. Там на каждом шагу встречаются кровожадные и чудовищные существа, способные быстро соображать и использовать оружие. В игре предусмотрены 4 эпизода, пройдя которые главные героини узнают много тайн и секретов. Им нужно узнать, кто их похитил и зачем. Играть можно как в одиночку, так и вдвоём.",
@@ -3957,7 +4083,7 @@
       "category": "oq2",
       "genre": "симулятор",
       "isChild": true,
-      "tag": "смешная"
+      "tag": "профессия"
     },
     {
       "id": 901,
