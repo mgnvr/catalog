@@ -1735,20 +1735,6 @@
       "tag": "головоломка"
     },
     {
-      "id": 404,
-      "title": "Before Your Eyes",
-      "description": "Отправьтесь в эмоциональное, отмеченное наградами приключение, в котором вы управляете историей и влияете на ее исход с помощью моргания в реальной жизни. В этом уникальном опыте виртуальной реальности вы полностью погрузитесь в мир воспоминаний, как радостных, так и душераздирающих, поскольку вся ваша жизнь проносится перед вашими глазами.",
-      "thumbnail": "images/before_your_eyes/thumbnail.jpg",
-      "image1": "images/before_your_eyes/1.jpg",
-      "image2": "images/before_your_eyes/2.jpg",
-      "image3": "images/before_your_eyes/3.jpg",
-      "video": "https://www.youtube.com/embed/v9OhfCk51Mo",
-      "category": "psvr2",
-      "genre": "аттракцион",
-      "isChild": true,
-      "tag": "сюжет"
-    },
-    {
       "id": 405,
       "title": "Kayak VR: Mirage",
       "description": "Потрясающее и волнующее путешествие по красивым и уникальным местам, созданное специально для виртуальной реальности. Маневрируйте нашим полностью физически точным каяком вокруг контрольных точек и станьте самым быстрым или расслабьтесь и используйте режим свободного перемещения для неспешной поездки и наслаждайтесь пейзажем.",
@@ -1761,34 +1747,6 @@
       "genre": "симулятор",
       "isChild": true,
       "tag": "экстрим"
-    },
-    {
-      "id": 406,
-      "title": "Synth Riders",
-      "description": "Позвольте музыке двигать вами, когда вы ловите ноты, едете по рельсам и уклоняетесь от препятствий в уникальном физическом опыте, оптимизированном для PlayStation VR2!",
-      "thumbnail": "images/synth_riders/thumbnail.jpg",
-      "image1": "images/synth_riders/1.jpg",
-      "image2": "images/synth_riders/2.jpg",
-      "image3": "images/synth_riders/3.jpg",
-      "video": "https://www.youtube.com/embed/PNsUCrbEoJY",
-      "category": "psvr2",
-      "genre": "музыкальная",
-      "isChild": true,
-      "tag": "ритм"
-    },
-    {
-      "id": 407,
-      "title": "Ghostbusters: Rise of the Ghost Lord",
-      "description": "Ответьте на зов охотника за привидениями Рэя Стэнца (которого играет Дэн Эйкройд), отправляйтесь на задания по всему Нью-Йорку и Сан-Франциско и победите ледяного врага Гарраку. Посетите знаменитую пожарную часть «Охотников за привидениями» в Нью-Йорке, воспользуйтесь оригинальным оборудованием «Охотников за привидениями», поймайте новых призраков и приготовьтесь к решающему и ледяному финалу.",
-      "thumbnail": "images/ghostbusters_vr/thumbnail.jpg",
-      "image1": "images/ghostbusters_vr/1.jpg",
-      "image2": "images/ghostbusters_vr/2.jpg",
-      "image3": "images/ghostbusters_vr/3.jpg",
-      "video": "https://www.youtube.com/embed/RYtdI3F_n4Y",
-      "category": "psvr2",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
     },
     {
       "id": 408,
@@ -1806,31 +1764,31 @@
     },
     {
       "id": 409,
-      "title": "The Walking Dead: Saints & Sinners",
-      "description": "Saints & Sinners - игра, не похожая ни на одну другую во вселенной Ходячих мертвецов. Каждый вызов, с которым вы сталкиваетесь, и решение, которое вы принимаете, зависит от вас. Сражайтесь с нежитью, продирайтесь сквозь руины Нового Орлеана и сталкивайтесь с мучительным выбором для вас и других выживших.",
-      "thumbnail": "images/walking_dead_sas/thumbnail.jpg",
-      "image1": "images/walking_dead_sas/1.jpg",
-      "image2": "images/walking_dead_sas/2.jpg",
-      "image3": "images/walking_dead_sas/3.jpg",
-      "video": "https://www.youtube.com/embed/PwQx872oy4A",
+      "title": "Synapse",
+      "description": "Экшен-шутер для двух джойстиков: освойте убийственный телекинез и палите в противника из всех орудий! Дайте волю своему внутреннему антигерою и вторгнитесь в подсознание злобного врага государства.",
+      "thumbnail": "images/synapse/thumbnail.jpg",
+      "image1": "images/synapse/1.jpg",
+      "image2": "images/synapse/2.jpg",
+      "image3": "images/synapse/3.jpg",
+      "video": "https://www.youtube.com/embed/d6dBQAboTZc",
       "category": "psvr2",
       "genre": "экшн",
-      "isChild": false,
-      "tag": "зомби"
+      "isChild": true,
+      "tag": "сюжет"
     },
     {
       "id": 410,
-      "title": "Walkabout Mini Golf VR",
-      "description": "Весёлый и красивый мир, наполненный лучшими полями для мини-гольфа, которые вы когда-либо видели!",
-      "thumbnail": "images/walkabout_mini_golf/thumbnail.jpg",
-      "image1": "images/walkabout_mini_golf/1.jpg",
-      "image2": "images/walkabout_mini_golf/2.jpg",
-      "image3": "images/walkabout_mini_golf/3.jpg",
-      "video": "https://www.youtube.com/embed/SULUgn3pja8",
+      "title": "The Last Clockwinder",
+      "description": "Клонируйте свои действия в бесконечно повторяющиеся циклы, чтобы строить сборочные линии и приспособления. Собирайте ресурсы, выращивайте растения и восстанавливайте жизнь древнего дерева в этой отмеченной наградами игре в виртуальной реальности!",
+      "thumbnail": "images/the_last_clockwinder/thumbnail.jpg",
+      "image1": "images/the_last_clockwinder/1.jpg",
+      "image2": "images/the_last_clockwinder/2.jpg",
+      "image3": "images/the_last_clockwinder/3.jpg",
+      "video": "https://www.youtube.com/embed/6-nC4zVGAAs",
       "category": "psvr2",
-      "genre": "спорт",
+      "genre": "квест",
       "isChild": true,
-      "tag": "быстрая"
+      "tag": "головоломка"
     },
     {
       "id": 500,
@@ -2781,20 +2739,6 @@
       "tag": "аниме"
     },
     {
-      "id": 612,
-      "title": "Batman: Arkham Knight",
-      "description": "В игре BATMAN: Рыцарь Аркхема – бурном финале серии, действие разворачивается в Аркхеме, Бэтмен противостоит самой жестокой угрозе городу, который он поклялся защищать.",
-      "thumbnail": "images/batman_arkham_knight/thumbnail.jpg",
-      "image1": "images/batman_arkham_knight/1.jpg",
-      "image2": "images/batman_arkham_knight/2.jpg",
-      "image3": "images/batman_arkham_knight/3.jpg",
-      "video": "https://www.youtube.com/watch?v=LOvqa0qLDV8&ab_channel=GamebombCentral",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "супергерои"
-    },
-    {
       "id": 616,
       "title": "Deus Ex: Mankind Divided",
       "description": "2029 год. Общество отвергло людей с аугментациями. Изгой и элитный тайный агент Адам Дженсен должен найти союзников, разобраться с противниками и раскрыть грандиозный заговор.",
@@ -3588,20 +3532,6 @@
       "genre": "экшн",
       "isChild": false,
       "tag": "боевик"
-    },
-    {
-      "id": 711,
-      "title": "Ghostrunner",
-      "description": "Взбирайтесь вверх по башне Дхарма, ставшей последним убежищем человечества после всемирной катастрофы. Пройдите путь снизу доверху, встретьтесь с тираном Кимастером и воздайте ему по заслугам.",
-      "thumbnail": "images/ghostrunner/thumbnail.jpg",
-      "image1": "images/ghostrunner/1.jpg",
-      "image2": "images/ghostrunner/2.jpg",
-      "image3": "images/ghostrunner/3.jpg",
-      "video": "https://www.youtube.com/embed/Vt8yOLn8vmo",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "киберпанк"
     },
     {
       "id": 713,
