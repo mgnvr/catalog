@@ -1384,20 +1384,6 @@
       "tag": "война"
     },
     {
-      "id": 307,
-      "title": "Minecraft PSVR",
-      "description": "Окажись внутри мира Minecraft благодаря технологии виртуальной реальности. Исследуй, строй и сражайся с мобами — делай все, что тебе нравится, полностью погрузившись в виртуальный мир!",
-      "thumbnail": "images/minecraft_vr/thumbnail.jpg",
-      "image1": "images/minecraft_vr/1.jpg",
-      "image2": "images/minecraft_vr/2.jpg",
-      "image3": "images/minecraft_vr/3.jpg",
-      "video": "https://www.youtube.com/watch?v=rsTaXjWNEM4&ab_channel=PlayStation%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
-      "category": "psvr",
-      "genre": "песочница",
-      "isChild": true,
-      "tag": "крафт"
-    },
-    {
       "id": 308,
       "title": "Call Of Duty: Infinite Warfare Jackal Assault",
       "description": "Атака 'Шакалов' - режим Call Of Duty: Infinite Warfare для VR, разработанный специально для любителей воздушного боя. Вы получили возможность оказаться в кабине «Шакала», многоцелевого истребителя из Call of Duty: Infinite Warfare. Игроки оказываются в гуще событий еще на этапе обучения - так, первый бой придется провести прямо в ходе тренировочного полета.",
