@@ -2570,6 +2570,21 @@
     },
     {
       "id": 587,
+      "title": "UFC 5",
+      "description": "Благодаря улучшенной визуализации движка Frostbite ваши любимые бойцы теперь обладают беспрецедентной схожестью со своими реальными прототипами, а достоверность отображения окружения позволяет вам ощутить себя так, будто вы находитесь в самом настоящем октагоне и участвуете в реальном главном событии. На сцену выходит новая система реалистичного урона, позволяющая выстраивать более сложные и напряжённые стратегии ведения боя, ведь на ваши подвижность, защиту и выносливость влияют любые рассечения и полученные удары.",
+      "thumbnail": "images/ufc_5/thumbnail.jpg",
+      "image1": "images/ufc_5/1.jpg",
+      "image2": "images/ufc_5/2.jpg",
+      "image3": "images/ufc_5/3.jpg",
+      "video": "https://www.youtube.com/embed/AkeoP2HQUdE",
+      "category": "ps5",
+      "genre": "спорт",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "драка"
+    },
+    {
+      "id": 588,
       "title": "TEKKEN 6",
       "description": "Вас ждёт невероятное количество сражений в одной игре! Графика с акцентом на захватывающие поединки, 40 уникальных персонажей и боевая система, доведённая до совершенства за многолетнюю историю серии.",
       "thumbnail": "images/tekken_6/thumbnail.jpg",
@@ -2583,7 +2598,7 @@
       "tag": "драка"
     },
     {
-      "id": 588,
+      "id": 589,
       "title": "TEKKEN 7",
       "description": "Любовь, месть, гордость. В созданной на основе движка Unreal Engine 4 игре TEKKEN 7 вас ждут красивейшие сюжетные битвы и поединки, в которых можно сражаться как с друзьями, так и соперниками.",
       "thumbnail": "images/tekken_7/thumbnail.jpg",
@@ -2609,6 +2624,20 @@
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
+      "tag": "открытый мир"
+    },
+    {
+      "id": 591,
+      "title": "Хогвартс. Наследие",
+      "description": "Захватывающая ролевая игра с открытым миром, который известен вам по книгам о Гарри Поттере. Отправляйтесь в путешествие, находите фантастических тварей, меняйте своего персонажа, варите зелья, изучайте заклинания, развивайте таланты, чтобы стать настоящим волшебником.",
+      "thumbnail": "images/hogwarts_legacy/thumbnail.jpg",
+      "image1": "images/hogwarts_legacy/1.jpg",
+      "image2": "images/hogwarts_legacy/2.jpg",
+      "image3": "images/hogwarts_legacy/3.jpg",
+      "video": "https://www.youtube.com/embed/n_2noromghk",
+      "category": "ps5",
+      "genre": "приключение",
+      "isChild": true,
       "tag": "открытый мир"
     },
     {
@@ -2817,20 +2846,6 @@
       "image2": "images/nioh/2.jpg",
       "image3": "images/nioh/3.jpg",
       "video": "https://youtu.be/aMTH7Byv5vE",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 634,
-      "title": "PAYDAY 2: ВЕРСИЯ «КРИМИНАЛЬНАЯ ВОЛНА»",
-      "description": "PAYDAY — увлекательный шутер для четырех игроков, в котором вы с друзьями грабите банки и получаете за это оплату.",
-      "thumbnail": "images/payday_2/thumbnail.jpg",
-      "image1": "images/payday_2/1.jpg",
-      "image2": "images/payday_2/2.jpg",
-      "image3": "images/payday_2/3.jpg",
-      "video": "https://youtu.be/MNvxtE1-0xQ",
       "category": "ps5",
       "genre": "экшн",
       "isChild": false,
@@ -4088,8 +4103,22 @@
       "isVeryChild": false,
       "tag": "смешная"
     },
-    {
+        {
       "id": 907,
+      "title": "Pets & Stuff",
+      "description": "Милая, веселая и расслабляющая игра, в которой вы становитесь умелым грумером и ветеринаром, используя разнообразные инструменты, лекарства и стильные аксессуары. Дайте волю своему воображению!",
+      "thumbnail": "images/pets_and_stuff/thumbnail.jpg",
+      "image1": "images/pets_and_stuff/1.jpg",
+      "image2": "images/pets_and_stuff/2.jpg",
+      "image3": "images/pets_and_stuff/3.jpg",
+      "video": "https://www.youtube.com/embed/3EHaXSbZ5gU",
+      "category": "oq2",
+      "genre": "симулятор",
+      "isChild": true,
+      "tag": "смешная"
+    },
+    {
+      "id": 908,
       "title": "Beat Saber",
       "description": "Погрузись в чарующий ритм, уровни ручной работы, электронную музыку и футуристический мир! Не отставая от музыки, рассекай мечами кубики нужного цвета.",
       "thumbnail": "images/beat_saber/thumbnail.jpg",
@@ -4103,7 +4132,7 @@
       "tag": "ритм"
     },
     {
-      "id": 908,
+      "id": 909,
       "title": "Hatsune Miku VR",
       "description": "Всемирно известная виртуальная певица Мику Хацунэ приглашает вас в свою VR музыкальную игру! Попытайтесь получить максимум очков, пока она танцует и поет некоторые из своих самых знаковых песен.",
       "thumbnail": "images/hatsune_miku/thumbnail.jpg",
