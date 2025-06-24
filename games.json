@@ -1721,20 +1721,6 @@
       "tag": "головоломка"
     },
     {
-      "id": 405,
-      "title": "Kayak VR: Mirage",
-      "description": "Потрясающее и волнующее путешествие по красивым и уникальным местам, созданное специально для виртуальной реальности. Маневрируйте нашим полностью физически точным каяком вокруг контрольных точек и станьте самым быстрым или расслабьтесь и используйте режим свободного перемещения для неспешной поездки и наслаждайтесь пейзажем.",
-      "thumbnail": "images/kayak_vr_mirage/thumbnail.jpg",
-      "image1": "images/kayak_vr_mirage/1.jpg",
-      "image2": "images/kayak_vr_mirage/2.jpg",
-      "image3": "images/kayak_vr_mirage/3.jpg",
-      "video": "https://www.youtube.com/embed/FxlRZYqLZWE",
-      "category": "psvr2",
-      "genre": "симулятор",
-      "isChild": true,
-      "tag": "экстрим"
-    },
-    {
       "id": 408,
       "title": "Star Wars: Tales from the Galaxy's Edge",
       "description": "Приключенческий боевик, в котором вы возьмете на себя роль техника по ремонту дроидов, работающего недалеко от Внешнего Кольца. Когда группа пиратов нападет на вас на Батуу, вы обнаружите, что любой в галактике может стать героем.",
@@ -1775,6 +1761,34 @@
       "genre": "квест",
       "isChild": true,
       "tag": "головоломка"
+    },
+        {
+      "id": 411,
+      "title": "Five Nights at Freddy's: Help Wanted VR",
+      "description": "FNaF VR: HW - это коллекция классических и оригинальных мини-игр, созданных во вселенной Five Nights.",
+      "thumbnail": "images/fnaf_vr/thumbnail.jpg",
+      "image1": "images/fnaf_vr/1.jpg",
+      "image2": "images/fnaf_vr/2.jpg",
+      "image3": "images/fnaf_vr/3.jpg",
+      "video": "https://www.youtube.com/embed/G1qD5j-RwJ0",
+      "category": "psvr2",
+      "genre": "хоррор",
+      "isChild": false,
+      "tag": "страшная"
+    },
+    {
+      "id": 412,
+      "title": "Five Nights at Freddy's: Help Wanted 2 VR",
+      "description": "Отправляйтесь в закулисье в качестве VIP-гостя и помогите волчице Роксанне и роботизированному персоналу подготовиться к выступлению в салоне пицца-плекса!",
+      "thumbnail": "images/fnaf_vr2/thumbnail.jpg",
+      "image1": "images/fnaf_vr2/1.jpg",
+      "image2": "images/fnaf_vr2/2.jpg",
+      "image3": "images/fnaf_vr2/3.jpg",
+      "video": "https://www.youtube.com/embed/3-OETgUnEeU",
+      "category": "psvr2",
+      "genre": "хоррор",
+      "isChild": false,
+      "tag": "страшная"
     },
     {
       "id": 500,
