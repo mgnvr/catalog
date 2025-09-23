@@ -1987,20 +1987,6 @@
       "tag": "боевик"
     },
     {
-      "id": 543,
-      "title": "Last of Us: Left Behind",
-      "description": "В «Одни из нас: Оставшиеся позади» поднимаются вопросы жизни и смерти, верности и любви. Начните опасное путешествие в хорошо принятом критиками предисловии к игре «Одни из нас».",
-      "thumbnail": "images/last_of_us_left_behind/thumbnail.jpg",
-      "image1": "images/last_of_us_left_behind/1.jpg",
-      "image2": "images/last_of_us_left_behind/2.jpg",
-      "image3": "images/last_of_us_left_behind/3.jpg",
-      "video": "https://www.youtube.com/embed/FjkM414zZRU",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 544,
       "title": "Marvel's Spider-Man",
       "description": "В Marvel Человек-паук вы будете играть за одного из самых культовых супергероев мира, мастера паутины, известного своими акробатическими способностями и талантом к импровизации, а также сможете насладиться новыми особенностями игрового процесса, которые ранее не появлялись в играх о Человеке-Пауке.",
@@ -2435,6 +2421,21 @@
       "tag": "драка"
     },
     {
+      "id": 576,
+      "title": "Mortal Kombat 1",
+      "description": "Откройте возрожденную вселенную Mortal Kombat, которую создал Бог огня Лю Кан. Mortal Kombat 1 провозглашает новую эру культовой франшизы с новой боевой системой, игровыми режимами и фаталити!",
+      "thumbnail": "images/mk_1/thumbnail.jpg",
+      "image1": "images/mk_1/1.jpg",
+      "image2": "images/mk_1/2.jpg",
+      "image3": "images/mk_1/3.jpg",
+      "video": "https://www.youtube.com/embed/7zkHyCh0pjE",
+      "category": "ps5",
+      "genre": "файтинг",
+      "isChild": false,
+      "isLocalMultiplayer": true,
+      "tag": "драка"
+    },
+    {
       "id": 577,
       "title": "FIFA 19",
       "description": "FIFA 19 — это новый улучшенный игровой процесс. Вас ждут новые непревзойденные игровые режимы и финал потрясающей истории Алекса Хантера в режиме «История: Чемпионы», новый режим знаменитой FIFA Ultimate Team и многое другое.",
@@ -2548,21 +2549,6 @@
       "image2": "images/ufc_3/2.jpg",
       "image3": "images/ufc_3/3.jpg",
       "video": "https://www.youtube.com/embed/FQUjlrEZglY",
-      "category": "ps5",
-      "genre": "спорт",
-      "isChild": false,
-      "isLocalMultiplayer": true,
-      "tag": "драка"
-    },
-    {
-      "id": 587,
-      "title": "UFC 5",
-      "description": "Благодаря улучшенной визуализации движка Frostbite ваши любимые бойцы теперь обладают беспрецедентной схожестью со своими реальными прототипами, а достоверность отображения окружения позволяет вам ощутить себя так, будто вы находитесь в самом настоящем октагоне и участвуете в реальном главном событии. На сцену выходит новая система реалистичного урона, позволяющая выстраивать более сложные и напряжённые стратегии ведения боя, ведь на ваши подвижность, защиту и выносливость влияют любые рассечения и полученные удары.",
-      "thumbnail": "images/ufc_5/thumbnail.jpg",
-      "image1": "images/ufc_5/1.jpg",
-      "image2": "images/ufc_5/2.jpg",
-      "image3": "images/ufc_5/3.jpg",
-      "video": "https://www.youtube.com/embed/AkeoP2HQUdE",
       "category": "ps5",
       "genre": "спорт",
       "isChild": false,
