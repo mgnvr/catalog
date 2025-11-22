@@ -1721,20 +1721,6 @@
       "tag": "сюжет"
     },
     {
-      "id": 409,
-      "title": "Synapse",
-      "description": "Экшен-шутер для двух джойстиков: освойте убийственный телекинез и палите в противника из всех орудий! Дайте волю своему внутреннему антигерою и вторгнитесь в подсознание злобного врага государства.",
-      "thumbnail": "images/synapse/thumbnail.jpg",
-      "image1": "images/synapse/1.jpg",
-      "image2": "images/synapse/2.jpg",
-      "image3": "images/synapse/3.jpg",
-      "video": "https://www.youtube.com/embed/d6dBQAboTZc",
-      "category": "psvr2",
-      "genre": "экшн",
-      "isChild": true,
-      "tag": "сюжет"
-    },
-    {
       "id": 411,
       "title": "Five Nights at Freddy's: Help Wanted VR",
       "description": "FNaF VR: HW - это коллекция классических и оригинальных мини-игр, созданных во вселенной Five Nights.",
@@ -1803,20 +1789,6 @@
       "genre": "многопользовательская",
       "isChild": false,
       "tag": "война"
-    },
-    {
-      "id": 504,
-      "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-      "description": "Обыграй, ограбь и обхитри противников, чтобы остаться единственным победителем в этой захватывающей игре, полной неожиданностей и волнующих моментов.",
-      "thumbnail": "images/pubg/thumbnail.jpg",
-      "image1": "images/pubg/1.jpg",
-      "image2": "images/pubg/2.jpg",
-      "image3": "images/pubg/3.jpg",
-      "video": "https://www.youtube.com/embed/CDKmbLlH0ek",
-      "category": "ps5",
-      "genre": "многопользовательская",
-      "isChild": false,
-      "tag": "баттлрояль"
     },
     {
       "id": 505,
@@ -2642,20 +2614,6 @@
       "tag": "баттлрояль"
     },
     {
-      "id": 598,
-      "title": "Tomb Raider: Definitive Edition",
-      "description": "Это специально адаптированный для консолей нового поколения приключенческий боевик о первых шагах юной Лары Крофт в качестве знаменитой расхитительницы гробниц. Лару ждут яростные схватки, гибкая система улучшения оружия и невероятные приключения на острове, полном тайн и смертельных опасностей.",
-      "thumbnail": "images/tomb_raider/thumbnail.jpg",
-      "image1": "images/tomb_raider/1.jpg",
-      "image2": "images/tomb_raider/2.jpg",
-      "image3": "images/tomb_raider/3.jpg",
-      "video": "https://www.youtube.com/embed/zF9m91y8Na0",
-      "category": "ps5",
-      "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
       "id": 599,
       "title": "Rise of the Tomb Raider: 20 Year Celebration",
       "description": "В издание входят: новая глава одиночного режима «Узы крови» , поддержка PlayStation®VR для «Уз крови», новый режим сражений с зомби «Кошмар Лары», совместный сетевой режим «Выносливость», уровень сложности «Экстремальное выживание» для основной кампании, костюм и пистолет 20 Year Celebration и 5 классических обликов Лары. Также в набор включены все ранее вышедшие дополнения.",
@@ -3388,20 +3346,6 @@
       "video": "https://www.youtube.com/embed/N9wt_cnSCdE",
       "category": "ps5",
       "genre": "экшн",
-      "isChild": false,
-      "tag": "боевик"
-    },
-    {
-      "id": 703,
-      "title": "Wolfenstein: The New Order",
-      "description": "Европа, 1960 год. Используя таинственные передовые технологии, запугивание и грубую силу, нацистская Германия победила во Второй мировой войне, поставив на колени даже самые сильные нации, и теперь держит весь земной шар в своем железном кулаке. Вы — Би Джей Бласковиц, американский солдат-герой. Только вы можете сломить ход истории.",
-      "thumbnail": "images/wolfenstein_new_order/thumbnail.jpg",
-      "image1": "images/wolfenstein_new_order/1.jpg",
-      "image2": "images/wolfenstein_new_order/2.jpg",
-      "image3": "images/wolfenstein_new_order/3.jpg",
-      "video": "https://www.youtube.com/embed/_Zlch2TNcLc",
-      "category": "ps5",
-      "genre": "шутер",
       "isChild": false,
       "tag": "боевик"
     },
