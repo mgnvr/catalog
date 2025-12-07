@@ -846,20 +846,6 @@
       "tag": "сражение"
     },
     {
-      "id": 78,
-      "title": "Please, Don't Touch Anything 3D",
-      "description": "Please, Don’t Touch Anything — нелинейная, изобилующая неординарными загадками головоломка с нажатием кнопок. Подменяя коллегу, вы оказываетесь перед загадочной консолью с экраном и красной кнопкой, но вам нельзя ничего трогать!",
-      "thumbnail": "images/please_dont_touch/thumbnail.jpg",
-      "image1": "images/please_dont_touch/1.jpg",
-      "image2": "images/please_dont_touch/2.jpg",
-      "image3": "images/please_dont_touch/3.jpg",
-      "video": "https://www.youtube.com/embed/Z4cH68fw4c8",
-      "category": "pcvr",
-      "genre": "квест",
-      "isChild": true,
-      "tag": "загадка"
-    },
-    {
       "id": 80,
       "title": "Fallout 4 VR",
       "description": "Fallout 4, легендарное пост-апокалиптическое приключение от Bethesda Game Studios, получает поддержку VR. В Fallout 4 VR вошла полная версия игры с новыми системами боя, создания предметов и строительства, измененных с учетом виртуальной реальности. Огромный мир пост-апокалиптический пустоши стал еще более живым.",
